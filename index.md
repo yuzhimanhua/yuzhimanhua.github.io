@@ -45,16 +45,16 @@ For further information, please see my [CV](CV.pdf).
 ## Selected Publications [[Google Scholar](https://scholar.google.com/citations?user=N0PrmgIAAAAJ&hl=en)]
 #### (\* indicates equal contribution. Unless otherwise specified, the paper is accepted as a research track long/regular paper.)
 ### 2021
-_MATCH: Metadata-Aware Text Classification in A Large Hierarchy_ [[PDF](papers/www21.pdf)] [[arXiv](https://arxiv.org/abs/2102.07349)] [[code](https://github.com/yuzhimanhua/MATCH)] [[video](https://www.youtube.com/watch?v=6PWuVunCBd4)]         
+_MATCH: Metadata-Aware Text Classification in A Large Hierarchy_ [[PDF](papers/www21.pdf)] [[arXiv](https://arxiv.org/abs/2102.07349)] [[code](https://github.com/yuzhimanhua/MATCH)]         
 **Yu Zhang**, Zhihong Shen, Yuxiao Dong, Kuansan Wang, and Jiawei Han.     
 [WWW 2021](https://www2021.thewebconf.org/). Ljubljana, Slovenia.
 
-_Hierarchical Metadata-Aware Document Categorization under Weak Supervision_ [[PDF](papers/wsdm21.pdf)] [[arXiv](https://arxiv.org/abs/2010.13556)] [[code](https://github.com/yuzhimanhua/HIMECat)] [[video](https://www.youtube.com/watch?v=LGIPx0sdino)]       
+_Hierarchical Metadata-Aware Document Categorization under Weak Supervision_ [[PDF](papers/wsdm21.pdf)] [[arXiv](https://arxiv.org/abs/2010.13556)] [[code](https://github.com/yuzhimanhua/HIMECat)]       
 **Yu Zhang**, Xiusi Chen, Yu Meng, and Jiawei Han.          
 [WSDM 2021](https://www.wsdm-conference.org/2021/). Jerusalem, Israel.
 
 ### 2020
-_Minimally Supervised Categorization of Text with Metadata_ [[PDF](papers/sigir20.pdf)] [[arXiv](https://arxiv.org/abs/2005.00624)] [[code](https://github.com/yuzhimanhua/MetaCat)] [[video](https://www.youtube.com/watch?v=FBG5QOvj238)]      
+_Minimally Supervised Categorization of Text with Metadata_ [[PDF](papers/sigir20.pdf)] [[arXiv](https://arxiv.org/abs/2005.00624)] [[code](https://github.com/yuzhimanhua/MetaCat)]      
 **Yu Zhang\***, Yu Meng\*, Jiaxin Huang, Frank F. Xu, Xuan Wang, and Jiawei Han.          
 [SIGIR 2020](https://sigir.org/sigir2020/). Xi'an, China.
 
