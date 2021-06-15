@@ -16,7 +16,7 @@ In summer 2016, I visited Carnegie Mellon University, working with Prof. [Kathle
 For further information, please see my [CV](CV.pdf).
 
 ## What's New [[What's Not New...](old.md)]
-2021-05/06 Invited to be a PC member of [CIKM 2021](https://www.cikm2021.org/) (Full Paper Track) and [ICLR 2022](https://iclr.cc/Conferences/2022/).
+2021-05 & 06 Invited to be a PC member of [CIKM 2021](https://www.cikm2021.org/) (Full Paper Track) and [ICLR 2022](https://iclr.cc/Conferences/2022/).
 
 2021-05-17 Started my (second) summer internship at Microsoft Research, Redmond, working with Dr. [Iris Shen](https://www.microsoft.com/en-us/research/people/zhihosh/).
 
@@ -24,7 +24,7 @@ For further information, please see my [CV](CV.pdf).
 
 2021-04-19 Attended [WWW 2021](https://www2021.thewebconf.org/) virtually to present our work.
 
-2021-03/04 Invited to be a PC member of [EMNLP 2021](https://2021.emnlp.org/) and [NeurIPS 2021](https://nips.cc/Conferences/2021/).
+2021-03 & 04 Invited to be a PC member of [EMNLP 2021](https://2021.emnlp.org/) and [NeurIPS 2021](https://nips.cc/Conferences/2021/).
 
 2021-03-08 Attended [WSDM 2021](https://www.wsdm-conference.org/2021/) virtually to present our work.
 
