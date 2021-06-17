@@ -24,7 +24,7 @@ For further information, please see my [CV](CV.pdf).
 
 2021-04-19 Attended [WWW 2021](https://www2021.thewebconf.org/) virtually to present our work.
 
-2021-03 & 04 Invited to be a PC member of [EMNLP 2021](https://2021.emnlp.org/) and [NeurIPS 2021](https://nips.cc/Conferences/2021/).
+2021-04 Invited to be a PC member of [NeurIPS 2021](https://nips.cc/Conferences/2021/).
 
 2021-03-08 Attended [WSDM 2021](https://www.wsdm-conference.org/2021/) virtually to present our work.
 
@@ -129,7 +129,7 @@ with Xuan Wang, Qi Li, and Jiawei Han.
 
 ## Professional Services
 **Conference Program Committee**        
-ACL 2021; NeurIPS 2021; ICLR 2021-2022; EMNLP 2020-2021; NAACL-HLT 2021; CIKM 2021        
+ACL 2021; NeurIPS 2021; ICLR 2021-2022; EMNLP 2020; NAACL-HLT 2021; CIKM 2021        
 
 **Journal Reviewer**         
 ACM Transactions on Knowledge Discovery from Data (TKDD)             
