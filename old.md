@@ -1,3 +1,7 @@
+2020-07-26 Attended [SIGIR 2020](https://sigir.org/sigir2020/) virtually to present our work. Served as a conference volunteer.
+
+2020-07 Invited to be a PC member of [ICLR 2021](https://iclr.cc/).
+
 2020-05-18 Started my summer internship at Microsoft Research, Redmond, working with Dr. [Iris Shen](https://www.microsoft.com/en-us/research/people/zhihosh/) and Dr. [Yuxiao Dong](https://ericdongyx.github.io/).
 
 2020-05-15 Our paper on Hierarchical Topic Mining was accepted by [KDD 2020](https://www.kdd.org/kdd2020/) research track! The acceptance rate is 16.9% (216/1279).
