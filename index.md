@@ -38,10 +38,6 @@ For further information, please see my [CV](CV.pdf).
 
 2020-10-15 Our paper on Hierarchical Metadata-Aware Document Categorization was accepted by [WSDM 2021](https://www.wsdm-conference.org/2021/)! The acceptance rate is 18.6% (112/603).
 
-2020-07-26 Attended [SIGIR 2020](https://sigir.org/sigir2020/) virtually to present our work. Served as a conference volunteer.
-
-2020-07 Invited to be a PC member of [ICLR 2021](https://iclr.cc/).
-
 ## Selected Publications [[Google Scholar](https://scholar.google.com/citations?user=N0PrmgIAAAAJ&hl=en)]
 #### (\* indicates equal contribution. Unless otherwise specified, the paper is accepted as a research track long/regular paper.)
 ### 2021
