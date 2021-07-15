@@ -106,7 +106,7 @@ _Top-K Influential Nodes in Social Networks: A Game Perspective_ [[PDF](papers/s
 [SIGIR 2017](http://sigir.org/sigir2017/). Shinjuku, Tokyo, Japan. (Short) 
 
 ## Conference Tutorials
-_On the Power of Pre-Trained Text Representations: Models and Applications in Text Mining_        
+_On the Power of Pre-Trained Text Representations: Models and Applications in Text Mining_ [[PDF](papers/kdd21tut.pdf)]       
 with Yu Meng, Jiaxin Huang, and Jiawei Han.        
 [KDD 2021](https://www.kdd.org/kdd2021/). Singapore.
 
