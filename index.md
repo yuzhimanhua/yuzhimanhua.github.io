@@ -1,0 +1,262 @@
+## Contact
+Email: yuz9 [AT] illinois [DOT] edu     
+Office: Room 1117, Siebel Center for Computer Science, 201 N. Goodwin Ave, Urbana, IL 61801 
+
+## About Me
+I am a Ph.D. candidate in the [Data Mining Group](http://dm1.cs.uiuc.edu) at the University of Illinois at Urbana-Champaign, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu). I finished my M.Sc. study in the same group in 2019. My research has been supported by the [Dissertation Completion Fellowship](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/dissertation-completion-fellowship) (awarded by the UIUC Graduate College) and the [Yunni & Maxine Pao Memorial Fellowship](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/yunni-and-maxine-pao-memorial-fellowship) (awarded by the UIUC College of Engineering).
+
+Prior to UIUC, I received my B.Sc. degree in Computer Science from Peking University in 2017, advised by Prof. [Yan Zhang](https://www.cis.pku.edu.cn/szdw/zzjs/zy.htm). 
+
+In the summers of 2022, 2021, and 2020, I interned at Microsoft Research Redmond three times, working in different groups with different researchers, including Dr. [Iris Shen](https://www.microsoft.com/en-us/research/people/zhihosh), Dr. [Hao Cheng](https://www.microsoft.com/en-us/research/people/chehao), Dr. [Xiaodong Liu](https://www.microsoft.com/en-us/research/people/xiaodl), and Dr. [Yuxiao Dong](http://keg.cs.tsinghua.edu.cn/yuxiao).
+
+In the summer of 2016, I visited Carnegie Mellon University, working with Prof. [Kathleen M. Carley](https://s3d.cmu.edu/people/core-faculty/carley-kathleen.html).
+
+For further information, please see my [CV](CV.pdf).
+
+<span style="color:red">I am on the job market for tenure-track faculty positions!</span>
+
+## Research Interests
+Graph-enhanced (weakly supervised, zero-shot, few-shot) text mining:      
+[[WWW 2022](papers/www22zhang.pdf), [WSDM 2022](papers/wsdm22.pdf), [WSDM 2021](papers/wsdm21.pdf), [SIGIR 2020](papers/sigir20.pdf), [ICDM 2019](papers/icdm19.pdf)]
+
+Graph-enhanced language model pre-training:     
+[[KDD 2023a](papers/kdd23jin.pdf), [ICLR 2023](papers/iclr23.pdf), [WWW 2021](papers/www21.pdf)]
+
+Data mining and NLP for science (biomedicine, science of science):      
+[[arXiv 2023](https://arxiv.org/pdf/2310.14483.pdf), [EMNLP 2023](papers/emnlp23findings.pdf), [KDD 2023b](papers/kdd23zhang.pdf), [WWW 2023](papers/www23.pdf), [Bioinformatics 2019](https://academic.oup.com/bioinformatics/article-pdf/35/10/1745/48970159/bioinformatics_35_10_1745.pdf)]
+
+## What's New [[What's Not New...](old.md)]
+2024-01 to 2024-06 Invited to be a PC member of [KDD 2024](https://kdd2024.kdd.org).
+
+2024-03-03 Attended [WSDM 2024](https://www.wsdm-conference.org/2024/) in Mérida, Mexico (in person) to present our tutorial and give a keynote at the [Machine Learning on Graphs (MLoG) Workshop](https://mlog-workshop.github.io/) [[slides](tutorials/wsdm2024_mlog_keynote.pdf)].
+
+2023-07 to 2023-12 Invited to be a PC member of [WSDM 2024](https://www.wsdm-conference.org/2024), [ICLR 2024](https://iclr.cc/Conferences/2024), [WWW 2024](https://www2024.thewebconf.org), [SDM 2024](https://www.siam.org/conferences/cm/conference/sdm24), and [ICML 2024](https://icml.cc/Conferences/2024).
+
+2023-12-09 Our paper on Seed-Guided Entity Typing was accepted by [AAAI 2024](https://aaai.org/aaai-conference)! The acceptance rate is 23.7% (2342/9862).
+
+2023-12-06 Attended [EMNLP 2023](https://2023.emnlp.org) in Singapore (in person) to present our paper.
+
+2023-10-28 Our tutorial proposal on Joint Text and Graph Modeling was accepted by [WSDM 2024](https://www.wsdm-conference.org/2024) tutorial track!
+
+2023-10-07 Two papers on Scientific Language Model Pre-training and Weakly Supervised Text Classification were accepted by [EMNLP 2023](https://2023.emnlp.org) (1 main conference + 1 findings)!
+
+2023-08 Attended [KDD 2023](https://kdd.org/kdd2023) in Long Beach, CA (in person) to present our research paper and tutorial.
+
+2023-08-09 Honored to be chosen for the [Best Reviewer Award](awards/KDD23_Best_Reviewer.pdf) by [KDD 2023](https://kdd.org/kdd2023)!
+
+## Selected Publications [[Full List](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=N0PrmgIAAAAJ&sortby=pubdate)]
+#### ("\*" indicates equal contribution. Unless otherwise specified, the paper is accepted as a research track long/regular paper.)
+
+### Preprint
+_"Why Should I Review This Paper?" Unifying Semantic, Topic, and Citation Factors for Paper-Reviewer Matching_     
+**Yu Zhang\***, Yanzhen Shen\*, Xiusi Chen, Bowen Jin, and Jiawei Han.     
+[arXiv:2310.14483](https://arxiv.org/abs/2310.14483)
+
+_Learning Multiplex Embeddings on Text-rich Networks with One Text Encoder_     
+Bowen Jin, Wentao Zhang, **Yu Zhang**, Yu Meng, Han Zhao, and Jiawei Han.     
+[arXiv:2310.06684](https://arxiv.org/abs/2310.06684)
+
+_Ontology Enrichment for Effective Fine-grained Entity Typing_     
+Siru Ouyang, Jiaxin Huang, Pranav Pillai, Yunyi Zhang, **Yu Zhang**, and Jiawei Han.     
+[arXiv:2310.07795](https://arxiv.org/abs/2310.07795)
+
+### 2024
+_Seed-Guided Fine-Grained Entity Typing in Science and Engineering Domains_ [[PDF](papers/aaai24.pdf)] [[arXiv](https://arxiv.org/abs/2401.13129)] [[code](https://github.com/yuzhimanhua/SEType)]     
+**Yu Zhang\***, Yunyi Zhang\*, Yanzhen Shen, Yu Deng, Lucian Popa, Larisa Shwartz, ChengXiang Zhai, and Jiawei Han.     
+[AAAI 2024](https://aaai.org/aaai-conference). Vancouver, Canada.
+
+### 2023
+_Pre-training Multi-task Contrastive Learning Models for Scientific Literature Understanding_ [[PDF](papers/emnlp23findings.pdf)] [[arXiv](https://arxiv.org/abs/2305.14232)] [[project page](https://scimult.github.io)] [[code](https://github.com/yuzhimanhua/SciMult)] [[model](https://huggingface.co/yuz9yuz/SciMult/tree/main)] [[dataset](https://drive.google.com/file/d/1hoUAInDVO_UYnQiOOoVuBjwnVgY0BosO/view?usp=drive_link)] [[PMC-Patients leaderboard](https://pmc-patients.github.io)]      
+**Yu Zhang\***, Hao Cheng\*, Zhihong Shen, Xiaodong Liu, Ye-Yi Wang, and Jianfeng Gao.     
+[EMNLP 2023 Findings](https://2023.emnlp.org). Singapore, Singapore.
+
+_Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers_ [[PDF](papers/kdd23zhang.pdf)] [[arXiv](https://arxiv.org/abs/2306.14003)] [[code](https://github.com/yuzhimanhua/FUTEX)]      
+**Yu Zhang**, Bowen Jin, Xiusi Chen, Yanzhen Shen, Yunyi Zhang, Yu Meng, and Jiawei Han.     
+[KDD 2023](https://kdd.org/kdd2023). Long Beach, CA, USA.
+
+_The Effect of Metadata on Scientific Literature Tagging: A Cross-Field Cross-Model Study_ [[PDF](papers/www23.pdf)] [[arXiv](https://arxiv.org/abs/2302.03341)] [[code](https://github.com/yuzhimanhua/MAPLE)] [[dataset](https://doi.org/10.5281/zenodo.7611544)]    
+**Yu Zhang**, Bowen Jin, Qi Zhu, Yu Meng, and Jiawei Han.      
+[WWW 2023](https://www2023.thewebconf.org). Austin, TX, USA.
+
+_Effective Seed-Guided Topic Discovery by Integrating Multiple Types of Contexts_ [[PDF](papers/wsdm23.pdf)] [[arXiv](https://arxiv.org/abs/2212.06002)] [[code](https://github.com/yzhan238/SeedTopicMine)]   
+**Yu Zhang\***, Yunyi Zhang\*, Martin Michalski\*, Yucheng Jiang\*, Yu Meng\*, and Jiawei Han.     
+[WSDM 2023](https://www.wsdm-conference.org/2023). Singapore, Singapore.
+
+_PIEClass: Weakly-Supervised Text Classification with Prompting and Noise-Robust Iterative Ensemble Training_ [[PDF](papers/emnlp23.pdf)] [[arXiv](https://arxiv.org/abs/2305.13723)] [[code](https://github.com/yzhan238/PIEClass)]    
+Yunyi Zhang, Minhao Jiang, Yu Meng, **Yu Zhang**, and Jiawei Han.     
+[EMNLP 2023](https://2023.emnlp.org). Singapore, Singapore.
+
+_Heterformer: Transformer-based Deep Node Representation Learning on Heterogeneous Text-Rich Networks_ [[PDF](papers/kdd23jin.pdf)] [[arXiv](https://arxiv.org/abs/2205.10282)] [[code](https://github.com/PeterGriffinJin/Heterformer)]    
+Bowen Jin, **Yu Zhang**, Qi Zhu, and Jiawei Han.     
+[KDD 2023](https://kdd.org/kdd2023). Long Beach, CA, USA.
+
+_Patton: Language Model Pretraining on Text-Rich Networks_ [[PDF](papers/acl23jin.pdf)] [[arXiv](https://arxiv.org/abs/2305.12268)] [[code](https://github.com/PeterGriffinJin/Patton)]     
+Bowen Jin, Wentao Zhang, **Yu Zhang**, Yu Meng, Xinyang Zhang, Qi Zhu, and Jiawei Han.     
+[ACL 2023](https://2023.aclweb.org). Toronto, Canada.
+
+_Chain-of-Skills: A Configurable Model for Open-Domain Question Answering_ [[PDF](papers/acl23ma.pdf)] [[arXiv](https://arxiv.org/abs/2305.03130)] [[code](https://github.com/Mayer123/UDT-QA/blob/main/README_COS.md)]     
+Kaixin Ma, Hao Cheng, **Yu Zhang**, Xiaodong Liu, Eric Nyberg, and Jianfeng Gao.     
+[ACL 2023](https://2023.aclweb.org). Toronto, Canada.
+
+_Tuning Language Models as Training Data Generators for Augmentation-Enhanced Few-Shot Learning_ [[PDF](papers/icml23.pdf)] [[arXiv](https://arxiv.org/abs/2211.03044)] [[code](https://github.com/yumeng5/FewGen)]     
+Yu Meng, Martin Michalski, Jiaxin Huang, **Yu Zhang**, Tarek Abdelzaher, and Jiawei Han     
+[ICML 2023](https://icml.cc/Conferences/2023). Honolulu, HI, USA.
+
+_Edgeformers: Graph-Empowered Transformers for Representation Learning on Textual-Edge Networks_ [[PDF](papers/iclr23.pdf)] [[arXiv](https://arxiv.org/abs/2302.11050)] [[code](https://github.com/PeterGriffinJin/Edgeformers)]     
+Bowen Jin, **Yu Zhang**, Yu Meng, and Jiawei Han.     
+[ICLR 2023](https://iclr.cc/Conferences/2023). Kigali, Rwanda.
+
+_Gotta: Generative Few-shot Question Answering by Prompt-based Cloze Data Augmentation_ [[PDF](papers/sdm23.pdf)] [[arXiv](https://arxiv.org/abs/2306.04101)]     
+Xiusi Chen, **Yu Zhang**, Jinliang Deng, Jyun-Yu Jiang, and Wei Wang.     
+[SDM 2023](https://www.siam.org/conferences/cm/conference/sdm23). Minneapolis, MN, USA. (Regular Paper, <span style="color:red">Best Poster Award Honorable Mention</span>)
+
+### 2022
+_Seed-Guided Topic Discovery with Out-of-Vocabulary Seeds_ [[PDF](papers/naacl22.pdf)] [[arXiv](https://arxiv.org/abs/2205.01845)] [[code](https://github.com/yuzhimanhua/SeeTopic)]       
+**Yu Zhang**, Yu Meng, Xuan Wang, Sheng Wang, and Jiawei Han.       
+[NAACL 2022](https://2022.naacl.org). Seattle, WA, USA.
+
+_Metadata-Induced Contrastive Learning for Zero-Shot Multi-Label Text Classification_ [[PDF](papers/www22zhang.pdf)] [[arXiv](https://arxiv.org/abs/2202.05932)] [[code](https://github.com/yuzhimanhua/MICoL)]     
+**Yu Zhang**, Zhihong Shen, Chieh-Han Wu, Boya Xie, Junheng Hao, Ye-Yi Wang, Kuansan Wang, and Jiawei Han.      
+[WWW 2022](https://www2022.thewebconf.org). Lyon, France.
+
+_MotifClass: Weakly Supervised Text Classification with Higher-order Metadata Information_ [[PDF](papers/wsdm22.pdf)] [[arXiv](https://arxiv.org/abs/2111.04022)] [[code](https://github.com/yuzhimanhua/MotifClass)]           
+**Yu Zhang\***, Shweta Garg\*, Yu Meng, Xiusi Chen, and Jiawei Han.          
+[WSDM 2022](https://www.wsdm-conference.org/2022). Tempe, AZ, USA.
+
+_Heterogeneous Network Representation Learning: A Unified Framework with Survey and Benchmark_ [[PDF](https://ieeexplore.ieee.org/document/9300240)] [[arXiv](https://arxiv.org/abs/2004.00216)] [[code](https://github.com/yangji9181/HNE)]       
+Carl Yang\*, Yuxin Xiao\*, **Yu Zhang\***, Yizhou Sun, and Jiawei Han.         
+[TKDE](https://www.computer.org/csdl/journal/tk). Volume 34, Issue 10. IEEE.
+
+_Generating Training Data with Language Models: Towards Zero-Shot Language Understanding_ [[PDF](papers/neurips22.pdf)] [[arXiv](https://arxiv.org/abs/2202.04538)] [[code](https://github.com/yumeng5/SuperGen)]       
+Yu Meng, Jiaxin Huang, **Yu Zhang**, and Jiawei Han.      
+[NeurIPS 2022](https://neurips.cc/Conferences/2022). New Orleans, LA, USA.
+
+_Topic Discovery via Latent Space Clustering of Pretrained Language Model Representations_ [[PDF](papers/www22meng.pdf)] [[arXiv](https://arxiv.org/abs/2202.04582)] [[code](https://github.com/yumeng5/TopClus)]     
+Yu Meng, Yunyi Zhang, Jiaxin Huang, **Yu Zhang**, and Jiawei Han.      
+[WWW 2022](https://www2022.thewebconf.org). Lyon, France.
+
+### 2021
+_MATCH: Metadata-Aware Text Classification in A Large Hierarchy_ [[PDF](papers/www21.pdf)] [[arXiv](https://arxiv.org/abs/2102.07349)] [[code](https://github.com/yuzhimanhua/MATCH)]         
+**Yu Zhang**, Zhihong Shen, Yuxiao Dong, Kuansan Wang, and Jiawei Han.     
+[WWW 2021](https://www2021.thewebconf.org). Ljubljana, Slovenia.
+
+_Hierarchical Metadata-Aware Document Categorization under Weak Supervision_ [[PDF](papers/wsdm21.pdf)] [[arXiv](https://arxiv.org/abs/2010.13556)] [[code](https://github.com/yuzhimanhua/HIMECat)]       
+**Yu Zhang**, Xiusi Chen, Yu Meng, and Jiawei Han.          
+[WSDM 2021](https://www.wsdm-conference.org/2021). Jerusalem, Israel.
+
+_Distantly-Supervised Named Entity Recognition with Noise-Robust Learning and Language Model Augmented Self-Training_ [[PDF](papers/emnlp21.pdf)] [[arXiv](https://arxiv.org/abs/2109.05003)] [[code](https://github.com/yumeng5/RoSTER)]       
+Yu Meng, Yunyi Zhang, Jiaxin Huang, Xuan Wang, **Yu Zhang**, Heng Ji, and Jiawei Han.         
+[EMNLP 2021](https://2021.emnlp.org). Punta Cana, Dominican Republic.
+
+### 2020
+_Minimally Supervised Categorization of Text with Metadata_ [[PDF](papers/sigir20.pdf)] [[arXiv](https://arxiv.org/abs/2005.00624)] [[code](https://github.com/yuzhimanhua/MetaCat)]      
+**Yu Zhang\***, Yu Meng\*, Jiaxin Huang, Frank F. Xu, Xuan Wang, and Jiawei Han.          
+[SIGIR 2020](https://sigir.org/sigir2020). Xi'an, China.
+
+_Hierarchical Topic Mining via Joint Spherical Tree and Text Embedding_ [[PDF](papers/kdd20.pdf)] [[arXiv](https://arxiv.org/abs/2007.09536)] [[code](https://github.com/yumeng5/JoSH)]       
+Yu Meng, Yunyi Zhang, Jiaxin Huang, **Yu Zhang**, Chao Zhang, and Jiawei Han.        
+[KDD 2020](https://www.kdd.org/kdd2020). San Diego, CA, USA.
+
+_Discriminative Topic Mining via Category-Name Guided Text Embedding_ [[PDF](papers/www20.pdf)] [[arXiv](https://arxiv.org/abs/1908.07162)] [[code](https://github.com/yumeng5/CatE)]       
+Yu Meng, Jiaxin Huang, Guangyuan Wang, Zihan Wang, Chao Zhang, **Yu Zhang**, and Jiawei Han.         
+[WWW 2020](https://www2020.thewebconf.org). Taipei, Taiwan.
+
+### 2019
+_HiGitClass: Keyword-Driven Hierarchical Classification of GitHub Repositories_ [[PDF](papers/icdm19.pdf)] [[arXiv](https://arxiv.org/abs/1910.07115)] [[code](https://github.com/yuzhimanhua/HiGitClass)]         
+**Yu Zhang**, Frank F. Xu, Sha Li, Yu Meng, Xuan Wang, Qi Li, and Jiawei Han.         
+[ICDM 2019](http://icdm2019.bigke.org). Beijing, China.
+
+_Cross-type Biomedical Named Entity Recognition with Deep Multi-Task Learning_ [[PDF](https://academic.oup.com/bioinformatics/article/35/10/1745/5126922)] [[arXiv](https://arxiv.org/abs/1801.09851)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/256453)] [[code](https://github.com/yuzhimanhua/Multi-BioNER)]       
+Xuan Wang, **Yu Zhang**, Xiang Ren, Yuhao Zhang, Marinka Zitnik, Jingbo Shang, Curtis Langlotz, and Jiawei Han.        
+[Bioinformatics](https://academic.oup.com/bioinformatics). Volume 35, Issue 10. Oxford University Press.
+
+_Integrating Local Context and Global Cohesiveness for Open Information Extraction_ [[PDF](papers/wsdm19.pdf)] [[arXiv](https://arxiv.org/abs/1804.09931)] [[code](https://github.com/GentleZhu/ReMine)]         
+Qi Zhu, Xiang Ren, Jingbo Shang, **Yu Zhang**, Ahmed El-Kishky, and Jiawei Han.         
+[WSDM 2019](http://www.wsdm-conference.org/2019). Melbourne, VIC, Australia.               
+
+### 2018
+_Weakly-supervised Relation Extraction by Pattern-enhanced Embedding Learning_ [[PDF](papers/www18qu.pdf)] [[arXiv](https://arxiv.org/abs/1711.03226)] [[code](https://github.com/mnqu/REPEL)]            
+Meng Qu, Xiang Ren, **Yu Zhang**, and Jiawei Han.    
+[WWW 2018](https://www2018.thewebconf.org). Lyon, France.
+
+_Open Information Extraction with Global Structure Constraints_ [[PDF](papers/www18zhu.pdf)] [[code](https://github.com/GentleZhu/ReMine)]        
+Qi Zhu, Xiang Ren, Jingbo Shang, **Yu Zhang**, Frank F. Xu, and Jiawei Han.            
+[WWW 2018](https://www2018.thewebconf.org). Lyon, France. (Poster, <span style="color:red">Best Poster Award Honorable Mention</span>)
+
+### 2017
+_RATE: Overcoming Noise and Sparsity of Textual Features in Real-Time Location Estimation_ [[PDF](papers/cikm17.pdf)] [[arXiv](https://arxiv.org/abs/2111.06515)] [[code](https://github.com/yuzhimanhua/Location-Inference)]        
+**Yu Zhang**, Wei Wei, Binxuan Huang, Kathleen M. Carley, and Yan Zhang.    
+[CIKM 2017](http://www.cikmconference.org/CIKM2017). Singapore, Singapore. (Short Paper)      
+
+_Top-K Influential Nodes in Social Networks: A Game Perspective_ [[PDF](papers/sigir17.pdf)] [[code](https://github.com/yuzhimanhua/Influence-Maximization)]      
+**Yu Zhang** and Yan Zhang.    
+[SIGIR 2017](http://sigir.org/sigir2017). Shinjuku, Tokyo, Japan. (Short Paper)
+
+## Conference Tutorials (In Proceedings)
+_Bridging Text Data and Graph Data: Towards Semantics and Structure-aware Knowledge Discovery_ [[PDF](https://dl.acm.org/doi/10.1145/3616855.3636450)] [[tutorial page](https://peterjin.me/tutorials/wsdm24.html)]    
+Bowen Jin, **Yu Zhang**, Sha Li, and Jiawei Han.     
+[WSDM 2024](https://www.wsdm-conference.org/2024). Mérida, Mexico. (Tutorial)
+
+_Pretrained Language Representations for Text Understanding: A Weakly-Supervised Perspective_ [[PDF](https://dl.acm.org/doi/10.1145/3580305.3599569)] [[tutorial page](https://yumeng5.github.io/kdd23-tutorial)]      
+Yu Meng, Jiaxin Huang, **Yu Zhang**, Yunyi Zhang, and Jiawei Han.     
+[KDD 2023](https://kdd.org/kdd2023). Long Beach, CA, USA. (Tutorial)
+
+_Tutorials at The Web Conference 2023_ [[PDF](https://dl.acm.org/doi/10.1145/3543873.3587713)] [[tutorial page](https://yumeng5.github.io/www23-tutorial)]     
+Valeria Fionda, Olaf Hartig, et al. (including **Yu Zhang**)     
+[WWW 2023](https://www2023.thewebconf.org). Austin, TX, USA. (Tutorial)
+
+_Mining Structures from Massive Texts by Exploring the Power of Pre-trained Language Models_ [[PDF](https://openproceedings.org/2023/conf/edbt/3-paper-201.pdf)] [[tutorial page](tutorials/edbt2023.md)]    
+**Yu Zhang**, Yunyi Zhang, and Jiawei Han.     
+[EDBT 2023](http://edbticdt2023.cs.uoi.gr). Ioannina, Greece. (Tutorial)
+
+_Adapting Pretrained Representations for Text Mining_ [[PDF](https://dl.acm.org/doi/10.1145/3534678.3542607)] [[tutorial page](https://yumeng5.github.io/kdd22-tutorial)]      
+Yu Meng, Jiaxin Huang, **Yu Zhang**, and Jiawei Han.        
+[KDD 2022](https://www.kdd.org/kdd2022). Washington, DC, USA. (Tutorial)
+
+_On the Power of Pre-Trained Text Representations: Models and Applications in Text Mining_ [[PDF](https://dl.acm.org/doi/10.1145/3447548.3470810)] [[tutorial page](https://yumeng5.github.io/kdd21-tutorial)]   
+Yu Meng, Jiaxin Huang, **Yu Zhang**, and Jiawei Han.        
+[KDD 2021](https://www.kdd.org/kdd2021). Singapore, Singapore. (Tutorial)
+
+## Honors and Awards
+**KDD Best Reviewer** (_30 in 1469_), 2023     
+**Dissertation Completion Fellowship, Graduate College, UIUC** (_the only recipient from CS_), 2023     
+**WWW Best Reviewer**, 2023     
+**SDM Best Poster Award Honorable Mention**, 2023       
+**CIKM Best Reviewer**, 2022     
+**Yunni & Maxine Pao Memorial Fellowship, the Grainger College of Engineering, UIUC**, 2022     
+**WWW Student Scholarship**, 2021     
+**WSDM Student Travel Grant**, 2021, 2022, 2023, 2024     
+**WWW Best Poster Award Honorable Mention**, 2018     
+**Outstanding Undergraduate Thesis Award, School of EECS, Peking University** (_10 in 320_), 2017     
+**Outstanding Graduates, Peking University**, 2017     
+**SIGIR Student Travel Grant**, 2017, 2020     
+**China National Scholarship** (_top 1% in Peking University_), 2014     
+**First Prize, National Olympiad in Informatics in Provinces**, 2011, 2012
+
+## Professional Services
+**Conference Program Committee**        
+KDD 2022-2024 (**Best Reviewer 2023**); WWW 2022-2024 (**Best Reviewer 2023**); WSDM 2023-2024;      
+CIKM 2021-2023 (**Best Reviewer 2022**); SDM 2024; ECML/PKDD 2022;           
+NeurIPS 2021-2022; ICML 2022-2024; ICLR 2021-2024; AAAI 2022;         
+ACL 2021, 2023; EMNLP 2020, 2022-2023; NAACL 2021; COLING 2022         
+
+**Journal Reviewer**         
+IEEE Transactions on Knowledge and Data Engineering (TKDE);         
+ACM Transactions on Knowledge Discovery from Data (TKDD);         
+ACM Transactions on the Web (TWEB) (**Distinguished Reviewer**);      
+IEEE Transactions on Audio, Speech and Language Processing (TASLP);      
+IEEE Transactions on Big Data (TBD);         
+IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)
+
+**Student Volunteer**       
+SIGIR 2020; KDD 2022-2023        
+
+**Conference Session Chair**     
+WWW 2023
+
+## Miscellany
+I was born and raised in Shanghai, China.
+
+I like taking MOOCs when I intend to learn something as a beginner. Some MOOCs I have finished: [Networks](mooc/Networks.pdf) (2015-04), [Model Thinking](mooc/ModelThinking.pdf) (2015-05), [Probability](mooc/Probability.pdf) (2015-05), [Economics](mooc/Economics.pdf) (2018-08).
+
+I played bridge during high school and [undergraduate](https://bbs.pku.edu.cn/v2/post-read.php?bid=362&threadid=15740792) time.
