@@ -16,17 +16,17 @@ For further information, please see my [CV](CV.pdf).
 <span style="color:red">I am on the job market for tenure-track faculty positions!</span>
 
 ## Research Interests
-Graph-enhanced (weakly supervised, zero-shot, few-shot) text mining:      
-[[WWW 2022](papers/www22zhang.pdf), [WSDM 2022](papers/wsdm22.pdf), [WSDM 2021](papers/wsdm21.pdf), [SIGIR 2020](papers/sigir20.pdf), [ICDM 2019](papers/icdm19.pdf)]
+Structure-Enhanced Text Mining:      
+[[WWW 2022](papers/www22zhang.pdf), [WSDM 2022](papers/wsdm22.pdf), [WWW 2021](papers/www21.pdf), [WSDM 2021](papers/wsdm21.pdf), [SIGIR 2020](papers/sigir20.pdf)]
 
-Graph-enhanced language model pre-training:     
-[[KDD 2023a](papers/kdd23jin.pdf), [ICLR 2023](papers/iclr23.pdf), [WWW 2021](papers/www21.pdf)]
+Large Language Models + Graph:     
+[[KDD 2023a](papers/kdd23jin.pdf), [ICLR 2023](papers/iclr23.pdf)]
 
-Data mining and NLP for science (biomedicine, science of science):      
+Data Mining and NLP for Science (Biomedicine, Science of Science):      
 [[arXiv 2023](https://arxiv.org/pdf/2310.14483.pdf), [EMNLP 2023](papers/emnlp23findings.pdf), [KDD 2023b](papers/kdd23zhang.pdf), [WWW 2023](papers/www23.pdf), [Bioinformatics 2019](https://academic.oup.com/bioinformatics/article-pdf/35/10/1745/48970159/bioinformatics_35_10_1745.pdf)]
 
 ## What's New [[What's Not New...](old.md)]
-2024-01 to 2024-06 Invited to be a PC member of [KDD 2024](https://kdd2024.kdd.org).
+2024-01 to 2024-06 Invited to be a PC member of [KDD 2024](https://kdd2024.kdd.org) and [CIKM 2024](https://cikm2024.org/).
 
 2024-03-03 Attended [WSDM 2024](https://www.wsdm-conference.org/2024/) in Mérida, Mexico (in person) to present our tutorial and give a keynote at the [Machine Learning on Graphs (MLoG) Workshop](https://mlog-workshop.github.io/) [[slides](tutorials/wsdm2024_mlog_keynote.pdf)].
 
@@ -236,7 +236,7 @@ Yu Meng, Jiaxin Huang, **Yu Zhang**, and Jiawei Han.
 ## Professional Services
 **Conference Program Committee**        
 KDD 2022-2024 (**Best Reviewer 2023**); WWW 2022-2024 (**Best Reviewer 2023**); WSDM 2023-2024;      
-CIKM 2021-2023 (**Best Reviewer 2022**); SDM 2024; ECML/PKDD 2022;           
+CIKM 2021-2024 (**Best Reviewer 2022**); SDM 2024; ECML/PKDD 2022;           
 NeurIPS 2021-2022; ICML 2022-2024; ICLR 2021-2024; AAAI 2022;         
 ACL 2021, 2023; EMNLP 2020, 2022-2023; NAACL 2021; COLING 2022         
 
