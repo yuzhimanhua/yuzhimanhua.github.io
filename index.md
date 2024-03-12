@@ -52,10 +52,6 @@ _"Why Should I Review This Paper?" Unifying Semantic, Topic, and Citation Factor
 **Yu Zhang\***, Yanzhen Shen\*, Xiusi Chen, Bowen Jin, and Jiawei Han.     
 [arXiv:2310.14483](https://arxiv.org/abs/2310.14483)
 
-_A Unified Taxonomy-Guided Instruction Tuning Framework for Entity Set Expansion and Taxonomy Expansion_     
-Yanzhen Shen\*, **Yu Zhang\***, Yunyi Zhang, and Jiawei Han.     
-[arXiv:2402.13405](https://arxiv.org/abs/2402.13405)
-
 _Ontology Enrichment for Effective Fine-grained Entity Typing_     
 Siru Ouyang, Jiaxin Huang, Pranav Pillai, Yunyi Zhang, **Yu Zhang**, and Jiawei Han.     
 [arXiv:2310.07795](https://arxiv.org/abs/2310.07795)
