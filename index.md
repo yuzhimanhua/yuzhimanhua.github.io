@@ -28,7 +28,7 @@ Data Mining and NLP for Science (Biomedicine, Science of Science):
 ## What's New [[What's Not New...](old.md)]
 2024-01 to 2024-06 Invited to be a PC member of [KDD 2024](https://kdd2024.kdd.org) and [CIKM 2024](https://cikm2024.org/).
 
-2024-03-03 Attended [WSDM 2024](https://www.wsdm-conference.org/2024/) in Mérida, Mexico (in person) to present our tutorial and give a keynote at the [Machine Learning on Graphs (MLoG) Workshop](https://mlog-workshop.github.io/) [[slides](tutorials/wsdm2024_mlog_keynote.pdf)].
+2024-03-03 Attended [WSDM 2024](https://www.wsdm-conference.org/2024/) in Mérida, Mexico (in person) to present our tutorial and give a keynote at the [Machine Learning on Graphs (MLoG) Workshop](https://mlog-workshop.github.io/) [[slides](talks/wsdm2024_mlog_keynote.pdf)].
 
 2023-07 to 2023-12 Invited to be a PC member of [WSDM 2024](https://www.wsdm-conference.org/2024), [ICLR 2024](https://iclr.cc/Conferences/2024), [WWW 2024](https://www2024.thewebconf.org), [SDM 2024](https://www.siam.org/conferences/cm/conference/sdm24), and [ICML 2024](https://icml.cc/Conferences/2024).
 
@@ -218,15 +218,15 @@ Yu Meng, Jiaxin Huang, **Yu Zhang**, and Jiawei Han.
 [KDD 2021](https://www.kdd.org/kdd2021). Singapore, Singapore. (Tutorial)
 
 ## Honors and Awards
-**KDD Best Reviewer** (_30 in 1469_), 2023     
+**KDD Best Reviewer** (_30 in 1469_), [2023](awards/KDD23_Best_Reviewer.pdf)     
 **Dissertation Completion Fellowship, Graduate College, UIUC** (_the only recipient from CS_), 2023     
 **WWW Best Reviewer**, 2023     
 **SDM Best Poster Award Honorable Mention**, 2023       
-**CIKM Best Reviewer**, 2022     
+**CIKM Best Reviewer**, [2022](awards/CIKM22_Best_Reviewer.html)     
 **Yunni & Maxine Pao Memorial Fellowship, the Grainger College of Engineering, UIUC**, 2022     
 **WWW Student Scholarship**, 2021     
 **WSDM Student Travel Grant**, 2021, 2022, 2023, 2024     
-**WWW Best Poster Award Honorable Mention**, 2018     
+**WWW Best Poster Award Honorable Mention**, [2018](awards/WWW18_Best_Poster_HM.html)     
 **Outstanding Undergraduate Thesis Award, School of EECS, Peking University** (_10 in 320_), 2017     
 **Outstanding Graduates, Peking University**, 2017     
 **SIGIR Student Travel Grant**, 2017, 2020     
