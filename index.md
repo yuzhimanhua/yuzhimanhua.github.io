@@ -223,7 +223,7 @@ Yu Meng, Jiaxin Huang, **Yu Zhang**, and Jiawei Han.
 **WWW Best Reviewer**, 2023     
 **SDM Best Poster Award Honorable Mention**, 2023       
 **CIKM Best Reviewer**, [2022](awards/CIKM22_Best_Reviewer.html)     
-**Yunni & Maxine Pao Memorial Fellowship, the Grainger College of Engineering, UIUC**, 2022     
+**Yunni & Maxine Pao Memorial Fellowship, the Grainger College of Engineering, UIUC**, [2022](awards/Yunni_and_Maxine_Pao_Fellowship.pdf)     
 **WWW Student Scholarship**, 2021     
 **WSDM Student Travel Grant**, 2021, 2022, 2023, 2024     
 **WWW Best Poster Award Honorable Mention**, [2018](awards/WWW18_Best_Poster_HM.html)     
