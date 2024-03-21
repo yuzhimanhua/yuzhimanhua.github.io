@@ -13,8 +13,6 @@ In the summer of 2016, I visited Carnegie Mellon University, working with Prof. 
 
 For further information, please see my [CV](CV.pdf).
 
-<span style="color:red">I am on the job market for tenure-track faculty positions!</span>
-
 ## Research Interests
 Structure-Enhanced Text Mining:      
 [[WWW 2022](papers/www22zhang.pdf), [WSDM 2022](papers/wsdm22.pdf), [WWW 2021](papers/www21.pdf), [WSDM 2021](papers/wsdm21.pdf), [SIGIR 2020](papers/sigir20.pdf)]
