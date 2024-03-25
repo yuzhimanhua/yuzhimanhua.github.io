@@ -26,11 +26,7 @@ Data Mining and NLP for Science (Biomedicine, Science of Science):
 ## What's New [[What's Not New...](old.md)]
 2024-01 to 2024-06 Invited to be a PC member of [KDD 2024](https://kdd2024.kdd.org) and [CIKM 2024](https://cikm2024.org/).
 
-2024-03 Invited talks at the University of Texas at Arlington and Michigan State University.
-
 2024-03-03 Attended [WSDM 2024](https://www.wsdm-conference.org/2024/) in Mérida, Mexico (in person) to present our tutorial and give a keynote at the [Machine Learning on Graphs (MLoG) Workshop](https://mlog-workshop.github.io/) [[slides](talks/wsdm2024_mlog_keynote.pdf)].
-
-2024-02 Invited talks at New Jersey Institute of Technology, the University of Connecticut, and Texas A&M University.
 
 2023-07 to 2023-12 Invited to be a PC member of [WSDM 2024](https://www.wsdm-conference.org/2024), [ICLR 2024](https://iclr.cc/Conferences/2024), [WWW 2024](https://www2024.thewebconf.org), [SDM 2024](https://www.siam.org/conferences/cm/conference/sdm24), and [ICML 2024](https://icml.cc/Conferences/2024).
 
