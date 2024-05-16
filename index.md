@@ -21,10 +21,10 @@ For further information, please see my [CV](CV.pdf).
 
 ## Research Interests
 Data Mining and NLP for Science (Biomedicine, Chemistry, and Science of Science):      
-[[arXiv 2023](https://arxiv.org/pdf/2310.14483.pdf), [EMNLP 2023](papers/emnlp23findings.pdf), [KDD 2023b](papers/kdd23zhang.pdf), [WWW 2023](papers/www23.pdf), [Bioinformatics 2019](https://academic.oup.com/bioinformatics/article-pdf/35/10/1745/48970159/bioinformatics_35_10_1745.pdf)]
+[[arXiv 2023](https://arxiv.org/pdf/2310.14483.pdf), [EMNLP 2023](papers/emnlp23findings.pdf), [KDD 2023a](papers/kdd23zhang.pdf), [WWW 2023](papers/www23.pdf), [Bioinformatics 2019](https://academic.oup.com/bioinformatics/article-pdf/35/10/1745/48970159/bioinformatics_35_10_1745.pdf)]
 
 Large Language Models + Graphs:     
-[[KDD 2023a](papers/kdd23jin.pdf), [ICLR 2023](papers/iclr23.pdf)]
+[[ACL 2024](https://arxiv.org/pdf/2404.07103), [ACL 2023](papers/acl23jin.pdf), [KDD 2023b](papers/kdd23jin.pdf), [ICLR 2023](papers/iclr23.pdf)]
 
 Structure/Knowledge-Enhanced Text Mining:      
 [[WWW 2022](papers/www22zhang.pdf), [WSDM 2022](papers/wsdm22.pdf), [WWW 2021](papers/www21.pdf), [WSDM 2021](papers/wsdm21.pdf), [SIGIR 2020](papers/sigir20.pdf)]
@@ -58,10 +58,6 @@ _"Why Should I Review This Paper?" Unifying Semantic, Topic, and Citation Factor
 **Yu Zhang\***, Yanzhen Shen\*, Xiusi Chen, Bowen Jin, and Jiawei Han.     
 [arXiv:2310.14483](https://arxiv.org/abs/2310.14483)
 
-_Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs_     
-Bowen Jin, Chulin Xie, Jiawei Zhang, Kashob Kumar Roy, **Yu Zhang**, Suhang Wang, Yu Meng, and Jiawei Han.     
-[arXiv:2404.07103](https://arxiv.org/abs/2404.07103)
-
 _Ontology Enrichment for Effective Fine-grained Entity Typing_     
 Siru Ouyang, Jiaxin Huang, Pranav Pillai, Yunyi Zhang, **Yu Zhang**, and Jiawei Han.     
 [arXiv:2310.07795](https://arxiv.org/abs/2310.07795)
@@ -74,6 +70,10 @@ Bowen Jin, Wentao Zhang, **Yu Zhang**, Yu Meng, Han Zhao, and Jiawei Han.
 _Seed-Guided Fine-Grained Entity Typing in Science and Engineering Domains_ [[PDF](papers/aaai24.pdf)] [[arXiv](https://arxiv.org/abs/2401.13129)] [[code](https://github.com/yuzhimanhua/SEType)]     
 **Yu Zhang\***, Yunyi Zhang\*, Yanzhen Shen, Yu Deng, Lucian Popa, Larisa Shwartz, ChengXiang Zhai, and Jiawei Han.     
 [AAAI 2024](https://aaai.org/aaai-conference). Vancouver, Canada.
+
+_Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs_ [[arXiv](https://arxiv.org/abs/2404.07103)]    
+Bowen Jin, Chulin Xie, Jiawei Zhang, Kashob Kumar Roy, **Yu Zhang**, Zheng Li, Ruirui Li, Xianfeng Tang, Suhang Wang, Yu Meng, and Jiawei Han.    
+[ACL 2024 Findings](https://2024.aclweb.org/). Bangkok, Thailand.
 
 ### 2023
 _Pre-training Multi-task Contrastive Learning Models for Scientific Literature Understanding_ [[PDF](papers/emnlp23findings.pdf)] [[arXiv](https://arxiv.org/abs/2305.14232)] [[project page](https://scimult.github.io)] [[code](https://github.com/yuzhimanhua/SciMult)] [[model](https://huggingface.co/yuz9yuz/SciMult/tree/main)] [[dataset](https://drive.google.com/file/d/1hoUAInDVO_UYnQiOOoVuBjwnVgY0BosO/view?usp=drive_link)] [[PMC-Patients leaderboard](https://pmc-patients.github.io)]      
