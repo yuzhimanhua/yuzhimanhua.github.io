@@ -58,10 +58,6 @@ _"Why Should I Review This Paper?" Unifying Semantic, Topic, and Citation Factor
 **Yu Zhang\***, Yanzhen Shen\*, Xiusi Chen, Bowen Jin, and Jiawei Han.     
 [arXiv:2310.14483](https://arxiv.org/abs/2310.14483)
 
-_Ontology Enrichment for Effective Fine-grained Entity Typing_     
-Siru Ouyang, Jiaxin Huang, Pranav Pillai, Yunyi Zhang, **Yu Zhang**, and Jiawei Han.     
-[arXiv:2310.07795](https://arxiv.org/abs/2310.07795)
-
 _Learning Multiplex Embeddings on Text-rich Networks with One Text Encoder_     
 Bowen Jin, Wentao Zhang, **Yu Zhang**, Yu Meng, Han Zhao, and Jiawei Han.     
 [arXiv:2310.06684](https://arxiv.org/abs/2310.06684)
@@ -71,7 +67,11 @@ _Seed-Guided Fine-Grained Entity Typing in Science and Engineering Domains_ [[PD
 **Yu Zhang\***, Yunyi Zhang\*, Yanzhen Shen, Yu Deng, Lucian Popa, Larisa Shwartz, ChengXiang Zhai, and Jiawei Han.     
 [AAAI 2024](https://aaai.org/aaai-conference). Vancouver, Canada.
 
-_Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs_ [[arXiv](https://arxiv.org/abs/2404.07103)]    
+_Ontology Enrichment for Effective Fine-grained Entity Typing_ [[arXiv](https://arxiv.org/abs/2310.07795)]    
+Siru Ouyang, Jiaxin Huang, Pranav Pillai, Yunyi Zhang, **Yu Zhang**, and Jiawei Han.     
+[KDD 2024](https://kdd2024.kdd.org/). Barcelona, Spain.
+
+_Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs_ [[arXiv](https://arxiv.org/abs/2404.07103)] [[code](https://github.com/PeterGriffinJin/Graph-CoT)]     
 Bowen Jin, Chulin Xie, Jiawei Zhang, Kashob Kumar Roy, **Yu Zhang**, Zheng Li, Ruirui Li, Xianfeng Tang, Suhang Wang, Yu Meng, and Jiawei Han.    
 [ACL 2024 Findings](https://2024.aclweb.org/). Bangkok, Thailand.
 
