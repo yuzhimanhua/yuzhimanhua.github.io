@@ -55,7 +55,7 @@ Structure/Knowledge-Enhanced Text Mining:
 
 ### Preprint
 _"Why Should I Review This Paper?" Unifying Semantic, Topic, and Citation Factors for Paper-Reviewer Matching_     
-**Yu Zhang\***, Yanzhen Shen\*, Xiusi Chen, Bowen Jin, and Jiawei Han.     
+**Yu Zhang**, Yanzhen Shen, Xiusi Chen, Bowen Jin, and Jiawei Han.     
 [arXiv:2310.14483](https://arxiv.org/abs/2310.14483)
 
 _Learning Multiplex Embeddings on Text-rich Networks with One Text Encoder_     
