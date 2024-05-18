@@ -7,7 +7,7 @@ Office: Room 2113, Siebel Center for Computer Science, 201 N. Goodwin Ave, Urban
 
 <b style="color:red">I am looking for self-motivated Ph.D. students and interns! Please fill out [this form](https://forms.gle/7VAvmmNrEEHYuftJ8) if you are interested in working with me. After completing the form, you are also welcome to reach out via email. I will read all submitted forms and emails but I do apologize for not being able to respond to each of them.</b>
 
-<b style="color:red">From August 2024 to December 2024, I will be visiting the Paul G. Allen School of Computer Science & Engineering at the University of Washington, working with Prof. [Sheng Wang](https://homes.cs.washington.edu/~swang/).</b>
+<b style="color:red">From August 2024 to December 2024, I will be visiting the Paul G. Allen School of Computer Science & Engineering at the University of Washington, working with Prof. [Sheng Wang](https://homes.cs.washington.edu/~swang).</b>
 
 I am a final-year Ph.D. candidate at the University of Illinois at Urbana-Champaign, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu). My research has been supported by the [Dissertation Completion Fellowship](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/dissertation-completion-fellowship) (awarded by the UIUC Graduate College) and the [Yunni & Maxine Pao Memorial Fellowship](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/yunni-and-maxine-pao-memorial-fellowship) (awarded by the UIUC College of Engineering).
 
@@ -30,11 +30,15 @@ Structure/Knowledge-Enhanced Text Mining:
 [[WWW 2022](papers/www22zhang.pdf), [WSDM 2022](papers/wsdm22.pdf), [WWW 2021](papers/www21.pdf), [WSDM 2021](papers/wsdm21.pdf), [SIGIR 2020](papers/sigir20.pdf)]
 
 ## What's New [[What's Not New...](old.md)]
-2024-01 to 2024-06 Invited to be a PC member of [KDD 2024](https://kdd2024.kdd.org), [CIKM 2024](https://cikm2024.org/), and [NeurIPS 2024](https://neurips.cc/Conferences/2024).
+2024-01 to 2024-06 Invited to be a PC member of [KDD 2024](https://kdd2024.kdd.org), [CIKM 2024](https://cikm2024.org), and [NeurIPS 2024](https://neurips.cc/Conferences/2024).
+
+2024-05-17 Our paper on Ontology-Enhanced Fine-grained Entity Typing was accepted by [KDD 2024](https://kdd2024.kdd.org)!
+
+2024-05-16 Our paper on Graph Chain-of-Thought Prompting was accepted by [ACL 2024 Findings](https://2024.aclweb.org)!
 
 2024-05-15 Gave a guest lecture at Northwestern University [[slides](talks/Graph-Enhanced_Scientific_Text_Mining.pdf)].
 
-2024-03 Attended [WSDM 2024](https://www.wsdm-conference.org/2024/) in Mérida, Mexico (in person) to present our tutorial and give a keynote at the [Machine Learning on Graphs (MLoG) Workshop](https://mlog-workshop.github.io/) [[slides](talks/Graph-Enhanced_Scientific_Text_Mining.pdf)].
+2024-03 Attended [WSDM 2024](https://www.wsdm-conference.org/2024) in Mérida, Mexico (in person) to present our tutorial and give a keynote at the [Machine Learning on Graphs (MLoG) Workshop](https://mlog-workshop.github.io) [[slides](talks/Graph-Enhanced_Scientific_Text_Mining.pdf)].
 
 2023-07 to 2023-12 Invited to be a PC member of [WSDM 2024](https://www.wsdm-conference.org/2024), [ICLR 2024](https://iclr.cc/Conferences/2024), [WWW 2024](https://www2024.thewebconf.org), [SDM 2024](https://www.siam.org/conferences/cm/conference/sdm24), and [ICML 2024](https://icml.cc/Conferences/2024).
 
@@ -69,11 +73,11 @@ _Seed-Guided Fine-Grained Entity Typing in Science and Engineering Domains_ [[PD
 
 _Ontology Enrichment for Effective Fine-grained Entity Typing_ [[arXiv](https://arxiv.org/abs/2310.07795)]    
 Siru Ouyang, Jiaxin Huang, Pranav Pillai, Yunyi Zhang, **Yu Zhang**, and Jiawei Han.     
-[KDD 2024](https://kdd2024.kdd.org/). Barcelona, Spain.
+[KDD 2024](https://kdd2024.kdd.org). Barcelona, Spain.
 
 _Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs_ [[arXiv](https://arxiv.org/abs/2404.07103)] [[code](https://github.com/PeterGriffinJin/Graph-CoT)]     
 Bowen Jin, Chulin Xie, Jiawei Zhang, Kashob Kumar Roy, **Yu Zhang**, Zheng Li, Ruirui Li, Xianfeng Tang, Suhang Wang, Yu Meng, and Jiawei Han.    
-[ACL 2024 Findings](https://2024.aclweb.org/). Bangkok, Thailand.
+[ACL 2024 Findings](https://2024.aclweb.org). Bangkok, Thailand.
 
 ### 2023
 _Pre-training Multi-task Contrastive Learning Models for Scientific Literature Understanding_ [[PDF](papers/emnlp23findings.pdf)] [[arXiv](https://arxiv.org/abs/2305.14232)] [[project page](https://scimult.github.io)] [[code](https://github.com/yuzhimanhua/SciMult)] [[model](https://huggingface.co/yuz9yuz/SciMult/tree/main)] [[dataset](https://drive.google.com/file/d/1hoUAInDVO_UYnQiOOoVuBjwnVgY0BosO/view?usp=drive_link)] [[PMC-Patients leaderboard](https://pmc-patients.github.io)]      
@@ -116,7 +120,7 @@ _Edgeformers: Graph-Empowered Transformers for Representation Learning on Textua
 Bowen Jin, **Yu Zhang**, Yu Meng, and Jiawei Han.     
 [ICLR 2023](https://iclr.cc/Conferences/2023). Kigali, Rwanda.
 
-_Gotta: Generative Few-shot Question Answering by Prompt-based Cloze Data Augmentation_ [[PDF](papers/sdm23.pdf)] [[arXiv](https://arxiv.org/abs/2306.04101)]     
+_Gotta: Generative Few-shot Question Answering by Prompt-based Cloze Data Augmentation_ [[PDF](papers/sdm23.pdf)] [[arXiv](https://arxiv.org/abs/2306.04101)] [[code](https://github.com/xiusic/gotta)]     
 Xiusi Chen, **Yu Zhang**, Jinliang Deng, Jyun-Yu Jiang, and Wei Wang.     
 [SDM 2023](https://www.siam.org/conferences/cm/conference/sdm23). Minneapolis, MN, USA. (Regular Paper, <span style="color:red">Best Poster Award Honorable Mention</span>)
 
