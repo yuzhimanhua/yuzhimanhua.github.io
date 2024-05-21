@@ -262,8 +262,7 @@ ACL 2021, 2023; EMNLP 2020, 2022-2023; NAACL 2021; COLING 2022
 
 **Journal Reviewer**         
 IEEE Transactions on Knowledge and Data Engineering (TKDE);         
-ACM Transactions on Information Systems (TOIS);     
-Bioinformatics;     
+ACM Transactions on Information Systems (TOIS);          
 ACM Transactions on Knowledge Discovery from Data (TKDD);         
 ACM Transactions on the Web (TWEB) (**Distinguished Reviewer**);      
 IEEE Transactions on Audio, Speech and Language Processing (TASLP);      
