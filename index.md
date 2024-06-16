@@ -75,7 +75,7 @@ _Ontology Enrichment for Effective Fine-grained Entity Typing_ [[arXiv](https://
 Siru Ouyang, Jiaxin Huang, Pranav Pillai, Yunyi Zhang, **Yu Zhang**, and Jiawei Han.     
 [KDD 2024](https://kdd2024.kdd.org). Barcelona, Spain.
 
-_Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs_ [[arXiv](https://arxiv.org/abs/2404.07103)] [[code](https://github.com/PeterGriffinJin/Graph-CoT)]     
+_Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs_ [[PDF](papers/acl24findings.pdf)] [[arXiv](https://arxiv.org/abs/2404.07103)] [[code](https://github.com/PeterGriffinJin/Graph-CoT)]     
 Bowen Jin, Chulin Xie, Jiawei Zhang, Kashob Kumar Roy, **Yu Zhang**, Zheng Li, Ruirui Li, Xianfeng Tang, Suhang Wang, Yu Meng, and Jiawei Han.    
 [ACL 2024 Findings](https://2024.aclweb.org). Bangkok, Thailand.
 
