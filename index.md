@@ -58,6 +58,10 @@ Structure/Knowledge-Enhanced Text Mining:
 #### ("\*" indicates equal contribution. Unless otherwise specified, the paper is accepted as a research track long/regular paper.)
 
 ### Preprint
+_A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery_ [[project page](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)]    
+**Yu Zhang\***, Xiusi Chen\*, Bowen Jin\*, Sheng Wang, Shuiwang Ji, Wei Wang, and Jiawei Han.     
+[arXiv:2406.10833](https://arxiv.org/abs/2406.10833)
+
 _"Why Should I Review This Paper?" Unifying Semantic, Topic, and Citation Factors for Paper-Reviewer Matching_     
 **Yu Zhang**, Yanzhen Shen, Xiusi Chen, Bowen Jin, and Jiawei Han.     
 [arXiv:2310.14483](https://arxiv.org/abs/2310.14483)
