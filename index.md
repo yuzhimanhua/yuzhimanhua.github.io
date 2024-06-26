@@ -75,7 +75,7 @@ _Seed-Guided Fine-Grained Entity Typing in Science and Engineering Domains_ [[PD
 **Yu Zhang\***, Yunyi Zhang\*, Yanzhen Shen, Yu Deng, Lucian Popa, Larisa Shwartz, ChengXiang Zhai, and Jiawei Han.     
 [AAAI 2024](https://aaai.org/aaai-conference). Vancouver, Canada.
 
-_Ontology Enrichment for Effective Fine-grained Entity Typing_ [[arXiv](https://arxiv.org/abs/2310.07795)]    
+_Ontology Enrichment for Effective Fine-grained Entity Typing_ [[PDF](papers/kdd24.pdf)] [[arXiv](https://arxiv.org/abs/2310.07795)]    
 Siru Ouyang, Jiaxin Huang, Pranav Pillai, Yunyi Zhang, **Yu Zhang**, and Jiawei Han.     
 [KDD 2024](https://kdd2024.kdd.org). Barcelona, Spain.
 
