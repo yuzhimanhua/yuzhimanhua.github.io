@@ -30,7 +30,7 @@ Structure/Knowledge-Enhanced Text Mining:
 [[WWW 2022](papers/www22zhang.pdf), [WSDM 2022](papers/wsdm22.pdf), [WWW 2021](papers/www21.pdf), [WSDM 2021](papers/wsdm21.pdf), [SIGIR 2020](papers/sigir20.pdf)]
 
 ## What's New [[What's Not New...](old.md)]
-2024-01 to 2024-06 Invited to be a PC member of [KDD 2024](https://kdd2024.kdd.org), [CIKM 2024](https://cikm2024.org), [NeurIPS 2024](https://neurips.cc/Conferences/2024), and [WSDM 2025](https://www.wsdm-conference.org/2025/).
+2024-01 to 2024-06 Invited to be a PC member of [KDD 2024](https://kdd2024.kdd.org), [CIKM 2024](https://cikm2024.org), [NeurIPS 2024](https://neurips.cc/Conferences/2024), [WSDM 2025](https://www.wsdm-conference.org/2025), and [KDD 2025](https://kdd2025.kdd.org).
 
 2024-05-17 Our paper on Ontology-Enhanced Fine-grained Entity Typing was accepted by [KDD 2024](https://kdd2024.kdd.org)!
 
@@ -259,7 +259,7 @@ March 2024, keynote at the Machine Learning on Graphs (MLoG) Workshop at WSDM 20
 
 ## Professional Services
 **Conference Program Committee**        
-KDD 2022-2024 (**Best Reviewer 2023**); WWW 2022-2024 (**Best Reviewer 2023**); WSDM 2023-2025;      
+KDD 2022-2025 (**Best Reviewer 2023**); WWW 2022-2024 (**Best Reviewer 2023**); WSDM 2023-2025;      
 CIKM 2021-2024 (**Best Reviewer 2022**); SDM 2024; ECML/PKDD 2022;           
 NeurIPS 2021-2022, 2024; ICML 2022-2024; ICLR 2021-2024; AAAI 2022;         
 ACL 2021, 2023; EMNLP 2020, 2022-2023; NAACL 2021; COLING 2022         
