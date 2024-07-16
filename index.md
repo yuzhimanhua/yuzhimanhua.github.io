@@ -262,7 +262,7 @@ March 2024, keynote at the Machine Learning on Graphs (MLoG) Workshop at WSDM 20
 KDD 2022-2025 (**Best Reviewer 2023**); WWW 2022-2024 (**Best Reviewer 2023**); WSDM 2023-2025;      
 CIKM 2021-2024 (**Best Reviewer 2022**); SDM 2024; ECML/PKDD 2022;           
 NeurIPS 2021-2022, 2024; ICML 2022-2024; ICLR 2021-2024; AAAI 2022;         
-ACL 2021, 2023; EMNLP 2020, 2022-2023; NAACL 2021; COLING 2022         
+ACL Rolling Review; ACL 2021, 2023; EMNLP 2020, 2022-2023; NAACL 2021; COLING 2022         
 
 **Journal Reviewer**         
 IEEE Transactions on Knowledge and Data Engineering (TKDE);         
