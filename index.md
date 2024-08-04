@@ -28,6 +28,8 @@ Structure/Knowledge-Enhanced Text Mining:
 [[WWW 2022](papers/www22zhang.pdf), [WSDM 2022](papers/wsdm22.pdf), [WWW 2021](papers/www21.pdf), [WSDM 2021](papers/wsdm21.pdf), [SIGIR 2020](papers/sigir20.pdf)]
 
 ## What's New [[What's Not New...](old.md)]
+2024-08 Started my visit at the University of Washington! Super excited to work with Prof. [Sheng Wang](https://homes.cs.washington.edu/~swang)!
+
 2024-01 to 2024-06 Invited to be a PC member of [KDD 2024](https://kdd2024.kdd.org), [CIKM 2024](https://cikm2024.org), [NeurIPS 2024](https://neurips.cc/Conferences/2024), [WSDM 2025](https://www.wsdm-conference.org/2025), and [KDD 2025](https://kdd2025.kdd.org).
 
 2024-05-17 Our paper on Ontology-Enhanced Fine-grained Entity Typing was accepted by [KDD 2024](https://kdd2024.kdd.org)!
@@ -38,27 +40,13 @@ Structure/Knowledge-Enhanced Text Mining:
 
 2024-03 Attended [WSDM 2024](https://www.wsdm-conference.org/2024) in Mérida, Mexico (in person) to present our tutorial and give a keynote at the [Machine Learning on Graphs (MLoG) Workshop](https://mlog-workshop.github.io) [[slides](talks/Graph-Enhanced_Scientific_Text_Mining.pdf)].
 
-2023-07 to 2023-12 Invited to be a PC member of [WSDM 2024](https://www.wsdm-conference.org/2024), [ICLR 2024](https://iclr.cc/Conferences/2024), [WWW 2024](https://www2024.thewebconf.org), [SDM 2024](https://www.siam.org/conferences/cm/conference/sdm24), and [ICML 2024](https://icml.cc/Conferences/2024).
-
-2023-12-09 Our paper on Seed-Guided Entity Typing was accepted by [AAAI 2024](https://aaai.org/aaai-conference)! The acceptance rate is 23.7% (2342/9862).
-
-2023-12-06 Attended [EMNLP 2023](https://2023.emnlp.org) in Singapore (in person) to present our paper.
-
-2023-10-28 Our tutorial proposal on Joint Text and Graph Modeling was accepted by [WSDM 2024](https://www.wsdm-conference.org/2024) tutorial track!
-
-2023-10-07 Two papers on Scientific Language Model Pre-training and Weakly Supervised Text Classification were accepted by [EMNLP 2023](https://2023.emnlp.org) (1 main conference + 1 findings)!
-
-2023-08 Attended [KDD 2023](https://kdd.org/kdd2023) in Long Beach, CA (in person) to present our research paper and tutorial.
-
-2023-08-09 Honored to be chosen for the [Best Reviewer Award](awards/KDD23_Best_Reviewer.pdf) by [KDD 2023](https://kdd.org/kdd2023)!
-
 ## Selected Publications [[Full List](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=N0PrmgIAAAAJ&sortby=pubdate)]
 #### ("\*" indicates equal contribution. Unless otherwise specified, the paper is accepted as a research track long/regular paper.)
 
 ### Preprint
 _A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery_ [[project page](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)]    
 **Yu Zhang\***, Xiusi Chen\*, Bowen Jin\*, Sheng Wang, Shuiwang Ji, Wei Wang, and Jiawei Han.     
-[arXiv:2406.10833](https://arxiv.org/abs/2406.10833)
+[arXiv:2406.10833](https://arxiv.org/abs/2406.10833) (<span style="color:red">400 stars on GitHub as of August 2024!</span>)
 
 _"Why Should I Review This Paper?" Unifying Semantic, Topic, and Citation Factors for Paper-Reviewer Matching_     
 **Yu Zhang**, Yanzhen Shen, Xiusi Chen, Bowen Jin, and Jiawei Han.     
