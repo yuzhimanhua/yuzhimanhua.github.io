@@ -1,4 +1,18 @@
 ### 2023
+2023-07 to 2023-12 Invited to be a PC member of [WSDM 2024](https://www.wsdm-conference.org/2024), [ICLR 2024](https://iclr.cc/Conferences/2024), [WWW 2024](https://www2024.thewebconf.org), [SDM 2024](https://www.siam.org/conferences/cm/conference/sdm24), and [ICML 2024](https://icml.cc/Conferences/2024).
+
+2023-12-09 Our paper on Seed-Guided Entity Typing was accepted by [AAAI 2024](https://aaai.org/aaai-conference)! The acceptance rate is 23.7% (2342/9862).
+
+2023-12-06 Attended [EMNLP 2023](https://2023.emnlp.org) in Singapore (in person) to present our paper.
+
+2023-10-28 Our tutorial proposal on Joint Text and Graph Modeling was accepted by [WSDM 2024](https://www.wsdm-conference.org/2024) tutorial track!
+
+2023-10-07 Two papers on Scientific Language Model Pre-training and Weakly Supervised Text Classification were accepted by [EMNLP 2023](https://2023.emnlp.org) (1 main conference + 1 findings)!
+
+2023-08 Attended [KDD 2023](https://kdd.org/kdd2023) in Long Beach, CA (in person) to present our research paper and tutorial.
+
+2023-08-09 Honored to be chosen for the [Best Reviewer Award](awards/KDD23_Best_Reviewer.pdf) by [KDD 2023](https://kdd.org/kdd2023)!
+
 2023-01 to 2023-06 Invited to be a PC member of [CIKM 2023](https://uobevents.eventsair.com/cikm2023) and [EMNLP 2023](https://2023.emnlp.org).
 
 2023-05-16 Honored to be awarded the [Dissertation Completion Fellowship](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/dissertation-completion-fellowship) by the UIUC Graduate College for the 2023-2024 academic year!
@@ -119,7 +133,7 @@
 ### 2017
 2017-12-22 Our paper on Weakly-Supervised Relation Extraction was accepted by [WWW 2018](https://www2018.thewebconf.org)! The acceptance rate is 14.8% (171/1155).
 
-2017-08-16 I became a member of Prof. [Jiawei Han](http://hanj.cs.illinois.edu)'s [Data Mining Group](http://dm1.cs.uiuc.edu)!
+2017-08-16 Became a member of Prof. [Jiawei Han](http://hanj.cs.illinois.edu)'s [Data Mining Group](http://dm1.cs.uiuc.edu)!
 
 2017-08-07 Traveled to Tokyo to attend [SIGIR 2017](http://sigir.org/sigir2017).
 
