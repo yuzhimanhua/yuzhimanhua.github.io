@@ -55,7 +55,7 @@ _Chain-of-Factors Paper-Reviewer Matching_
 [arXiv:2310.14483](https://arxiv.org/abs/2310.14483)
 
 _A Unified Taxonomy-Guided Instruction Tuning Framework for Entity Set Expansion and Taxonomy Expansion_     
-Yanzhen Shen, **Yu Zhang**, Yunyi Zhang, and Jiawei Han.
+Yanzhen Shen, **Yu Zhang**, Yunyi Zhang, and Jiawei Han.     
 [arXiv:2402.13405](https://arxiv.org/abs/2402.13405)
 
 _Learning Multiplex Embeddings on Text-rich Networks with One Text Encoder_     
