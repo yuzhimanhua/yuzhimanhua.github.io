@@ -19,7 +19,7 @@ For further information, please see my [CV](CV.pdf).
 
 ## Research Interests
 Data Mining and NLP for Science (Biomedicine, Chemistry, and Science of Science):      
-[[arXiv 2024](https://arxiv.org/pdf/2406.10833), [EMNLP 2023](papers/emnlp23findings.pdf), [KDD 2023a](papers/kdd23zhang.pdf), [WWW 2023](papers/www23.pdf), [Bioinformatics 2019](https://academic.oup.com/bioinformatics/article-pdf/35/10/1745/48970159/bioinformatics_35_10_1745.pdf)]
+[[EMNLP 2024](https://arxiv.org/pdf/2406.10833), [EMNLP 2023](papers/emnlp23findings.pdf), [KDD 2023a](papers/kdd23zhang.pdf), [WWW 2023](papers/www23.pdf), [Bioinformatics 2019](https://academic.oup.com/bioinformatics/article-pdf/35/10/1745/48970159/bioinformatics_35_10_1745.pdf)]
 
 Large Language Models + Graphs:     
 [[ACL 2024](papers/acl24findings.pdf), [ACL 2023](papers/acl23jin.pdf), [KDD 2023b](papers/kdd23jin.pdf), [ICLR 2023](papers/iclr23.pdf)]
@@ -29,6 +29,8 @@ Structure/Knowledge-Enhanced Text Mining:
 
 ## What's New [[What's Not New...](old.md)]
 2024-07 to 2024-12 Invited to be a PC member of [KDD 2025](https://kdd2025.kdd.org), [ICLR 2025](https://iclr.cc/Conferences/2025), and [WWW 2025](https://www2025.thewebconf.org).
+
+2024-09-20 Our survey on Scientific Large Language Models was accepted by [EMNLP 2024](https://2024.emnlp.org) main conference!
 
 2024-08 Started my visit at the University of Washington! Super excited to work with Prof. [Sheng Wang](https://homes.cs.washington.edu/~swang)!
 
@@ -46,10 +48,6 @@ Structure/Knowledge-Enhanced Text Mining:
 #### ("\*" indicates equal contribution. Unless otherwise specified, the paper is accepted as a research track long/regular paper.)
 
 ### Preprint
-_A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery_ [[project page](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)]    
-**Yu Zhang\***, Xiusi Chen\*, Bowen Jin\*, Sheng Wang, Shuiwang Ji, Wei Wang, and Jiawei Han.     
-[arXiv:2406.10833](https://arxiv.org/abs/2406.10833) (<span style="color:red">400+ stars on GitHub as of August 2024!</span>)
-
 _Chain-of-Factors Paper-Reviewer Matching_     
 **Yu Zhang**, Yanzhen Shen, SeongKu Kang, Xiusi Chen, Bowen Jin, and Jiawei Han.     
 [arXiv:2310.14483](https://arxiv.org/abs/2310.14483)
@@ -63,6 +61,10 @@ Bowen Jin, Wentao Zhang, **Yu Zhang**, Yu Meng, Han Zhao, and Jiawei Han.
 [arXiv:2310.06684](https://arxiv.org/abs/2310.06684)
 
 ### 2024
+_A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery_ [[arXiv](https://arxiv.org/abs/2406.10833)] [[project page](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)]    
+**Yu Zhang\***, Xiusi Chen\*, Bowen Jin\*, Sheng Wang, Shuiwang Ji, Wei Wang, and Jiawei Han.     
+[EMNLP 2024](https://2024.emnlp.org). Miami, FL, USA. (<span style="color:red">400+ stars on GitHub</span>)
+
 _Seed-Guided Fine-Grained Entity Typing in Science and Engineering Domains_ [[PDF](papers/aaai24.pdf)] [[arXiv](https://arxiv.org/abs/2401.13129)] [[code](https://github.com/yuzhimanhua/SEType)]     
 **Yu Zhang\***, Yunyi Zhang\*, Yanzhen Shen, Yu Deng, Lucian Popa, Larisa Shwartz, ChengXiang Zhai, and Jiawei Han.     
 [AAAI 2024](https://aaai.org/aaai-conference). Vancouver, Canada.
