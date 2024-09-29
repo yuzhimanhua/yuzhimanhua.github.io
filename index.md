@@ -61,9 +61,9 @@ Bowen Jin, Wentao Zhang, **Yu Zhang**, Yu Meng, Han Zhao, and Jiawei Han.
 [arXiv:2310.06684](https://arxiv.org/abs/2310.06684)
 
 ### 2024
-_A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery_ [[arXiv](https://arxiv.org/abs/2406.10833)] [[project page](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)]    
+_A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery_ [[PDF](papers/emnlp24.pdf)] [[arXiv](https://arxiv.org/abs/2406.10833)] [[project page](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)]    
 **Yu Zhang\***, Xiusi Chen\*, Bowen Jin\*, Sheng Wang, Shuiwang Ji, Wei Wang, and Jiawei Han.     
-[EMNLP 2024](https://2024.emnlp.org). Miami, FL, USA. (<span style="color:red">400+ stars on GitHub</span>)
+[EMNLP 2024](https://2024.emnlp.org). Miami, FL, USA. (<span style="color:red">400+ stars on GitHub!</span>)
 
 _Seed-Guided Fine-Grained Entity Typing in Science and Engineering Domains_ [[PDF](papers/aaai24.pdf)] [[arXiv](https://arxiv.org/abs/2401.13129)] [[code](https://github.com/yuzhimanhua/SEType)]     
 **Yu Zhang\***, Yunyi Zhang\*, Yanzhen Shen, Yu Deng, Lucian Popa, Larisa Shwartz, ChengXiang Zhai, and Jiawei Han.     
