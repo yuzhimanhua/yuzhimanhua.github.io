@@ -1,13 +1,9 @@
 ## Contact
 Email: yuz9yuz [AT] gmail [DOT] com     
-Office: Room 502, Paul G. Allen Center, 185 E Stevens Way NE, Seattle, WA 98195-2350 
+Office: CSE 502, Paul G. Allen Center, 185 E Stevens Way NE, Seattle, WA 98195-2350 
 
 ## About Me
-<b style="color:red">I will join the Department of Computer Science and Engineering at Texas A&M University as a tenure-track Assistant Professor in January 2025.</b>
-
-<b style="color:red">I am looking for self-motivated Ph.D. students and interns! Please fill out [this form](https://forms.gle/7VAvmmNrEEHYuftJ8) if you are interested in working with me. After completing the form, you are also welcome to reach out via email. I will read all submitted forms and emails but I do apologize for not being able to respond to each of them.</b>
-
-I am a final-year Ph.D. candidate at the University of Illinois at Urbana-Champaign, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu). My research has been supported by the [Dissertation Completion Fellowship](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/dissertation-completion-fellowship) (awarded by the UIUC Graduate College) and the [Yunni & Maxine Pao Memorial Fellowship](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/yunni-and-maxine-pao-memorial-fellowship) (awarded by the UIUC College of Engineering). I am currently visiting the Paul G. Allen School of Computer Science & Engineering at the University of Washington, working with Prof. [Sheng Wang](https://homes.cs.washington.edu/~swang).
+I am an incoming Assistant Professor at the Department of Computer Science and Engineering at Texas A&M University. I received my Ph.D. and M.Sc. degrees in Computer Science from the University of Illinois at Urbana-Champaign, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu). My research has been supported by the [Dissertation Completion Fellowship](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/dissertation-completion-fellowship) (awarded by the UIUC Graduate College) and the [Yunni & Maxine Pao Memorial Fellowship](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/yunni-and-maxine-pao-memorial-fellowship) (awarded by the UIUC College of Engineering). I am currently visiting the Paul G. Allen School of Computer Science & Engineering at the University of Washington, working with Prof. [Sheng Wang](https://homes.cs.washington.edu/~swang).
 
 Prior to UIUC, I received my B.Sc. degree in Computer Science from Peking University, advised by Prof. [Yan Zhang](https://www.cis.pku.edu.cn/szdw/zzjs/zy.htm). 
 
@@ -16,6 +12,10 @@ In the summers of 2022, 2021, and 2020, I interned at Microsoft Research Redmond
 In the summer of 2016, I visited the School of Computer Science at Carnegie Mellon University, working with Prof. [Kathleen M. Carley](https://s3d.cmu.edu/people/core-faculty/carley-kathleen.html).
 
 For further information, please see my [CV](CV.pdf).
+
+<b style="color:red">I will join the Department of Computer Science and Engineering at Texas A&M University as a tenure-track Assistant Professor in January 2025.</b>
+
+<b style="color:red">I am looking for self-motivated Ph.D. students and interns! Please fill out [this form](https://forms.gle/7VAvmmNrEEHYuftJ8) if you are interested in working with me. After completing the form, you are also welcome to reach out via email. I will read all submitted forms and emails but I do apologize for not being able to respond to each of them.</b>
 
 ## Research Interests
 Data Mining and NLP for Science (Biomedicine, Chemistry, and Science of Science):      
@@ -31,6 +31,8 @@ Structure/Knowledge-Enhanced Text Mining:
 2024-07 to 2024-12 Invited to be a PC member of [KDD 2025](https://kdd2025.kdd.org), [ICLR 2025](https://iclr.cc/Conferences/2025), and [WWW 2025](https://www2025.thewebconf.org).
 
 2024-09-20 Our survey on Scientific Large Language Models was accepted by [EMNLP 2024](https://2024.emnlp.org) main conference!
+
+2024-10-14 Successfully defended my Ph.D. thesis: Structure-Enhanced Text Mining for Science! I would like to express my deepest gratitude to my advisor, Prof. [Jiawei Han](http://hanj.cs.illinois.edu), and my thesis committee members, Prof. [Tarek Abdelzaher](https://abdelzaher.cs.illinois.edu), Prof. [Hanghang Tong](http://tonghanghang.org), Prof. [Wei Wang](https://web.cs.ucla.edu/~weiwang), and Dr. [Iris Shen](https://www.microsoft.com/en-us/research/people/zhihosh)!
 
 2024-08 Started my visit at the University of Washington! Super excited to work with Prof. [Sheng Wang](https://homes.cs.washington.edu/~swang)!
 
