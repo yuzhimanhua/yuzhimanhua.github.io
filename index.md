@@ -17,7 +17,7 @@ For further information, please see my [CV](CV.pdf).
 
 ## Research Interests
 Data Mining and NLP for Science (Biomedicine, Chemistry, and Science of Science):      
-[[EMNLP 2024](https://arxiv.org/pdf/2406.10833), [EMNLP 2023](papers/emnlp23findings.pdf), [KDD 2023a](papers/kdd23zhang.pdf), [WWW 2023](papers/www23.pdf), [Bioinformatics 2019](https://academic.oup.com/bioinformatics/article-pdf/35/10/1745/48970159/bioinformatics_35_10_1745.pdf)]
+[[EMNLP 2024](papers/emnlp24.pdf), [EMNLP 2023](papers/emnlp23findings.pdf), [KDD 2023a](papers/kdd23zhang.pdf), [WWW 2023](papers/www23.pdf), [Bioinformatics 2019](https://academic.oup.com/bioinformatics/article-pdf/35/10/1745/48970159/bioinformatics_35_10_1745.pdf)]
 
 Large Language Models + Graphs:     
 [[ACL 2024](papers/acl24findings.pdf), [ACL 2023](papers/acl23jin.pdf), [KDD 2023b](papers/kdd23jin.pdf), [ICLR 2023](papers/iclr23.pdf)]
@@ -27,6 +27,8 @@ Structure/Knowledge-Enhanced Text Mining:
 
 ## What's New [[What's Not New...](old.md)]
 2024-07 to 2024-12 Invited to be a PC member of [KDD 2025](https://kdd2025.kdd.org), [ICLR 2025](https://iclr.cc/Conferences/2025), and [WWW 2025](https://www2025.thewebconf.org).
+
+2024-10-23 Our paper on Scientific Document Retrieval was accepted by [WSDM 2025](https://www.wsdm-conference.org/2025)! The acceptance rate is 17.3% (106/614).
 
 2024-10-14 Successfully defended my Ph.D. thesis: Structure-Enhanced Text Mining for Science! I would like to express my deepest gratitude to my advisor, Prof. [Jiawei Han](http://hanj.cs.illinois.edu), and my thesis committee members, Prof. [Tarek Abdelzaher](https://abdelzaher.cs.illinois.edu), Prof. [Hanghang Tong](http://tonghanghang.org), Prof. [Wei Wang](https://web.cs.ucla.edu/~weiwang), and Dr. [Iris Shen](https://www.microsoft.com/en-us/research/people/zhihosh)!
 
@@ -47,23 +49,15 @@ Structure/Knowledge-Enhanced Text Mining:
 ## Selected Publications [[Full List](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=N0PrmgIAAAAJ&sortby=pubdate)]
 #### ("\*" indicates equal contribution. Unless otherwise specified, the paper is accepted as a research track long/regular paper.)
 
-### Preprint
-_Chain-of-Factors Paper-Reviewer Matching_     
-**Yu Zhang**, Yanzhen Shen, SeongKu Kang, Xiusi Chen, Bowen Jin, and Jiawei Han.     
-[arXiv:2310.14483](https://arxiv.org/abs/2310.14483)
-
-_A Unified Taxonomy-Guided Instruction Tuning Framework for Entity Set Expansion and Taxonomy Expansion_     
-Yanzhen Shen, **Yu Zhang**, Yunyi Zhang, and Jiawei Han.     
-[arXiv:2402.13405](https://arxiv.org/abs/2402.13405)
-
-_Learning Multiplex Embeddings on Text-rich Networks with One Text Encoder_     
-Bowen Jin, Wentao Zhang, **Yu Zhang**, Yu Meng, Han Zhao, and Jiawei Han.     
-[arXiv:2310.06684](https://arxiv.org/abs/2310.06684)
+### 2025
+_Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation_      
+SeongKu Kang, Bowen Jin, Wonbin Kweon, **Yu Zhang**, Dongha Lee, Jiawei Han, and Hwanjo Yu.      
+[WSDM 2025](https://www.wsdm-conference.org/2025). Hannover, Germany.
 
 ### 2024
 _A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery_ [[PDF](papers/emnlp24.pdf)] [[arXiv](https://arxiv.org/abs/2406.10833)] [[project page](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)]    
 **Yu Zhang\***, Xiusi Chen\*, Bowen Jin\*, Sheng Wang, Shuiwang Ji, Wei Wang, and Jiawei Han.     
-[EMNLP 2024](https://2024.emnlp.org). Miami, FL, USA. (<span style="color:red">400+ stars on GitHub!</span>)
+[EMNLP 2024](https://2024.emnlp.org). Miami, FL, USA. (<span style="color:red">450+ stars on GitHub!</span>)
 
 _Seed-Guided Fine-Grained Entity Typing in Science and Engineering Domains_ [[PDF](papers/aaai24.pdf)] [[arXiv](https://arxiv.org/abs/2401.13129)] [[code](https://github.com/yuzhimanhua/SEType)]     
 **Yu Zhang\***, Yunyi Zhang\*, Yanzhen Shen, Yu Deng, Lucian Popa, Larisa Shwartz, ChengXiang Zhai, and Jiawei Han.     
