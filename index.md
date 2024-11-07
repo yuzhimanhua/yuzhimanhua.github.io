@@ -242,8 +242,8 @@ Yu Meng, Jiaxin Huang, **Yu Zhang**, and Jiawei Han.
 
 ## Invited Talks
 **Graph-Enhanced Scientific Text Mining [[slides v1](talks/20240515.pdf)] [[slides v2](talks/20241106.pdf)]**     
-November 2024, guest lecture (CSE 427) at the University of Washington.
-May 2024, guest lecture (STAT 359-0-21) at Northwestern University.     
+November 2024, guest lecture (CSE 427) at the University of Washington.      
+May 2024, guest lecture (STAT 359-0-21) at Northwestern University.      
 March 2024, keynote at the Machine Learning on Graphs (MLoG) Workshop at WSDM 2024.
 
 ## Professional Services
