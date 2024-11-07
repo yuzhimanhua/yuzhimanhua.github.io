@@ -241,8 +241,9 @@ Yu Meng, Jiaxin Huang, **Yu Zhang**, and Jiawei Han.
 **First Prize, National Olympiad in Informatics in Provinces**, 2011, 2012
 
 ## Invited Talks
-**Graph-Enhanced Scientific Text Mining [[slides](talks/Graph-Enhanced_Scientific_Text_Mining.pdf)]**     
-May 2024, guest lecture at Northwestern University.     
+**Graph-Enhanced Scientific Text Mining [[slides v1](talks/20240515.pdf)] [[slides v2](talks/20241106.pdf)]**     
+November 2024, guest lecture (CSE 427) at the University of Washington.
+May 2024, guest lecture (STAT 359-0-21) at Northwestern University.     
 March 2024, keynote at the Machine Learning on Graphs (MLoG) Workshop at WSDM 2024.
 
 ## Professional Services
