@@ -28,6 +28,8 @@ Structure/Knowledge-Enhanced Text Mining:
 ## What's New [[What's Not New...](old.md)]
 2024-07 to 2024-12 Invited to be a PC member of [KDD 2025](https://kdd2025.kdd.org), [ICLR 2025](https://iclr.cc/Conferences/2025), and [WWW 2025](https://www2025.thewebconf.org).
 
+2024-11 Attended [EMNLP 2024](https://2024.emnlp.org) in Miami, FL (in person) to present our paper.
+
 2024-10-23 Our paper on Scientific Document Retrieval was accepted by [WSDM 2025](https://www.wsdm-conference.org/2025)! The acceptance rate is 17.3% (106/614).
 
 2024-10-14 Successfully defended my Ph.D. thesis: Structure-Enhanced Text Mining for Science! I would like to express my deepest gratitude to my advisor, Prof. [Jiawei Han](http://hanj.cs.illinois.edu), and my thesis committee members, Prof. [Tarek Abdelzaher](https://abdelzaher.cs.illinois.edu), Prof. [Hanghang Tong](http://tonghanghang.org), Prof. [Wei Wang](https://web.cs.ucla.edu/~weiwang), and Dr. [Iris Shen](https://www.microsoft.com/en-us/research/people/zhihosh)!
@@ -44,7 +46,7 @@ Structure/Knowledge-Enhanced Text Mining:
 
 2024-05-15 Gave a guest lecture at Northwestern University [[slides](talks/Graph-Enhanced_Scientific_Text_Mining.pdf)].
 
-2024-03 Attended [WSDM 2024](https://www.wsdm-conference.org/2024) in Mérida, Mexico (in person) to present our tutorial and give a keynote at the [Machine Learning on Graphs (MLoG) Workshop](https://mlog-workshop.github.io) [[slides](talks/Graph-Enhanced_Scientific_Text_Mining.pdf)].
+2024-03 Attended [WSDM 2024](https://www.wsdm-conference.org/2024) in Mérida, Mexico (in person) to present our tutorial and give a keynote at the [Machine Learning on Graphs (MLoG) Workshop](https://mlog-workshop.github.io) [[slides](talks/20240515.pdf)].
 
 ## Selected Publications [[Full List](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=N0PrmgIAAAAJ&sortby=pubdate)]
 #### ("\*" indicates equal contribution. Unless otherwise specified, the paper is accepted as a research track long/regular paper.)
