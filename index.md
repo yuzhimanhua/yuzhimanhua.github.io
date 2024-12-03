@@ -16,14 +16,14 @@ For further information, please see my [CV](CV.pdf).
 <b style="color:red">I am looking for self-motivated Ph.D. students and interns! Please fill out [this form](https://forms.gle/7VAvmmNrEEHYuftJ8) if you are interested in working with me. After completing the form, you are also welcome to reach out via email. I will read all submitted forms and emails but I do apologize for not being able to respond to each of them.</b>
 
 ## Research Interests
-Data Mining and NLP for Science (Biomedicine, Chemistry, and Science of Science):      
+NLP for Science (Biology, Medicine, and Science of Science):      
 [[EMNLP 2024](papers/emnlp24.pdf), [EMNLP 2023](papers/emnlp23findings.pdf), [KDD 2023a](papers/kdd23zhang.pdf), [WWW 2023](papers/www23.pdf), [Bioinformatics 2019](https://academic.oup.com/bioinformatics/article-pdf/35/10/1745/48970159/bioinformatics_35_10_1745.pdf)]
 
-Large Language Models + Graphs:     
-[[ACL 2024](papers/acl24findings.pdf), [ACL 2023](papers/acl23jin.pdf), [KDD 2023b](papers/kdd23jin.pdf), [ICLR 2023](papers/iclr23.pdf)]
+NLP with Graphs and Structural Knowledge:     
+[[ACL 2024](papers/acl24findings.pdf), [ACL 2023](papers/acl23jin.pdf), [KDD 2023b](papers/kdd23jin.pdf), [ICLR 2023](papers/iclr23.pdf), [WWW 2021](papers/www21.pdf)]
 
-Structure/Knowledge-Enhanced Text Mining:      
-[[WWW 2022](papers/www22zhang.pdf), [WSDM 2022](papers/wsdm22.pdf), [WWW 2021](papers/www21.pdf), [WSDM 2021](papers/wsdm21.pdf), [SIGIR 2020](papers/sigir20.pdf)]
+NLP under Weak Supervision:      
+[[ICML 2023](papers/icml23.pdf), [NeurIPS 2022](papers/neurips22.pdf), [WWW 2022](papers/www22zhang.pdf), [WSDM 2022](papers/wsdm22.pdf), [WSDM 2021](papers/wsdm21.pdf), [SIGIR 2020](papers/sigir20.pdf)]
 
 ## What's New [[What's Not New...](old.md)]
 2024-07 to 2024-12 Invited to be a PC member of [KDD 2025](https://kdd2025.kdd.org), [ICLR 2025](https://iclr.cc/Conferences/2025), and [WWW 2025](https://www2025.thewebconf.org).
