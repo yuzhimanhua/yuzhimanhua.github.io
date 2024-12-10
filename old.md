@@ -1,3 +1,14 @@
+### 2024
+2024-01 to 2024-06 Invited to be a PC member of [KDD 2024](https://kdd2024.kdd.org), [CIKM 2024](https://cikm2024.org), [NeurIPS 2024](https://neurips.cc/Conferences/2024), and [WSDM 2025](https://www.wsdm-conference.org/2025).
+
+2024-05-17 Our paper on Ontology-Enhanced Fine-grained Entity Typing was accepted by [KDD 2024](https://kdd2024.kdd.org)!
+
+2024-05-16 Our paper on Graph Chain-of-Thought Prompting was accepted by [ACL 2024 Findings](https://2024.aclweb.org)!
+
+2024-05-15 Gave a guest lecture at Northwestern University [[slides](talks/20240515.pdf)].
+
+2024-03 Attended [WSDM 2024](https://www.wsdm-conference.org/2024) in Mérida, Mexico (in person) to present our tutorial and give a keynote at the [Machine Learning on Graphs (MLoG) Workshop](https://mlog-workshop.github.io) [[slides](talks/20240515.pdf)].
+
 ### 2023
 2023-07 to 2023-12 Invited to be a PC member of [WSDM 2024](https://www.wsdm-conference.org/2024), [ICLR 2024](https://iclr.cc/Conferences/2024), [WWW 2024](https://www2024.thewebconf.org), [SDM 2024](https://www.siam.org/conferences/cm/conference/sdm24), and [ICML 2024](https://icml.cc/Conferences/2024).
 

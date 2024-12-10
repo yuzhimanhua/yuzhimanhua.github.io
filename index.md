@@ -28,7 +28,11 @@ NLP under Weak Supervision:
 ## What's New [[What's Not New...](old.md)]
 2024-07 to 2024-12 Invited to be a PC member of [KDD 2025](https://kdd2025.kdd.org), [ICLR 2025](https://iclr.cc/Conferences/2025), and [WWW 2025](https://www2025.thewebconf.org).
 
+2024-12-09 Gave a talk at the [LoG 2024 Seattle Meetup](https://xiaoxinhe.github.io/log24-meetup-seattle).
+
 2024-11 Attended [EMNLP 2024](https://2024.emnlp.org) in Miami, FL (in person) to present our paper.
+
+2024-11-07 Gave a guest lecture at the University of Washington [[slides](talks/20241106.pdf)].
 
 2024-10-23 Our paper on Scientific Document Retrieval was accepted by [WSDM 2025](https://www.wsdm-conference.org/2025)! The acceptance rate is 17.3% (106/614).
 
@@ -37,16 +41,6 @@ NLP under Weak Supervision:
 2024-09-20 Our survey on Scientific Large Language Models was accepted by [EMNLP 2024](https://2024.emnlp.org) main conference!
 
 2024-08 Started my visit at the University of Washington! Super excited to work with Prof. [Sheng Wang](https://homes.cs.washington.edu/~swang)!
-
-2024-01 to 2024-06 Invited to be a PC member of [KDD 2024](https://kdd2024.kdd.org), [CIKM 2024](https://cikm2024.org), [NeurIPS 2024](https://neurips.cc/Conferences/2024), and [WSDM 2025](https://www.wsdm-conference.org/2025).
-
-2024-05-17 Our paper on Ontology-Enhanced Fine-grained Entity Typing was accepted by [KDD 2024](https://kdd2024.kdd.org)!
-
-2024-05-16 Our paper on Graph Chain-of-Thought Prompting was accepted by [ACL 2024 Findings](https://2024.aclweb.org)!
-
-2024-05-15 Gave a guest lecture at Northwestern University [[slides](talks/Graph-Enhanced_Scientific_Text_Mining.pdf)].
-
-2024-03 Attended [WSDM 2024](https://www.wsdm-conference.org/2024) in Mérida, Mexico (in person) to present our tutorial and give a keynote at the [Machine Learning on Graphs (MLoG) Workshop](https://mlog-workshop.github.io) [[slides](talks/20240515.pdf)].
 
 ## Selected Publications [[Full List](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=N0PrmgIAAAAJ&sortby=pubdate)]
 #### ("\*" indicates equal contribution. Unless otherwise specified, the paper is accepted as a research track long/regular paper.)
