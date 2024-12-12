@@ -26,7 +26,7 @@ NLP under Weak Supervision:
 [[ICML 2023](papers/icml23.pdf), [NeurIPS 2022](papers/neurips22.pdf), [WWW 2022](papers/www22zhang.pdf), [WSDM 2022](papers/wsdm22.pdf), [WSDM 2021](papers/wsdm21.pdf), [SIGIR 2020](papers/sigir20.pdf)]
 
 ## What's New [[What's Not New...](old.md)]
-2024-07 to 2024-12 Invited to be a PC member of [KDD 2025](https://kdd2025.kdd.org), [ICLR 2025](https://iclr.cc/Conferences/2025), and [WWW 2025](https://www2025.thewebconf.org).
+2024-07 to 2024-12 Invited to be a PC member of [KDD 2025](https://kdd2025.kdd.org), [ICLR 2025](https://iclr.cc/Conferences/2025), [WWW 2025](https://www2025.thewebconf.org), and [ICML 2025](https://icml.cc/Conferences/2025).
 
 2024-12-09 Gave a talk at the [LoG 2024 Seattle Meetup](https://xiaoxinhe.github.io/log24-meetup-seattle).
 
@@ -247,7 +247,7 @@ March 2024, keynote at the Machine Learning on Graphs (MLoG) Workshop at WSDM 20
 **Conference Program Committee**        
 KDD 2022-2025 (**Best Reviewer 2023**); WWW 2022-2025 (**Best Reviewer 2023**); WSDM 2023-2025;      
 CIKM 2021-2024 (**Best Reviewer 2022**); SDM 2024; ECML/PKDD 2022;           
-NeurIPS 2021-2022, 2024; ICML 2022-2024; ICLR 2021-2025; AAAI 2022;         
+NeurIPS 2021-2022, 2024; ICML 2022-2025; ICLR 2021-2025; AAAI 2022;         
 ACL Rolling Review; ACL 2021, 2023; EMNLP 2020, 2022-2023; NAACL 2021; COLING 2022         
 
 **Journal Reviewer**         
