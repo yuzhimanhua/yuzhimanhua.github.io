@@ -1,17 +1,13 @@
 ## Contact
 Email: yuz9yuz [AT] gmail [DOT] com     
-Office: CSE 502, Paul G. Allen Center, 185 E Stevens Way NE, Seattle, WA 98195-2350 
+<!-- Office: CSE 502, Paul G. Allen Center, 185 E Stevens Way NE, Seattle, WA 98195-2350  -->
 
 ## About Me
-I am an incoming Assistant Professor at the Department of Computer Science and Engineering at Texas A&M University. I received my Ph.D. and M.Sc. degrees in Computer Science from the University of Illinois at Urbana-Champaign, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu). My research has been supported by the [Dissertation Completion Fellowship](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/dissertation-completion-fellowship) (awarded by the UIUC Graduate College) and the [Yunni & Maxine Pao Memorial Fellowship](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/yunni-and-maxine-pao-memorial-fellowship) (awarded by the UIUC College of Engineering). I am currently visiting the Paul G. Allen School of Computer Science & Engineering at the University of Washington, working with Prof. [Sheng Wang](https://homes.cs.washington.edu/~swang).
+I am an Assistant Professor at the Department of Computer Science & Engineering at Texas A&M University.
 
-Prior to UIUC, I received my B.Sc. degree in Computer Science from Peking University, advised by Prof. [Yan Zhang](https://www.cis.pku.edu.cn/szdw/zzjs/zy.htm). 
+Prior to TAMU, I received my Ph.D. and M.Sc. degrees in Computer Science from the University of Illinois at Urbana-Champaign, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu). During my graduate study, I visited the University of Washington, working with Prof. [Sheng Wang](https://homes.cs.washington.edu/~swang); I interned at Microsoft Research Redmond three times, working with Dr. [Iris Shen](https://www.microsoft.com/en-us/research/people/zhihosh), Dr. [Hao Cheng](https://www.microsoft.com/en-us/research/people/chehao), Dr. [Xiaodong Liu](https://www.microsoft.com/en-us/research/people/xiaodl), and Dr. [Yuxiao Dong](http://keg.cs.tsinghua.edu.cn/yuxiao); I also got the [Dissertation Completion Fellowship](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/dissertation-completion-fellowship) (awarded by the UIUC Graduate College) and the [Yunni & Maxine Pao Memorial Fellowship](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/yunni-and-maxine-pao-memorial-fellowship) (awarded by the UIUC College of Engineering).
 
-In the summers of 2022, 2021, and 2020, I interned at Microsoft Research Redmond three times, working in different groups with different researchers, including Dr. [Iris Shen](https://www.microsoft.com/en-us/research/people/zhihosh), Dr. [Hao Cheng](https://www.microsoft.com/en-us/research/people/chehao), Dr. [Xiaodong Liu](https://www.microsoft.com/en-us/research/people/xiaodl), and Dr. [Yuxiao Dong](http://keg.cs.tsinghua.edu.cn/yuxiao).
-
-In the summer of 2016, I visited the School of Computer Science at Carnegie Mellon University, working with Prof. [Kathleen M. Carley](https://s3d.cmu.edu/people/core-faculty/carley-kathleen.html).
-
-For further information, please see my [CV](CV.pdf).
+Prior to UIUC, I received my B.Sc. degree in Computer Science from Peking University, advised by Prof. [Yan Zhang](https://www.cis.pku.edu.cn/szdw/zzjs/zy.htm). During my undergraduate study, I visited Carnegie Mellon University, working with Prof. [Kathleen M. Carley](https://s3d.cmu.edu/people/core-faculty/carley-kathleen.html).
 
 <b style="color:red">I am looking for self-motivated Ph.D. students and interns! Please fill out [this form](https://forms.gle/7VAvmmNrEEHYuftJ8) if you are interested in working with me. After completing the form, you are also welcome to reach out via email. I will read all submitted forms and emails but I do apologize for not being able to respond to each of them.</b>
 
@@ -46,7 +42,7 @@ NLP under Weak Supervision:
 #### ("\*" indicates equal contribution. Unless otherwise specified, the paper is accepted as a research track long/regular paper.)
 
 ### 2025
-_Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation_      
+_Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation_ [[PDF](papers/wsdm25.pdf)]     
 SeongKu Kang, Bowen Jin, Wonbin Kweon, **Yu Zhang**, Dongha Lee, Jiawei Han, and Hwanjo Yu.      
 [WSDM 2025](https://www.wsdm-conference.org/2025). Hannover, Germany.
 
@@ -240,7 +236,7 @@ Yu Meng, Jiaxin Huang, **Yu Zhang**, and Jiawei Han.
 **Graph-Enhanced Scientific Text Mining [[slides v1](talks/20240515.pdf)] [[slides v2](talks/20241106.pdf)]**     
 December 2024, invited talk at the LoG 2024 Seattle Meetup.      
 November 2024, guest lecture (CSE 427) at the University of Washington.      
-May 2024, guest lecture (STAT 359-0-21) at Northwestern University.      
+May 2024, guest lecture (STAT 359) at Northwestern University.      
 March 2024, keynote at the Machine Learning on Graphs (MLoG) Workshop at WSDM 2024.
 
 ## Professional Services
