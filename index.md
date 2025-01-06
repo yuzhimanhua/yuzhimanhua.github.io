@@ -1,6 +1,6 @@
 ## Contact
-Email: yuz9yuz [AT] gmail [DOT] com     
-<!-- Office: CSE 502, Paul G. Allen Center, 185 E Stevens Way NE, Seattle, WA 98195-2350  -->
+Email: yuzhang [AT] tamu [DOT] edu; yuz9yuz [AT] gmail [DOT] com     
+Office: 222 Peterson Building, 435 Nagle St, College Station, TX 77843 
 
 ## About Me
 I am an Assistant Professor at the Department of Computer Science & Engineering at Texas A&M University.
@@ -20,6 +20,9 @@ NLP with Graphs and Structural Knowledge:
 
 NLP under Weak Supervision:      
 [[ICML 2023](papers/icml23.pdf), [NeurIPS 2022](papers/neurips22.pdf), [WWW 2022](papers/www22zhang.pdf), [WSDM 2022](papers/wsdm22.pdf), [WSDM 2021](papers/wsdm21.pdf), [SIGIR 2020](papers/sigir20.pdf)]
+
+## Teaching
+Spring 2025: [CSCE 689 - Special Topics in NLP for Science](https://yuzhang-teaching.github.io/CSCE689-S25.html)
 
 ## What's New [[What's Not New...](old.md)]
 2024-07 to 2024-12 Invited to be a PC member of [KDD 2025](https://kdd2025.kdd.org), [ICLR 2025](https://iclr.cc/Conferences/2025), [WWW 2025](https://www2025.thewebconf.org), and [ICML 2025](https://icml.cc/Conferences/2025).
