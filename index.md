@@ -246,7 +246,7 @@ March 2024, keynote at the Machine Learning on Graphs (MLoG) Workshop at WSDM 20
 **Conference Area Chair**        
 KDD 2025
 
-**Conference Program Committee**        
+**Conference Program Committee Member**        
 KDD 2022-2025 (**Best Reviewer 2023**); WWW 2022-2025 (**Best Reviewer 2023**); WSDM 2023-2025;      
 CIKM 2021-2024 (**Best Reviewer 2022**); SDM 2024; ECML/PKDD 2022;           
 NeurIPS 2021-2022, 2024; ICML 2022-2025; ICLR 2021-2025; AAAI 2022;         
