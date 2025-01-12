@@ -25,7 +25,7 @@ NLP under Weak Supervision:
 Spring 2025: [CSCE 689 - Special Topics in NLP for Science](https://yuzhang-teaching.github.io/CSCE689-S25.html)
 
 ## What's New [[What's Not New...](old.md)]
-2024-07 to 2024-12 Invited to be a PC member of [KDD 2025](https://kdd2025.kdd.org), [ICLR 2025](https://iclr.cc/Conferences/2025), [WWW 2025](https://www2025.thewebconf.org), and [ICML 2025](https://icml.cc/Conferences/2025).
+2024-07 to 2024-12 Invited to be a PC member of [KDD 2025](https://kdd2025.kdd.org) (Area Chair), [ICLR 2025](https://iclr.cc/Conferences/2025), [WWW 2025](https://www2025.thewebconf.org), and [ICML 2025](https://icml.cc/Conferences/2025).
 
 2024-12-09 Gave a talk at the [LoG 2024 Seattle Meetup](https://xiaoxinhe.github.io/log24-meetup-seattle).
 
@@ -243,6 +243,9 @@ May 2024, guest lecture (STAT 359) at Northwestern University.
 March 2024, keynote at the Machine Learning on Graphs (MLoG) Workshop at WSDM 2024.
 
 ## Professional Services
+**Conference Area Chair**        
+KDD 2025
+
 **Conference Program Committee**        
 KDD 2022-2025 (**Best Reviewer 2023**); WWW 2022-2025 (**Best Reviewer 2023**); WSDM 2023-2025;      
 CIKM 2021-2024 (**Best Reviewer 2022**); SDM 2024; ECML/PKDD 2022;           
@@ -260,9 +263,6 @@ IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)
 
 **Student Volunteer**       
 SIGIR 2020; KDD 2022-2023        
-
-**Conference Session Chair**     
-WWW 2023
 
 ## Miscellany
 I was born and raised in Shanghai, China. I graduated from the High School Affiliated to Fudan University.
