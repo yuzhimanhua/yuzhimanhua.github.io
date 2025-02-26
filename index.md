@@ -50,6 +50,11 @@ Spring 2025: [CSCE 689 - Special Topics in NLP for Science](https://yuzhang-teac
 ## Selected Publications [[Full List](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=N0PrmgIAAAAJ&sortby=pubdate)]
 #### ("\*" indicates equal contribution. Unless otherwise specified, the paper is accepted as a research track long/regular paper.)
 
+### Preprint
+_Protein Large Language Models: A Comprehensive Survey_ [[arXiv](https://arxiv.org/abs/2502.17504)] [[project page](https://github.com/Yijia-Xiao/Protein-LLM-Survey)]    
+Yijia Xiao, Wanjia Zhao, Junkai Zhang, Yiqiao Jin, Han Zhang, Zhicheng Ren, Renliang Sun, Haixin Wang, Guancheng Wan, Pan Lu, Xiao Luo, **Yu Zhang**, James Zou, Yizhou Sun, and Wei Wang.     
+[arXiv:2502.17504](https://arxiv.org/abs/2502.17504).
+
 ### 2025
 _Chain-of-Factors Paper-Reviewer Matching_ [[PDF](papers/www25.pdf)] [[arXiv](https://arxiv.org/abs/2310.14483)] [[code](https://github.com/yuzhimanhua/CoF)]     
 **Yu Zhang**, Yanzhen Shen, SeongKu Kang, Xiusi Chen, Bowen Jin, and Jiawei Han.      
