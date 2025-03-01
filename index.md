@@ -25,7 +25,7 @@ NLP and Data Mining under Weak Supervision:
 Spring 2025: [CSCE 689 - Special Topics in NLP for Science](https://yuzhang-teaching.github.io/CSCE689-S25.html)
 
 ## What's New [[What's Not New...](old.md)]
-2025-01 to 2025-06 Invited to be a PC member of [KDD 2025](https://kdd2025.kdd.org) (Area Chair) and [NeurIPS 2025](https://neurips.cc/Conferences/2025).
+2025-01 to 2025-06 Invited to be a PC member of [KDD 2025](https://kdd2025.kdd.org) (Area Chair), [ARR 2025 Feb](https://aclrollingreview.org/) (Area Chair), and [NeurIPS 2025](https://neurips.cc/Conferences/2025).
 
 2025-01-20 Our paper on Paper-Reviewer Matching was accepted by [WWW 2025](https://www2025.thewebconf.org) as an oral presentation! The acceptance rate is 19.8% (409/2062).
 
