@@ -9,7 +9,7 @@ Prior to TAMU, I received my Ph.D. and M.Sc. degrees in Computer Science from th
 
 Prior to UIUC, I received my B.Sc. degree in Computer Science from Peking University, advised by Prof. [Yan Zhang](https://www.cis.pku.edu.cn/szdw/zzjs/zy.htm). During my undergraduate study, I visited Carnegie Mellon University, working with Prof. [Kathleen M. Carley](https://s3d.cmu.edu/people/core-faculty/carley-kathleen.html).
 
-<b style="color:red">I am looking for self-motivated Ph.D. students and interns! Please fill out [this form](https://forms.gle/7VAvmmNrEEHYuftJ8) if you are interested in working with me. After completing the form, you are also welcome to reach out via email. I will read all submitted forms and emails but I do apologize for not being able to respond to each of them.</b>
+<b style="color:red">[Recruiting]</b> I am looking for self-motivated Ph.D. students and interns! Please fill out [this form](https://forms.gle/7VAvmmNrEEHYuftJ8) if you are interested in working with me. After completing the form, you are also welcome to reach out via email. I will read all submitted forms and emails but I do apologize for not being able to respond to each of them.
 
 ## Research Interests
 NLP and Data Mining for Science (Biology, Medicine, and Science of Science):      
@@ -26,6 +26,8 @@ Spring 2025: [CSCE 689 - Special Topics in NLP for Science](https://yuzhang-teac
 
 ## What's New [[What's Not New...](old.md)]
 2025-01 to 2025-06 Invited to be a PC member of [KDD 2025](https://kdd2025.kdd.org) (Area Chair), [ARR 2025 Feb](https://aclrollingreview.org/) (Area Chair), and [NeurIPS 2025](https://neurips.cc/Conferences/2025).
+
+2025-03-07 We will hold two [KDD 2025](https://kdd2025.kdd.org) workshops on "Structured Knowledge for Large Language Models" and "Machine Learning on Graphs in the Era of Artificial General Intelligence"! See you in Toronto!
 
 2025-01-20 Our paper on Paper-Reviewer Matching was accepted by [WWW 2025](https://www2025.thewebconf.org) as an oral presentation! The acceptance rate is 19.8% (409/2062).
 
