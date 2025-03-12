@@ -25,7 +25,7 @@ NLP and Data Mining under Weak Supervision:
 Spring 2025: [CSCE 689 - Special Topics in NLP for Science](https://yuzhang-teaching.github.io/CSCE689-S25.html)
 
 ## What's New [[What's Not New...](old.md)]
-2025-01 to 2025-06 Invited to be a PC member of [KDD 2025](https://kdd2025.kdd.org) (Area Chair), [ARR 2025 Feb](https://aclrollingreview.org/) (Area Chair), and [NeurIPS 2025](https://neurips.cc/Conferences/2025).
+2025-01 to 2025-06 Invited to be a PC member of [KDD 2025](https://kdd2025.kdd.org) (Area Chair), [ACL 2025](https://2025.aclweb.org) (Area Chair), and [NeurIPS 2025](https://neurips.cc/Conferences/2025).
 
 2025-03-07 We will hold two [KDD 2025](https://kdd2025.kdd.org) workshops on "Structured Knowledge for Large Language Models" and "Machine Learning on Graphs in the Era of Artificial General Intelligence"! See you in Toronto!
 
@@ -38,6 +38,8 @@ Spring 2025: [CSCE 689 - Special Topics in NLP for Science](https://yuzhang-teac
 2024-12-09 Gave a talk at the [LoG 2024 Seattle Meetup](https://xiaoxinhe.github.io/log24-meetup-seattle).
 
 2024-11 Attended [EMNLP 2024](https://2024.emnlp.org) in Miami, FL (in person) to present our paper.
+
+2024-11-14 Honored to be selected as one of the Outstanding Reviewers by [EMNLP 2024](https://2024.emnlp.org)!
 
 2024-11-07 Gave a guest lecture at the University of Washington [[slides](talks/20241106.pdf)].
 
@@ -236,7 +238,8 @@ Yu Meng, Jiaxin Huang, **Yu Zhang**, and Jiawei Han.
 [KDD 2021](https://www.kdd.org/kdd2021). Singapore, Singapore. (Tutorial)
 
 ## Honors and Awards
-**KDD Best Reviewer** (_30 in 1469_), [2023](awards/KDD23_Best_Reviewer.pdf)     
+**EMNLP Outstanding Reviewer**, 2024     
+**KDD Outstanding Reviewer** (_30 in 1469_), [2023](awards/KDD23_Best_Reviewer.pdf)     
 **Dissertation Completion Fellowship, Graduate College, UIUC** (_the only recipient from CS_), [2023](awards/Dissertation_Completion_Fellowship.pdf)     
 **WWW Best Reviewer**, 2023     
 **SDM Best Poster Award Honorable Mention**, 2023       
@@ -261,13 +264,13 @@ March 2024, keynote at the Machine Learning on Graphs (MLoG) Workshop at WSDM 20
 
 ## Professional Services
 **Conference Area Chair**        
-KDD 2025; ACL Rolling Review
+KDD 2025; ACL 2025
 
 **Conference Program Committee Member**        
-KDD 2022-2025 (**Best Reviewer 2023**); WWW 2022-2025 (**Best Reviewer 2023**); WSDM 2023-2025;      
+KDD 2022-2025 (**Outstanding Reviewer 2023**); WWW 2022-2025 (**Best Reviewer 2023**); WSDM 2023-2025;      
 CIKM 2021-2024 (**Best Reviewer 2022**); SDM 2024; ECML/PKDD 2022;           
 NeurIPS 2021-2022, 2024-2025; ICML 2022-2025; ICLR 2021-2025; AAAI 2022;         
-ACL Rolling Review; ACL 2021, 2023; EMNLP 2020, 2022-2023; NAACL 2021; COLING 2022         
+ACL 2021, 2023; EMNLP 2020, 2022-2024 (**Outstanding Reviewer 2024**); NAACL 2021-2022; COLING 2022         
 
 **Journal Reviewer**         
 IEEE Transactions on Knowledge and Data Engineering (TKDE);         

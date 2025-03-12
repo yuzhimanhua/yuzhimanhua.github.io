@@ -1,5 +1,5 @@
 ### 2024
-2024-01 to 2024-06 Invited to be a PC member of [KDD 2024](https://kdd2024.kdd.org), [CIKM 2024](https://cikm2024.org), [NeurIPS 2024](https://neurips.cc/Conferences/2024), and [WSDM 2025](https://www.wsdm-conference.org/2025).
+2024-01 to 2024-06 Invited to be a PC member of [KDD 2024](https://kdd2024.kdd.org), [CIKM 2024](https://cikm2024.org), [EMNLP 2024](https://2024.emnlp.org), [NeurIPS 2024](https://neurips.cc/Conferences/2024), and [WSDM 2025](https://www.wsdm-conference.org/2025).
 
 2024-05-17 Our paper on Ontology-Enhanced Fine-grained Entity Typing was accepted by [KDD 2024](https://kdd2024.kdd.org)!
 
@@ -22,7 +22,7 @@
 
 2023-08 Attended [KDD 2023](https://kdd.org/kdd2023) in Long Beach, CA (in person) to present our research paper and tutorial.
 
-2023-08-09 Honored to be chosen for the [Best Reviewer Award](awards/KDD23_Best_Reviewer.pdf) by [KDD 2023](https://kdd.org/kdd2023)!
+2023-08-09 Honored to be selected as one of the [Outstanding Reviewers](awards/KDD23_Best_Reviewer.pdf) by [KDD 2023](https://kdd.org/kdd2023)!
 
 2023-01 to 2023-06 Invited to be a PC member of [CIKM 2023](https://uobevents.eventsair.com/cikm2023) and [EMNLP 2023](https://2023.emnlp.org).
 
@@ -32,7 +32,7 @@
 
 2023-05 Attended [WWW 2023](https://www2023.thewebconf.org) in Austin, TX (in person) to present our research paper and tutorial.
 
-2023-05-02 Honored to be selected as one of the [Best Reviewers](awards/WWW23_Best_Reviewer.jpg) by [WWW 2023](https://www2023.thewebconf.org)!
+2023-05-02 Honored to be selected as one of the Best Reviewers by [WWW 2023](https://www2023.thewebconf.org)!
 
 2023-05-02 Two papers on Language Model Pretraining on Text-Rich Networks and Open-Domain Question Answering were accepted by [ACL 2023](https://2023.aclweb.org) main conference! The acceptance rate of main track papers is 20.7%
 
@@ -84,7 +84,7 @@
 2022-01-13 Two papers on Metadata-Induced Document Contrastive Learning and BERT-Enhanced Topic Discovery were accepted by [WWW 2022](https://www2022.thewebconf.org)! The acceptance rate is 17.7% (323/1822).
 
 ### 2021
-2021-07 to 2021-12 Invited to be a PC member of [AAAI 2022](https://aaai.org/Conferences/AAAI-22), [WWW 2022](https://www2022.thewebconf.org), and [KDD 2022](https://kdd.org/kdd2022).
+2021-07 to 2021-12 Invited to be a PC member of [NAACL 2022](https://2022.naacl.org) ([ACL Rolling Review](https://aclrollingreview.org)), [AAAI 2022](https://aaai.org/Conferences/AAAI-22), [WWW 2022](https://www2022.thewebconf.org), and [KDD 2022](https://kdd.org/kdd2022).
 
 2021-10-11 Our work on Motif-Enhanced Text Classification was accepted by [WSDM 2021](https://www.wsdm-conference.org/2022)! The acceptance rate is 20.2% (159/786).
 
