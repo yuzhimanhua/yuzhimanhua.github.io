@@ -41,7 +41,7 @@ Spring 2025: [CSCE 689 - Special Topics in NLP for Science](https://yuzhang-teac
 
 2024-11-14 Honored to be selected as one of the Outstanding Reviewers by [EMNLP 2024](https://2024.emnlp.org)!
 
-2024-11-07 Gave a guest lecture at the University of Washington [[slides](talks/20241106.pdf)].
+2024-11-07 Gave a guest lecture at the University of Washington [[slides](talks/20240515.pdf)].
 
 2024-10-23 Our paper on Scientific Document Retrieval was accepted by [WSDM 2025](https://www.wsdm-conference.org/2025)! The acceptance rate is 17.3% (106/614).
 
@@ -256,7 +256,7 @@ Yu Meng, Jiaxin Huang, **Yu Zhang**, and Jiawei Han.
 **First Prize, National Olympiad in Informatics in Provinces**, 2011, 2012
 
 ## Invited Talks
-**Graph-Enhanced Scientific Text Mining [[slides v1](talks/20240515.pdf)] [[slides v2](talks/20241106.pdf)]**     
+**Graph-Enhanced Scientific Text Mining [[slides](talks/20240515.pdf)]**     
 December 2024, invited talk at the LoG 2024 Seattle Meetup.      
 November 2024, guest lecture (CSE 427) at the University of Washington.      
 May 2024, guest lecture (STAT 359) at Northwestern University.      
