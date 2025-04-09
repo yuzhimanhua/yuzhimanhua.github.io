@@ -25,7 +25,7 @@ NLP and Data Mining under Weak Supervision:
 Spring 2025: [CSCE 689 - Special Topics in NLP for Science](https://yuzhang-teaching.github.io/CSCE689-S25.html)
 
 ## What's New [[What's Not New...](old.md)]
-2025-01 to 2025-06 Invited to be a PC member of [KDD 2025](https://kdd2025.kdd.org) (Area Chair), [ACL 2025](https://2025.aclweb.org) (Area Chair), and [NeurIPS 2025](https://neurips.cc/Conferences/2025).
+2025-01 to 2025-06 Invited to be a PC member of [KDD 2025](https://kdd2025.kdd.org) (Area Chair), [ACL 2025](https://2025.aclweb.org) (Area Chair), and [NeurIPS 2025](https://neurips.cc/Conferences/2025) (Area Chair).
 
 2025-03-07 We will hold two [KDD 2025](https://kdd2025.kdd.org) workshops on "Structured Knowledge for Large Language Models" and "Machine Learning on Graphs in the Era of Artificial General Intelligence"! See you in Toronto!
 
@@ -264,12 +264,12 @@ March 2024, keynote at the Machine Learning on Graphs (MLoG) Workshop at WSDM 20
 
 ## Professional Services
 **Conference Area Chair**        
-KDD 2025; ACL 2025
+KDD 2025; ACL 2025; NeurIPS 2025
 
 **Conference Program Committee Member**        
 KDD 2022-2025 (**Outstanding Reviewer 2023**); WWW 2022-2025 (**Best Reviewer 2023**); WSDM 2023-2025;      
 CIKM 2021-2024 (**Best Reviewer 2022**); SDM 2024; ECML/PKDD 2022;           
-NeurIPS 2021-2022, 2024-2025; ICML 2022-2025; ICLR 2021-2025; AAAI 2022;         
+NeurIPS 2021-2022, 2024; ICML 2022-2025; ICLR 2021-2025; AAAI 2022;         
 ACL 2021, 2023; EMNLP 2020, 2022-2024 (**Outstanding Reviewer 2024**); NAACL 2021-2022; COLING 2022         
 
 **Journal Reviewer**         
