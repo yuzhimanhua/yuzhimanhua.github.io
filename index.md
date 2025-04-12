@@ -27,7 +27,9 @@ Spring 2025: [CSCE 689 - Special Topics in NLP for Science](https://yuzhang-teac
 ## What's New [[What's Not New...](old.md)]
 2025-01 to 2025-06 Invited to be a PC member of [KDD 2025](https://kdd2025.kdd.org) (Area Chair), [ACL 2025](https://2025.aclweb.org) (Area Chair), and [NeurIPS 2025](https://neurips.cc/Conferences/2025) (Area Chair).
 
-2025-03-07 We will hold two [KDD 2025](https://kdd2025.kdd.org) workshops on "Structured Knowledge for Large Language Models" and "Machine Learning on Graphs in the Era of Artificial General Intelligence"! See you in Toronto!
+2025-04-12 Gave a talk at the University of Kansas.
+
+2025-03-07 We will hold two [KDD 2025](https://kdd2025.kdd.org) workshops on [Structured Knowledge for Large Language Models (SKnowLLM)](https://sknowllm.github.io) and [Machine Learning on Graphs in the Era of Artificial General Intelligence (MLoG-GenAI)](https://mlgraphworkshop.github.io)! See you in Toronto!
 
 2025-01-20 Our paper on Paper-Reviewer Matching was accepted by [WWW 2025](https://www2025.thewebconf.org) as an oral presentation! The acceptance rate is 19.8% (409/2062).
 
@@ -256,6 +258,9 @@ Yu Meng, Jiaxin Huang, **Yu Zhang**, and Jiawei Han.
 **First Prize, National Olympiad in Informatics in Provinces**, 2011, 2012
 
 ## Invited Talks
+**Assisting Scientific Research with Structure-Aware Large Language Models**     
+April 2025, invited talk at the University of Kansas.
+
 **Graph-Enhanced Scientific Text Mining [[slides](talks/20240515.pdf)]**     
 December 2024, invited talk at the LoG 2024 Seattle Meetup.      
 November 2024, guest lecture (CSE 427) at the University of Washington.      
