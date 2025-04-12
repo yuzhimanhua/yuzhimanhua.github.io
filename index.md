@@ -27,7 +27,7 @@ Spring 2025: [CSCE 689 - Special Topics in NLP for Science](https://yuzhang-teac
 ## What's New [[What's Not New...](old.md)]
 2025-01 to 2025-06 Invited to be a PC member of [KDD 2025](https://kdd2025.kdd.org) (Area Chair), [ACL 2025](https://2025.aclweb.org) (Area Chair), and [NeurIPS 2025](https://neurips.cc/Conferences/2025) (Area Chair).
 
-2025-04-12 Gave a talk at the University of Kansas.
+2025-04-11 Gave a talk at the University of Kansas.
 
 2025-03-07 We will hold two [KDD 2025](https://kdd2025.kdd.org) workshops on [Structured Knowledge for Large Language Models (SKnowLLM)](https://sknowllm.github.io) and [Machine Learning on Graphs in the Era of Artificial General Intelligence (MLoG-GenAI)](https://mlgraphworkshop.github.io)! See you in Toronto!
 
