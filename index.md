@@ -277,16 +277,16 @@ EMNLP 2025
 KDD 2025; ACL 2025; NeurIPS 2025
 
 **Conference Reviewer**        
-KDD 2022-2025 (**Outstanding Reviewer 2023**); WWW 2022-2025 (**Best Reviewer 2023**); WSDM 2023-2025;      
-CIKM 2021-2024 (**Best Reviewer 2022**); SDM 2024; ECML/PKDD 2022;           
+KDD 2022-2025; WWW 2022-2025; WSDM 2023-2025;      
+CIKM 2021-2024; SDM 2024; ECML/PKDD 2022;           
 NeurIPS 2021-2022, 2024; ICML 2022-2025; ICLR 2021-2025; AAAI 2022;         
-ACL 2021, 2023; EMNLP 2020, 2022-2024 (**Outstanding Reviewer 2024**); NAACL 2021-2022; COLING 2022         
+ACL 2021, 2023; EMNLP 2020, 2022-2024; NAACL 2021-2022; COLING 2022         
 
 **Journal Reviewer**         
 IEEE Transactions on Knowledge and Data Engineering (TKDE);         
 ACM Transactions on Information Systems (TOIS);          
 ACM Transactions on Knowledge Discovery from Data (TKDD);         
-ACM Transactions on the Web (TWEB) (**Distinguished Reviewer**);      
+ACM Transactions on the Web (TWEB);      
 IEEE Transactions on Audio, Speech and Language Processing (TASLP);      
 IEEE Transactions on Big Data (TBD);         
 IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)
