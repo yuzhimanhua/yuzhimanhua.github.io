@@ -59,6 +59,10 @@ Spring 2025: [CSCE 689 - Special Topics in NLP for Science](https://yuzhang-teac
 #### ("\*" indicates equal contribution. Unless otherwise specified, the paper is accepted as a research track long/regular paper.)
 
 ### Preprint
+_RM-R1: Reward Modeling as Reasoning_ [[arXiv](https://arxiv.org/abs/2505.02387)] [[code](https://github.com/RM-R1-UIUC/RM-R1)]     
+Xiusi Chen, Gaotang Li, Ziqi Wang, Bowen Jin, Cheng Qian, Yu Wang, Hongru Wang, **Yu Zhang**, Denghui Zhang, Tong Zhang, Hanghang Tong, and Heng Ji.     
+[arXiv:2505.02387](https://arxiv.org/abs/2505.02387).
+
 _Protein Large Language Models: A Comprehensive Survey_ [[arXiv](https://arxiv.org/abs/2502.17504)] [[project page](https://github.com/Yijia-Xiao/Protein-LLM-Survey)]    
 Yijia Xiao, Wanjia Zhao, Junkai Zhang, Yiqiao Jin, Han Zhang, Zhicheng Ren, Renliang Sun, Haixin Wang, Guancheng Wan, Pan Lu, Xiao Luo, **Yu Zhang**, James Zou, Yizhou Sun, and Wei Wang.     
 [arXiv:2502.17504](https://arxiv.org/abs/2502.17504).
