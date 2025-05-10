@@ -22,7 +22,7 @@ NLP and Data Mining under Weak Supervision:
 [[ICML 2023](papers/icml23.pdf), [NeurIPS 2022](papers/neurips22.pdf), [WWW 2022](papers/www22zhang.pdf), [WSDM 2022](papers/wsdm22.pdf), [WSDM 2021](papers/wsdm21.pdf), [SIGIR 2020](papers/sigir20.pdf)]
 
 ## Teaching
-Fall 2025: [CSCE 670 - Information Storage and Retrieval]     
+Fall 2025: [CSCE 670 - Information Storage and Retrieval]()     
 Spring 2025: [CSCE 689 - Special Topics in NLP for Science](https://yuzhang-teaching.github.io/CSCE689-S25.html)
 
 ## What's New [[What's Not New...](old.md)]
