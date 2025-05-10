@@ -1,4 +1,22 @@
 ### 2024
+2024-07 to 2024-12 Invited to be a PC member of [KDD 2025](https://kdd2025.kdd.org), [ICLR 2025](https://iclr.cc/Conferences/2025), [WWW 2025](https://www2025.thewebconf.org), and [ICML 2025](https://icml.cc/Conferences/2025).
+
+2024-12-09 Gave a talk at the [LoG 2024 Seattle Meetup](https://xiaoxinhe.github.io/log24-meetup-seattle).
+
+2024-11 Attended [EMNLP 2024](https://2024.emnlp.org) in Miami, FL (in person) to present our paper.
+
+2024-11-14 Honored to be selected as one of the Outstanding Reviewers by [EMNLP 2024](https://2024.emnlp.org)!
+
+2024-11-07 Gave a guest lecture at the University of Washington [[slides](talks/20240515.pdf)].
+
+2024-10-23 Our paper on Scientific Document Retrieval was accepted by [WSDM 2025](https://www.wsdm-conference.org/2025)! The acceptance rate is 17.3% (106/614).
+
+2024-10-14 Successfully defended my Ph.D. thesis: Structure-Enhanced Text Mining for Science! I would like to express my deepest gratitude to my advisor, Prof. [Jiawei Han](http://hanj.cs.illinois.edu), and my thesis committee members, Prof. [Tarek Abdelzaher](https://abdelzaher.cs.illinois.edu), Prof. [Hanghang Tong](http://tonghanghang.org), Prof. [Wei Wang](https://web.cs.ucla.edu/~weiwang), and Dr. [Iris Shen](https://www.microsoft.com/en-us/research/people/zhihosh)!
+
+2024-09-20 Our survey on Scientific Large Language Models was accepted by [EMNLP 2024](https://2024.emnlp.org) main conference!
+
+2024-08 Started my visit at the University of Washington! Super excited to work with Prof. [Sheng Wang](https://homes.cs.washington.edu/~swang)!
+
 2024-01 to 2024-06 Invited to be a PC member of [KDD 2024](https://kdd2024.kdd.org), [CIKM 2024](https://cikm2024.org), [EMNLP 2024](https://2024.emnlp.org), [NeurIPS 2024](https://neurips.cc/Conferences/2024), and [WSDM 2025](https://www.wsdm-conference.org/2025).
 
 2024-05-17 Our paper on Ontology-Enhanced Fine-grained Entity Typing was accepted by [KDD 2024](https://kdd2024.kdd.org)!

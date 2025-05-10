@@ -22,6 +22,7 @@ NLP and Data Mining under Weak Supervision:
 [[ICML 2023](papers/icml23.pdf), [NeurIPS 2022](papers/neurips22.pdf), [WWW 2022](papers/www22zhang.pdf), [WSDM 2022](papers/wsdm22.pdf), [WSDM 2021](papers/wsdm21.pdf), [SIGIR 2020](papers/sigir20.pdf)]
 
 ## Teaching
+Fall 2025: [CSCE 670 - Information Storage and Retrieval]     
 Spring 2025: [CSCE 689 - Special Topics in NLP for Science](https://yuzhang-teaching.github.io/CSCE689-S25.html)
 
 ## What's New [[What's Not New...](old.md)]
@@ -36,24 +37,6 @@ Spring 2025: [CSCE 689 - Special Topics in NLP for Science](https://yuzhang-teac
 2025-01-20 Our paper on Paper-Reviewer Matching was accepted by [WWW 2025](https://www2025.thewebconf.org) as an oral presentation! The acceptance rate is 19.8% (409/2062).
 
 2025-01-01 Joined Texas A&M University as an Assistant Professor!
-
-2024-07 to 2024-12 Invited to be a PC member of [KDD 2025](https://kdd2025.kdd.org), [ICLR 2025](https://iclr.cc/Conferences/2025), [WWW 2025](https://www2025.thewebconf.org), and [ICML 2025](https://icml.cc/Conferences/2025).
-
-2024-12-09 Gave a talk at the [LoG 2024 Seattle Meetup](https://xiaoxinhe.github.io/log24-meetup-seattle).
-
-2024-11 Attended [EMNLP 2024](https://2024.emnlp.org) in Miami, FL (in person) to present our paper.
-
-2024-11-14 Honored to be selected as one of the Outstanding Reviewers by [EMNLP 2024](https://2024.emnlp.org)!
-
-2024-11-07 Gave a guest lecture at the University of Washington [[slides](talks/20240515.pdf)].
-
-2024-10-23 Our paper on Scientific Document Retrieval was accepted by [WSDM 2025](https://www.wsdm-conference.org/2025)! The acceptance rate is 17.3% (106/614).
-
-2024-10-14 Successfully defended my Ph.D. thesis: Structure-Enhanced Text Mining for Science! I would like to express my deepest gratitude to my advisor, Prof. [Jiawei Han](http://hanj.cs.illinois.edu), and my thesis committee members, Prof. [Tarek Abdelzaher](https://abdelzaher.cs.illinois.edu), Prof. [Hanghang Tong](http://tonghanghang.org), Prof. [Wei Wang](https://web.cs.ucla.edu/~weiwang), and Dr. [Iris Shen](https://www.microsoft.com/en-us/research/people/zhihosh)!
-
-2024-09-20 Our survey on Scientific Large Language Models was accepted by [EMNLP 2024](https://2024.emnlp.org) main conference!
-
-2024-08 Started my visit at the University of Washington! Super excited to work with Prof. [Sheng Wang](https://homes.cs.washington.edu/~swang)!
 
 ## Selected Publications [[Full List](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=N0PrmgIAAAAJ&sortby=pubdate)]
 #### ("\*" indicates equal contribution. Unless otherwise specified, the paper is accepted as a research track long/regular paper.)
@@ -294,6 +277,9 @@ ACM Transactions on the Web (TWEB);
 IEEE Transactions on Audio, Speech and Language Processing (TASLP);      
 IEEE Transactions on Big Data (TBD);         
 IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)
+
+**Workshop Co-Organizer**     
+SKnowLLM@KDD 2025; MLoG-GenAI@KDD 2025
 
 **Student Volunteer**       
 SIGIR 2020; KDD 2022-2023        
