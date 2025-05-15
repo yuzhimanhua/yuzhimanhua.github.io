@@ -28,6 +28,8 @@ Spring 2025: [CSCE 689 - Special Topics in NLP for Science](https://yuzhang-teac
 ## What's New [[What's Not New...](old.md)]
 2025-01 to 2025-06 Invited to be a PC member of [KDD 2025](https://kdd2025.kdd.org) (Area Chair), [ACL 2025](https://2025.aclweb.org) (Area Chair), [NeurIPS 2025](https://neurips.cc/Conferences/2025) (Area Chair), and [EMNLP 2025](https://2025.emnlp.org) (Senior Area Chair).
 
+2025-05-15 Two papers got accepted by [ACL 2025](https://2025.aclweb.org) (1 main conference + 1 findings)!
+
 2025-04-30 Attended [SDM 2025](https://www.siam.org/conferences-events/siam-conferences/sdm25) in Washington, DC (in person) to present our tutorial.
 
 2025-04-11 Gave a talk at the University of Kansas.
@@ -51,9 +53,17 @@ Yijia Xiao, Wanjia Zhao, Junkai Zhang, Yiqiao Jin, Han Zhang, Zhicheng Ren, Renl
 [arXiv:2502.17504](https://arxiv.org/abs/2502.17504).
 
 ### 2025
+_Internal and External Impacts of Natural Language Processing Papers_      
+**Yu Zhang**.      
+[ACL 2025](https://2025.aclweb.org). Vienna, Austria. (Short Paper)
+
 _Chain-of-Factors Paper-Reviewer Matching_ [[PDF](papers/www25.pdf)] [[arXiv](https://arxiv.org/abs/2310.14483)] [[code](https://github.com/yuzhimanhua/CoF)]     
 **Yu Zhang**, Yanzhen Shen, SeongKu Kang, Xiusi Chen, Bowen Jin, and Jiawei Han.      
 [WWW 2025](https://www2025.thewebconf.org). Sydney, Australia.
+
+_A Unified Taxonomy-Guided Instruction Tuning Framework for Entity Set Expansion and Taxonomy Expansion_ [[arXiv](https://arxiv.org/abs/2402.13405)]     
+Yanzhen Shen, **Yu Zhang**, Yunyi Zhang, and Jiawei Han.      
+[ACL 2025 Findings](https://2025.aclweb.org). Vienna, Austria.
 
 _Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation_ [[PDF](papers/wsdm25.pdf)] [[arXiv](https://arxiv.org/abs/2502.11181)]     
 SeongKu Kang, Bowen Jin, Wonbin Kweon, **Yu Zhang**, Dongha Lee, Jiawei Han, and Hwanjo Yu.      
