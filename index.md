@@ -32,7 +32,7 @@ Spring 2025: [CSCE 689 - Special Topics in NLP for Science](https://yuzhang-teac
 
 2025-04-30 Attended [SDM 2025](https://www.siam.org/conferences-events/siam-conferences/sdm25) in Washington, DC (in person) to present our tutorial.
 
-2025-04-11 Gave a talk at the University of Kansas.
+2025-04-11 Gave a talk at the University of Kansas [[slides](talks/20250411.pdf)].
 
 2025-03-07 We will hold two [KDD 2025](https://kdd2025.kdd.org) workshops on [Structured Knowledge for Large Language Models (SKnowLLM)](https://sknowllm.github.io) and [Machine Learning on Graphs in the Era of Artificial General Intelligence (MLoG-GenAI)](https://mlgraphworkshop.github.io)! See you in Toronto!
 
@@ -257,7 +257,7 @@ Yu Meng, Jiaxin Huang, **Yu Zhang**, and Jiawei Han.
 **First Prize, National Olympiad in Informatics in Provinces**, 2011, 2012
 
 ## Invited Talks
-**Assisting Scientific Research with Structure-Aware Large Language Models**     
+**Assisting Scientific Research with Structure-Aware Large Language Models [[slides](talks/20250411.pdf)]**     
 April 2025, invited talk at the University of Kansas.
 
 **Graph-Enhanced Scientific Text Mining [[slides](talks/20240515.pdf)]**     
