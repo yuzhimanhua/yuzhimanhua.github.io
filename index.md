@@ -61,7 +61,7 @@ _Chain-of-Factors Paper-Reviewer Matching_ [[PDF](papers/www25.pdf)] [[arXiv](ht
 **Yu Zhang**, Yanzhen Shen, SeongKu Kang, Xiusi Chen, Bowen Jin, and Jiawei Han.      
 [WWW 2025](https://www2025.thewebconf.org). Sydney, Australia.
 
-_A Unified Taxonomy-Guided Instruction Tuning Framework for Entity Set Expansion and Taxonomy Expansion_ [[arXiv](https://arxiv.org/abs/2402.13405)]     
+_A Unified Taxonomy-Guided Instruction Tuning Framework for Entity Set Expansion and Taxonomy Expansion_ [[PDF](papers/acl25findings.pdf)] [[arXiv](https://arxiv.org/abs/2402.13405)] [[code](https://github.com/yanzhen4/TaxoInstruct)]     
 Yanzhen Shen, **Yu Zhang**, Yunyi Zhang, and Jiawei Han.      
 [ACL 2025 Findings](https://2025.aclweb.org). Vienna, Austria.
 
