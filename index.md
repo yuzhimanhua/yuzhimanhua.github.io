@@ -53,7 +53,7 @@ Yijia Xiao, Wanjia Zhao, Junkai Zhang, Yiqiao Jin, Han Zhang, Zhicheng Ren, Renl
 [arXiv:2502.17504](https://arxiv.org/abs/2502.17504).
 
 ### 2025
-_Internal and External Impacts of Natural Language Processing Papers_ [[PDF](papers/acl25.pdf)] [[arXiv](https://arxiv.org/abs/2505.16061)]     
+_Internal and External Impacts of Natural Language Processing Papers_ [[PDF](papers/acl25.pdf)] [[arXiv](https://arxiv.org/abs/2505.16061)] [[dataset](https://huggingface.co/datasets/yuz9yuz/NLPImpact)]      
 **Yu Zhang**.      
 [ACL 2025](https://2025.aclweb.org). Vienna, Austria. (Short Paper)
 
