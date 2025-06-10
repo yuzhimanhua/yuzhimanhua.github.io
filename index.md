@@ -44,6 +44,10 @@ Spring 2025: [CSCE 689 - Special Topics in NLP for Science](https://yuzhang-teac
 #### ("\*" indicates equal contribution. Unless otherwise specified, the paper is accepted as a research track long/regular paper.)
 
 ### Preprint
+_Curriculum Reinforcement Learning from Easy to Hard Tasks Improves LLM Reasoning_ [[arXiv](https://arxiv.org/abs/2506.06632)]     
+Shubham Parashar, Shurui Gui, Xiner Li, Hongyi Ling, Sushil Vemuri, Blake Olson, Eric Li, **Yu Zhang**, James Caverlee, Dileep Kalathil, Shuiwang Ji.     
+[arXiv:2506.06632](https://arxiv.org/abs/2506.06632).
+
 _RM-R1: Reward Modeling as Reasoning_ [[arXiv](https://arxiv.org/abs/2505.02387)] [[code](https://github.com/RM-R1-UIUC/RM-R1)]     
 Xiusi Chen, Gaotang Li, Ziqi Wang, Bowen Jin, Cheng Qian, Yu Wang, Hongru Wang, **Yu Zhang**, Denghui Zhang, Tong Zhang, Hanghang Tong, and Heng Ji.     
 [arXiv:2505.02387](https://arxiv.org/abs/2505.02387).
