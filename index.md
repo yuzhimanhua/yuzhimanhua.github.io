@@ -3,7 +3,7 @@ Email: yuzhang [AT] tamu [DOT] edu; yuz9yuz [AT] gmail [DOT] com
 Office: 222 Peterson Building, 435 Nagle St, College Station, TX 77843 
 
 ## About Me
-I am an Assistant Professor at the Department of Computer Science & Engineering at Texas A&M University.
+I am an Assistant Professor at the Department of Computer Science & Engineering at Texas A&M University. I lead the [SKY Lab](https://yuzhimanhua.github.io/sky-lab.github.io).
 
 Prior to TAMU, I received my Ph.D. and M.Sc. degrees in Computer Science from the University of Illinois at Urbana-Champaign, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu). During my graduate study, I visited the University of Washington, working with Prof. [Sheng Wang](https://homes.cs.washington.edu/~swang); I interned at Microsoft Research Redmond three times, working with Dr. [Iris Shen](https://www.microsoft.com/en-us/research/people/zhihosh), Dr. [Hao Cheng](https://www.microsoft.com/en-us/research/people/chehao), Dr. [Xiaodong Liu](https://www.microsoft.com/en-us/research/people/xiaodl), and Dr. [Yuxiao Dong](http://keg.cs.tsinghua.edu.cn/yuxiao); I also got the [Dissertation Completion Fellowship](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/dissertation-completion-fellowship) (awarded by the UIUC Graduate College) and the [Yunni & Maxine Pao Memorial Fellowship](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/yunni-and-maxine-pao-memorial-fellowship) (awarded by the UIUC College of Engineering).
 
@@ -12,7 +12,7 @@ Prior to UIUC, I received my B.Sc. degree in Computer Science from Peking Univer
 <b style="color:red">[Recruiting]</b> I am looking for self-motivated Ph.D. students and interns! Please fill out [this form](https://forms.gle/7VAvmmNrEEHYuftJ8) if you are interested in working with me. After completing the form, you are also welcome to reach out via email. I will read all submitted forms and emails but I do apologize for not being able to respond to each of them.
 
 ## Research Interests
-NLP and Data Mining for Science (Biology, Medicine, and Science of Science):      
+NLP and Data Mining for Science (Biology, Medicine, Mathematics, and Science of Science):      
 [[WWW 2025](papers/www25.pdf), [EMNLP 2024](papers/emnlp24.pdf), [EMNLP 2023](papers/emnlp23findings.pdf), [KDD 2023a](papers/kdd23zhang.pdf), [WWW 2023](papers/www23.pdf), [Bioinformatics 2019](papers/bioinformatics19.pdf)]
 
 NLP with Graphs and Structural Knowledge:     
