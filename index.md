@@ -5,7 +5,7 @@ Office: 222 Peterson Building, 435 Nagle St, College Station, TX 77843
 ## About Me
 I am an Assistant Professor at the Department of Computer Science & Engineering at Texas A&M University. I lead the [SKY Lab](https://yuzhimanhua.github.io/sky-lab.github.io).
 
-Prior to TAMU, I received my Ph.D. and M.Sc. degrees in Computer Science from the University of Illinois at Urbana-Champaign, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu). During my graduate study, I visited the University of Washington, working with Prof. [Sheng Wang](https://homes.cs.washington.edu/~swang); I interned at Microsoft Research Redmond three times, working with Dr. [Iris Shen](https://www.microsoft.com/en-us/research/people/zhihosh), Dr. [Hao Cheng](https://www.microsoft.com/en-us/research/people/chehao), Dr. [Xiaodong Liu](https://www.microsoft.com/en-us/research/people/xiaodl), and Dr. [Yuxiao Dong](http://keg.cs.tsinghua.edu.cn/yuxiao). My Ph.D. thesis won the [ACM SIGKDD Doctoral Dissertation Award Runner-Up]().
+Prior to TAMU, I received my Ph.D. and M.Sc. degrees in Computer Science from the University of Illinois at Urbana-Champaign, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu). During my graduate study, I visited the University of Washington, working with Prof. [Sheng Wang](https://homes.cs.washington.edu/~swang); I interned at Microsoft Research Redmond three times, working with Dr. [Iris Shen](https://www.microsoft.com/en-us/research/people/zhihosh), Dr. [Hao Cheng](https://www.microsoft.com/en-us/research/people/chehao), Dr. [Xiaodong Liu](https://www.microsoft.com/en-us/research/people/xiaodl), and Dr. [Yuxiao Dong](http://keg.cs.tsinghua.edu.cn/yuxiao). My Ph.D. thesis won the [ACM SIGKDD Dissertation Award Runner-Up]().
 
 Prior to UIUC, I received my B.Sc. degree in Computer Science from Peking University, advised by Prof. [Yan Zhang](https://www.cis.pku.edu.cn/szdw/zzjs/zy.htm). During my undergraduate study, I got the [China National Scholarship](awards/China_National_Scholarship.pdf); I visited Carnegie Mellon University, working with Prof. [Kathleen M. Carley](https://s3d.cmu.edu/people/core-faculty/carley-kathleen.html).
 
@@ -245,7 +245,7 @@ Yu Meng, Jiaxin Huang, **Yu Zhang**, and Jiawei Han.
 [KDD 2021](https://www.kdd.org/kdd2021). Singapore, Singapore. (Tutorial)
 
 ## Honors and Awards
-**ACM SIGKDD Doctoral Dissertation Award Runner-Up**, 2025     
+**ACM SIGKDD Dissertation Award Runner-Up**, 2025     
 **EMNLP Outstanding Reviewer**, 2024     
 **KDD Outstanding Reviewer** (_30 in 1469_), [2023](awards/KDD23_Best_Reviewer.pdf)     
 **Dissertation Completion Fellowship, Graduate College, UIUC** (_the only recipient from CS_), [2023](awards/Dissertation_Completion_Fellowship.pdf)     
