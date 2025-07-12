@@ -5,9 +5,9 @@ Office: 222 Peterson Building, 435 Nagle St, College Station, TX 77843
 ## About Me
 I am an Assistant Professor at the Department of Computer Science & Engineering at Texas A&M University. I lead the [SKY Lab](https://yuzhimanhua.github.io/sky-lab.github.io).
 
-Prior to TAMU, I received my Ph.D. and M.Sc. degrees in Computer Science from the University of Illinois at Urbana-Champaign, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu). During my graduate study, I visited the University of Washington, working with Prof. [Sheng Wang](https://homes.cs.washington.edu/~swang); I interned at Microsoft Research Redmond three times, working with Dr. [Iris Shen](https://www.microsoft.com/en-us/research/people/zhihosh), Dr. [Hao Cheng](https://www.microsoft.com/en-us/research/people/chehao), Dr. [Xiaodong Liu](https://www.microsoft.com/en-us/research/people/xiaodl), and Dr. [Yuxiao Dong](http://keg.cs.tsinghua.edu.cn/yuxiao); I also got the [Dissertation Completion Fellowship](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/dissertation-completion-fellowship) (awarded by the UIUC Graduate College) and the [Yunni & Maxine Pao Memorial Fellowship](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/yunni-and-maxine-pao-memorial-fellowship) (awarded by the UIUC College of Engineering).
+Prior to TAMU, I received my Ph.D. and M.Sc. degrees in Computer Science from the University of Illinois at Urbana-Champaign, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu). During my graduate study, I visited the University of Washington, working with Prof. [Sheng Wang](https://homes.cs.washington.edu/~swang); I interned at Microsoft Research Redmond three times, working with Dr. [Iris Shen](https://www.microsoft.com/en-us/research/people/zhihosh), Dr. [Hao Cheng](https://www.microsoft.com/en-us/research/people/chehao), Dr. [Xiaodong Liu](https://www.microsoft.com/en-us/research/people/xiaodl), and Dr. [Yuxiao Dong](http://keg.cs.tsinghua.edu.cn/yuxiao). My Ph.D. thesis won the [ACM SIGKDD Doctoral Dissertation Award Runner-Up]().
 
-Prior to UIUC, I received my B.Sc. degree in Computer Science from Peking University, advised by Prof. [Yan Zhang](https://www.cis.pku.edu.cn/szdw/zzjs/zy.htm). During my undergraduate study, I visited Carnegie Mellon University, working with Prof. [Kathleen M. Carley](https://s3d.cmu.edu/people/core-faculty/carley-kathleen.html).
+Prior to UIUC, I received my B.Sc. degree in Computer Science from Peking University, advised by Prof. [Yan Zhang](https://www.cis.pku.edu.cn/szdw/zzjs/zy.htm). During my undergraduate study, I got the [China National Scholarship](awards/China_National_Scholarship.pdf); I visited Carnegie Mellon University, working with Prof. [Kathleen M. Carley](https://s3d.cmu.edu/people/core-faculty/carley-kathleen.html).
 
 <b style="color:red">[Recruiting]</b> I am looking for self-motivated Ph.D. students and interns! Please fill out [this form](https://forms.gle/7VAvmmNrEEHYuftJ8) if you are interested in working with me. After completing the form, you are also welcome to reach out via email. I will read all submitted forms and emails but I do apologize for not being able to respond to each of them.
 
@@ -245,11 +245,12 @@ Yu Meng, Jiaxin Huang, **Yu Zhang**, and Jiawei Han.
 [KDD 2021](https://www.kdd.org/kdd2021). Singapore, Singapore. (Tutorial)
 
 ## Honors and Awards
+**ACM SIGKDD Doctoral Dissertation Award Runner-Up**, 2025     
 **EMNLP Outstanding Reviewer**, 2024     
 **KDD Outstanding Reviewer** (_30 in 1469_), [2023](awards/KDD23_Best_Reviewer.pdf)     
 **Dissertation Completion Fellowship, Graduate College, UIUC** (_the only recipient from CS_), [2023](awards/Dissertation_Completion_Fellowship.pdf)     
 **WWW Best Reviewer**, 2023     
-**SDM Best Poster Award Honorable Mention**, 2023       
+**SDM Best Poster Award Honorable Mention**, 2023     
 **Data Mining Research Excellence Gold Award, Data Mining Group, UIUC**, 2023, 2024     
 **CIKM Best Reviewer**, [2022](awards/CIKM22_Best_Reviewer.html)     
 **Yunni & Maxine Pao Memorial Fellowship, the Grainger College of Engineering, UIUC**, [2022](awards/Yunni_and_Maxine_Pao_Fellowship.pdf)     
