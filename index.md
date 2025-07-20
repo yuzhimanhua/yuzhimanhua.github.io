@@ -287,14 +287,7 @@ NeurIPS 2021-2022, 2024; ICML 2022-2025; ICLR 2021-2025; AAAI 2022;
 ACL 2021, 2023; EMNLP 2020, 2022-2024; NAACL 2021-2022; COLING 2022         
 
 **Journal Reviewer**         
-IEEE Transactions on Knowledge and Data Engineering (TKDE);         
-ACM Transactions on Information Systems (TOIS);          
-ACM Transactions on Knowledge Discovery from Data (TKDD);         
-Bioinformatics;      
-ACM Transactions on the Web (TWEB);      
-IEEE Transactions on Audio, Speech and Language Processing (TASLP);      
-IEEE Transactions on Big Data (TBD);         
-IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)
+TPAMI; TKDE; TOIS; TKDD; Bioinformatics; TWEB; TASLP; TBD; TCBB
 
 **Workshop Co-Organizer**     
 SKnowLLM@KDD 2025; MLoG-GenAI@KDD 2025
