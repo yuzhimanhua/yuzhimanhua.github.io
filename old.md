@@ -3,7 +3,7 @@
 
 2024-12-09 Gave a talk at the [LoG 2024 Seattle Meetup](https://xiaoxinhe.github.io/log24-meetup-seattle).
 
-2024-11 Attended [EMNLP 2024](https://2024.emnlp.org) in Miami, FL (in person) to present our paper.
+2024-11 Attended [EMNLP 2024](https://2024.emnlp.org) in Miami, FL to present our paper.
 
 2024-11-14 Honored to be selected as one of the Outstanding Reviewers by [EMNLP 2024](https://2024.emnlp.org)!
 
@@ -25,7 +25,7 @@
 
 2024-05-15 Gave a guest lecture at Northwestern University [[slides](talks/20240515.pdf)].
 
-2024-03 Attended [WSDM 2024](https://www.wsdm-conference.org/2024) in Mérida, Mexico (in person) to present our tutorial and give a keynote at the [Machine Learning on Graphs (MLoG) Workshop](https://mlog-workshop.github.io) [[slides](talks/20240515.pdf)].
+2024-03 Attended [WSDM 2024](https://www.wsdm-conference.org/2024) in Mérida, Mexico to present our tutorial and give a keynote at the [Machine Learning on Graphs (MLoG) Workshop](https://mlog-workshop.github.io) [[slides](talks/20240515.pdf)].
 
 ### 2023
 2023-07 to 2023-12 Invited to be a PC member of [WSDM 2024](https://www.wsdm-conference.org/2024), [ICLR 2024](https://iclr.cc/Conferences/2024), [WWW 2024](https://www2024.thewebconf.org), [SDM 2024](https://www.siam.org/conferences/cm/conference/sdm24), and [ICML 2024](https://icml.cc/Conferences/2024).

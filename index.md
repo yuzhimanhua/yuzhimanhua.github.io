@@ -5,7 +5,7 @@ Office: 222 Peterson Building, 435 Nagle St, College Station, TX 77843
 ## About Me
 I am an Assistant Professor at the Department of Computer Science & Engineering at Texas A&M University. I lead the [SKY Lab](https://yuzhimanhua.github.io/sky-lab.github.io).
 
-Prior to TAMU, I received my Ph.D. and M.Sc. degrees in Computer Science from the University of Illinois at Urbana-Champaign, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu). During my graduate study, I visited the University of Washington, working with Prof. [Sheng Wang](https://homes.cs.washington.edu/~swang); I interned at Microsoft Research Redmond three times, working with Dr. [Iris Shen](https://www.microsoft.com/en-us/research/people/zhihosh), Dr. [Hao Cheng](https://www.microsoft.com/en-us/research/people/chehao), Dr. [Xiaodong Liu](https://www.microsoft.com/en-us/research/people/xiaodl), and Dr. [Yuxiao Dong](http://keg.cs.tsinghua.edu.cn/yuxiao). My Ph.D. thesis won the [ACM SIGKDD Dissertation Award Runner-Up]().
+Prior to TAMU, I received my Ph.D. and M.Sc. degrees in Computer Science from the University of Illinois at Urbana-Champaign, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu). During my graduate study, I visited the University of Washington, working with Prof. [Sheng Wang](https://homes.cs.washington.edu/~swang); I interned at Microsoft Research Redmond three times, working with Dr. [Iris Shen](https://www.microsoft.com/en-us/research/people/zhihosh), Dr. [Hao Cheng](https://www.microsoft.com/en-us/research/people/chehao), Dr. [Xiaodong Liu](https://www.microsoft.com/en-us/research/people/xiaodl), and Dr. [Yuxiao Dong](http://keg.cs.tsinghua.edu.cn/yuxiao). My Ph.D. thesis won the [ACM SIGKDD Dissertation Award Runner-Up](https://kdd2025.kdd.org/awards).
 
 Prior to UIUC, I received my B.Sc. degree in Computer Science from Peking University, advised by Prof. [Yan Zhang](https://www.cis.pku.edu.cn/szdw/zzjs/zy.htm). During my undergraduate study, I got the [China National Scholarship](awards/China_National_Scholarship.pdf); I visited Carnegie Mellon University, working with Prof. [Kathleen M. Carley](https://s3d.cmu.edu/people/core-faculty/carley-kathleen.html).
 
@@ -28,11 +28,13 @@ Spring 2025: [CSCE 689 - Special Topics in NLP for Science](https://yuzhang-teac
 ## What's New [[What's Not New...](old.md)]
 2025-07 to 2025-12 Invited to be a PC member of [KDD 2026](https://kdd2026.kdd.org) (Area Chair).
 
+2025-08-03 Attended [KDD 2025](https://kdd2025.kdd.org) in Toronto, Canada to give my dissertation award talk.
+
 2025-01 to 2025-06 Invited to be a PC member of [KDD 2025](https://kdd2025.kdd.org) (Area Chair), [ACL 2025](https://2025.aclweb.org) (Area Chair), [NeurIPS 2025](https://neurips.cc/Conferences/2025) (Area Chair), and [EMNLP 2025](https://2025.emnlp.org) (Senior Area Chair).
 
 2025-05-15 Two papers got accepted by [ACL 2025](https://2025.aclweb.org) (1 main conference + 1 findings)!
 
-2025-04-30 Attended [SDM 2025](https://www.siam.org/conferences-events/siam-conferences/sdm25) in Washington, DC (in person) to present our tutorial.
+2025-04-30 Attended [SDM 2025](https://www.siam.org/conferences-events/siam-conferences/sdm25) in Washington, DC to present our tutorial.
 
 2025-04-11 Gave a talk at the University of Kansas [[slides](talks/20250411.pdf)].
 
