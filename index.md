@@ -226,38 +226,38 @@ _Top-K Influential Nodes in Social Networks: A Game Perspective_ [[PDF](papers/s
 [SIGIR 2017](http://sigir.org/sigir2017). Shinjuku, Tokyo, Japan. (Short Paper)
 
 ## Conference Tutorials (In Proceedings)
-_Bridging Text Data and Graph Data: Towards Semantics and Structure-aware Knowledge Discovery_ [[PDF](https://dl.acm.org/doi/10.1145/3616855.3636450)] [[tutorial page](https://peterjin.me/tutorials/wsdm24.html)]    
+_Bridging Text Data and Graph Data: Towards Semantics and Structure-aware Knowledge Discovery_ [[PDF](https://dl.acm.org/doi/10.1145/3616855.3636450)]     
 Bowen Jin, **Yu Zhang**, Sha Li, and Jiawei Han.     
 [WSDM 2024](https://www.wsdm-conference.org/2024). Mérida, Mexico. (Tutorial)
 
-_Pretrained Language Representations for Text Understanding: A Weakly-Supervised Perspective_ [[PDF](https://dl.acm.org/doi/10.1145/3580305.3599569)] [[tutorial page](https://yumeng5.github.io/kdd23-tutorial)]      
+_Pretrained Language Representations for Text Understanding: A Weakly-Supervised Perspective_ [[PDF](https://dl.acm.org/doi/10.1145/3580305.3599569)]      
 Yu Meng, Jiaxin Huang, **Yu Zhang**, Yunyi Zhang, and Jiawei Han.     
 [KDD 2023](https://kdd.org/kdd2023). Long Beach, CA, USA. (Tutorial)
 
-_Tutorials at The Web Conference 2023_ [[PDF](https://dl.acm.org/doi/10.1145/3543873.3587713)] [[tutorial page](https://yumeng5.github.io/www23-tutorial)]     
+_Tutorials at The Web Conference 2023_ [[PDF](https://dl.acm.org/doi/10.1145/3543873.3587713)]     
 Valeria Fionda, Olaf Hartig, et al. (including **Yu Zhang**)     
 [WWW 2023](https://www2023.thewebconf.org). Austin, TX, USA. (Tutorial)
 
-_Mining Structures from Massive Texts by Exploring the Power of Pre-trained Language Models_ [[PDF](https://openproceedings.org/2023/conf/edbt/3-paper-201.pdf)] [[tutorial page](tutorials/edbt2023.md)]    
+_Mining Structures from Massive Texts by Exploring the Power of Pre-trained Language Models_ [[PDF](https://openproceedings.org/2023/conf/edbt/3-paper-201.pdf)]     
 **Yu Zhang**, Yunyi Zhang, and Jiawei Han.     
 [EDBT 2023](http://edbticdt2023.cs.uoi.gr). Ioannina, Greece. (Tutorial)
 
-_Adapting Pretrained Representations for Text Mining_ [[PDF](https://dl.acm.org/doi/10.1145/3534678.3542607)] [[tutorial page](https://yumeng5.github.io/kdd22-tutorial)]      
+_Adapting Pretrained Representations for Text Mining_ [[PDF](https://dl.acm.org/doi/10.1145/3534678.3542607)]     
 Yu Meng, Jiaxin Huang, **Yu Zhang**, and Jiawei Han.        
 [KDD 2022](https://www.kdd.org/kdd2022). Washington, DC, USA. (Tutorial)
 
-_On the Power of Pre-Trained Text Representations: Models and Applications in Text Mining_ [[PDF](https://dl.acm.org/doi/10.1145/3447548.3470810)] [[tutorial page](https://yumeng5.github.io/kdd21-tutorial)]   
+_On the Power of Pre-Trained Text Representations: Models and Applications in Text Mining_ [[PDF](https://dl.acm.org/doi/10.1145/3447548.3470810)]     
 Yu Meng, Jiaxin Huang, **Yu Zhang**, and Jiawei Han.        
 [KDD 2021](https://www.kdd.org/kdd2021). Singapore, Singapore. (Tutorial)
 
-## Workshop Summary (In Proceedings)
+## Workshop Summaries (In Proceedings)
 _Machine Learning on Graphs in the Era of Generative Artificial Intelligence_ [[PDF](https://dl.acm.org/doi/10.1145/3711896.3737870)]     
-Yu Wang, **Yu Zhang**, Zhichun Guo, Harry Shomer, Haoyu Han, Tyler Derr, Nesreen K. Ahmed, Mahantesh Halappanavar, and Jiliang Tang     
-[KDD 2025](https://kdd2025.kdd.org). Toronto, Canada. (Workshop Summary)
+Yu Wang, **Yu Zhang**, Zhichun Guo, Harry Shomer, Haoyu Han, Tyler Derr, Nesreen K. Ahmed, Mahantesh Halappanavar, and Jiliang Tang.     
+[KDD 2025](https://kdd2025.kdd.org). Toronto, Canada. (Workshop)
 
 _SKnow-LLM Workshop: Structured Knowledge for Large Language Models_ [[PDF](https://dl.acm.org/doi/10.1145/3711896.3737845)]    
-Qi Zhu, Xiusi Chen, **Yu Zhang**, Soji Adeshina, Costas Mavromatis, Zhen Han, Vassilis N. Ioannidis, Leman Akoglu, Danai Koutra, Huzefa Rangwala     
-[KDD 2025](https://kdd2025.kdd.org). Toronto, Canada. (Workshop Summary)
+Qi Zhu, Xiusi Chen, **Yu Zhang**, Soji Adeshina, Costas Mavromatis, Zhen Han, Vassilis N. Ioannidis, Leman Akoglu, Danai Koutra, and Huzefa Rangwala.     
+[KDD 2025](https://kdd2025.kdd.org). Toronto, Canada. (Workshop)
 
 ## Honors and Awards
 **ACM SIGKDD Dissertation Award Runner-Up**, 2025     
