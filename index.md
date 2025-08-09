@@ -15,7 +15,7 @@ Prior to UIUC, I received my B.Sc. degree in Computer Science from Peking Univer
 NLP and Data Mining for Science (Biology, Medicine, Mathematics, and Science of Science):      
 [[WWW 2025](papers/www25.pdf), [EMNLP 2024](papers/emnlp24.pdf), [EMNLP 2023](papers/emnlp23findings.pdf), [KDD 2023a](papers/kdd23zhang.pdf), [WWW 2023](papers/www23.pdf), [Bioinformatics 2019](papers/bioinformatics19.pdf)]
 
-NLP with Graphs and Structural Knowledge:     
+NLP and Text Mining with Graphs and Structural Knowledge:     
 [[ACL 2024](papers/acl24findings.pdf), [ACL 2023](papers/acl23jin.pdf), [KDD 2023b](papers/kdd23jin.pdf), [ICLR 2023](papers/iclr23.pdf), [WWW 2021](papers/www21.pdf)]
 
 NLP and Data Mining under Weak Supervision:      
@@ -28,7 +28,7 @@ Spring 2025: [CSCE 689 - Special Topics in NLP for Science](https://yuzhang-teac
 ## What's New [[What's Not New...](old.md)]
 2025-07 to 2025-12 Invited to be a PC member of [KDD 2026](https://kdd2026.kdd.org) (Area Chair).
 
-2025-08-03 Attended [KDD 2025](https://kdd2025.kdd.org) in Toronto, Canada to give my dissertation award talk.
+2025-08-03 Attended [KDD 2025](https://kdd2025.kdd.org) in Toronto, Canada. Thrilled to receive the [ACM SIGKDD Dissertation Award Runner-Up](https://kdd2025.kdd.org/awards) and give my award talk!
 
 2025-01 to 2025-06 Invited to be a PC member of [KDD 2025](https://kdd2025.kdd.org) (Area Chair), [ACL 2025](https://2025.aclweb.org) (Area Chair), [NeurIPS 2025](https://neurips.cc/Conferences/2025) (Area Chair), and [EMNLP 2025](https://2025.emnlp.org) (Senior Area Chair).
 
@@ -78,6 +78,10 @@ SeongKu Kang, Bowen Jin, Wonbin Kweon, **Yu Zhang**, Dongha Lee, Jiawei Han, and
 [WSDM 2025](https://www.wsdm-conference.org/2025). Hannover, Germany.
 
 ### 2024
+_Structure-Enhanced Text Mining for Science_ [[Link](https://www.ideals.illinois.edu/items/134246)]     
+**Yu Zhang**.      
+[Ph.D. Thesis](https://www.ideals.illinois.edu/items/134246). (<span style="color:red">ACM SIGKDD Dissertation Award Runner-Up</span>)
+
 _A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery_ [[PDF](papers/emnlp24.pdf)] [[arXiv](https://arxiv.org/abs/2406.10833)] [[project page](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)]    
 **Yu Zhang\***, Xiusi Chen\*, Bowen Jin\*, Sheng Wang, Shuiwang Ji, Wei Wang, and Jiawei Han.     
 [EMNLP 2024](https://2024.emnlp.org). Miami, FL, USA. (<span style="color:red">550+ stars on GitHub!</span>)
@@ -246,6 +250,15 @@ _On the Power of Pre-Trained Text Representations: Models and Applications in Te
 Yu Meng, Jiaxin Huang, **Yu Zhang**, and Jiawei Han.        
 [KDD 2021](https://www.kdd.org/kdd2021). Singapore, Singapore. (Tutorial)
 
+## Workshop Summary (In Proceedings)
+_Machine Learning on Graphs in the Era of Generative Artificial Intelligence_ [[PDF](https://dl.acm.org/doi/10.1145/3711896.3737870)]     
+Yu Wang, **Yu Zhang**, Zhichun Guo, Harry Shomer, Haoyu Han, Tyler Derr, Nesreen K. Ahmed, Mahantesh Halappanavar, and Jiliang Tang     
+[KDD 2025](https://kdd2025.kdd.org). Toronto, Canada. (Workshop Summary)
+
+_SKnow-LLM Workshop: Structured Knowledge for Large Language Models_ [[PDF](https://dl.acm.org/doi/10.1145/3711896.3737845)]    
+Qi Zhu, Xiusi Chen, **Yu Zhang**, Soji Adeshina, Costas Mavromatis, Zhen Han, Vassilis N. Ioannidis, Leman Akoglu, Danai Koutra, Huzefa Rangwala     
+[KDD 2025](https://kdd2025.kdd.org). Toronto, Canada. (Workshop Summary)
+
 ## Honors and Awards
 **ACM SIGKDD Dissertation Award Runner-Up**, 2025     
 **EMNLP Outstanding Reviewer**, 2024     
@@ -267,13 +280,14 @@ Yu Meng, Jiaxin Huang, **Yu Zhang**, and Jiawei Han.
 
 ## Invited Talks
 **Assisting Scientific Research with Structure-Aware Large Language Models [[slides](talks/20250411.pdf)]**     
-April 2025, invited talk at the University of Kansas.
+April 2025, Invited Talk at the University of Kansas.
 
 **Graph-Enhanced Scientific Text Mining [[slides](talks/20240515.pdf)]**     
-December 2024, invited talk at the LoG 2024 Seattle Meetup.      
-November 2024, guest lecture (CSE 427) at the University of Washington.      
-May 2024, guest lecture (STAT 359) at Northwestern University.      
-March 2024, keynote at the Machine Learning on Graphs (MLoG) Workshop at WSDM 2024.
+August 2025, ACM SIGKDD Dissertation Award talk at KDD 2025.     
+December 2024, Invited Talk at the LoG 2024 Seattle Meetup.      
+November 2024, Guest Lecture (CSE 427) at the University of Washington.      
+May 2024, Guest Lecture (STAT 359) at Northwestern University.      
+March 2024, Keynote at the Machine Learning on Graphs (MLoG) Workshop at WSDM 2024.
 
 ## Professional Services
 **Conference Senior Area Chair**        
