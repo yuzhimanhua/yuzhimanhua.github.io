@@ -261,20 +261,20 @@ Qi Zhu, Xiusi Chen, **Yu Zhang**, Soji Adeshina, Costas Mavromatis, Zhen Han, Va
 
 ## Honors and Awards
 **ACM SIGKDD Dissertation Award Runner-Up**, 2025     
-**EMNLP Outstanding Reviewer**, 2024     
-**KDD Outstanding Reviewer** (_30 in 1469_), [2023](awards/KDD23_Best_Reviewer.pdf)     
+EMNLP Outstanding Reviewer, 2024     
+KDD Outstanding Reviewer (_30 in 1469_), [2023](awards/KDD23_Best_Reviewer.pdf)     
 **Dissertation Completion Fellowship, Graduate College, UIUC** (_the only recipient from CS_), [2023](awards/Dissertation_Completion_Fellowship.pdf)     
-**WWW Best Reviewer**, 2023     
+WWW Best Reviewer, 2023     
 **SDM Best Poster Award Honorable Mention**, 2023     
-**Data Mining Research Excellence Gold Award, Data Mining Group, UIUC**, 2023, 2024     
-**CIKM Best Reviewer**, [2022](awards/CIKM22_Best_Reviewer.html)     
+Data Mining Research Excellence Gold Award, Data Mining Group, UIUC, 2023, 2024     
+CIKM Best Reviewer, [2022](awards/CIKM22_Best_Reviewer.html)     
 **Yunni & Maxine Pao Memorial Fellowship, the Grainger College of Engineering, UIUC**, [2022](awards/Yunni_and_Maxine_Pao_Fellowship.pdf)     
-**WWW Student Scholarship**, 2021     
-**WSDM Student Travel Grant**, 2021, 2022, 2023, 2024     
+WWW Student Scholarship, 2021     
+WSDM Student Travel Grant, 2021, 2022, 2023, 2024     
 **WWW Best Poster Award Honorable Mention**, [2018](awards/WWW18_Best_Poster_Honorable_Mention.html)     
 **Outstanding Undergraduate Thesis Award, School of EECS, Peking University** (_10 in 320_), 2017     
 **Outstanding Graduates, Peking University**, 2017     
-**SIGIR Student Travel Grant**, 2017, 2020     
+SIGIR Student Travel Grant, 2017, 2020     
 **China National Scholarship** (_top 1% in Peking University_), [2014](awards/China_National_Scholarship.pdf)     
 **First Prize, National Olympiad in Informatics in Provinces**, 2011, 2012
 
