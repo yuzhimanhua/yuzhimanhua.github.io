@@ -44,7 +44,7 @@ Spring 2025: [CSCE 689 - Special Topics in NLP for Science](https://yuzhang-teac
 
 2025-01-01 Joined Texas A&M University as an Assistant Professor!
 
-## Selected Publications [[Full List](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=N0PrmgIAAAAJ&sortby=pubdate)]
+## Selected Publications [[Full List](https://scholar.google.com/citations?hl=en&user=pL5b-6IAAAAJ&sortby=pubdate)]
 #### ("\*" indicates equal contribution. Unless otherwise specified, the paper is accepted as a research track long/regular paper.)
 
 ### Preprint
