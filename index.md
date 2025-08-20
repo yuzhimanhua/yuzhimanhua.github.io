@@ -28,6 +28,8 @@ Spring 2025: [CSCE 689 - Special Topics in NLP for Science](https://yuzhang-teac
 ## What's New [[What's Not New...](old.md)]
 2025-07 to 2025-12 Invited to be a PC member of [KDD 2026](https://kdd2026.kdd.org) (Area Chair).
 
+2025-08-20 One paper got accepted by [EMNLP 2025 Findings](https://2025.emnlp.org)!
+
 2025-08-03 Attended [KDD 2025](https://kdd2025.kdd.org) in Toronto, Canada. Thrilled to receive the [ACM SIGKDD Dissertation Award Runner-Up](https://kdd2025.kdd.org/awards) and give my award talk!
 
 2025-01 to 2025-06 Invited to be a PC member of [KDD 2025](https://kdd2025.kdd.org) (Area Chair), [ACL 2025](https://2025.aclweb.org) (Area Chair), [NeurIPS 2025](https://neurips.cc/Conferences/2025) (Area Chair), and [EMNLP 2025](https://2025.emnlp.org) (Senior Area Chair).
@@ -56,10 +58,6 @@ _RM-R1: Reward Modeling as Reasoning_ [[arXiv](https://arxiv.org/abs/2505.02387)
 Xiusi Chen, Gaotang Li, Ziqi Wang, Bowen Jin, Cheng Qian, Yu Wang, Hongru Wang, **Yu Zhang**, Denghui Zhang, Tong Zhang, Hanghang Tong, and Heng Ji.     
 [arXiv:2505.02387](https://arxiv.org/abs/2505.02387).
 
-_Protein Large Language Models: A Comprehensive Survey_ [[arXiv](https://arxiv.org/abs/2502.17504)] [[project page](https://github.com/Yijia-Xiao/Protein-LLM-Survey)]    
-Yijia Xiao, Wanjia Zhao, Junkai Zhang, Yiqiao Jin, Han Zhang, Zhicheng Ren, Renliang Sun, Haixin Wang, Guancheng Wan, Pan Lu, Xiao Luo, **Yu Zhang**, James Zou, Yizhou Sun, and Wei Wang.     
-[arXiv:2502.17504](https://arxiv.org/abs/2502.17504).
-
 ### 2025
 _Internal and External Impacts of Natural Language Processing Papers_ [[PDF](papers/acl25.pdf)] [[arXiv](https://arxiv.org/abs/2505.16061)] [[dataset](https://huggingface.co/datasets/yuz9yuz/NLPImpact)]      
 **Yu Zhang**.      
@@ -68,6 +66,10 @@ _Internal and External Impacts of Natural Language Processing Papers_ [[PDF](pap
 _Chain-of-Factors Paper-Reviewer Matching_ [[PDF](papers/www25.pdf)] [[arXiv](https://arxiv.org/abs/2310.14483)] [[code](https://github.com/yuzhimanhua/CoF)]     
 **Yu Zhang**, Yanzhen Shen, SeongKu Kang, Xiusi Chen, Bowen Jin, and Jiawei Han.      
 [WWW 2025](https://www2025.thewebconf.org). Sydney, Australia.
+
+_Protein Large Language Models: A Comprehensive Survey_ [[arXiv](https://arxiv.org/abs/2502.17504)] [[project page](https://github.com/Yijia-Xiao/Protein-LLM-Survey)]     
+Yijia Xiao, Wanjia Zhao, Junkai Zhang, Yiqiao Jin, Han Zhang, Zhicheng Ren, Renliang Sun, Haixin Wang, Guancheng Wan, Pan Lu, Xiao Luo, **Yu Zhang**, James Zou, Yizhou Sun, and Wei Wang.     
+[EMNLP 2025 Findings](https://2025.emnlp.org). Suzhou, China.
 
 _A Unified Taxonomy-Guided Instruction Tuning Framework for Entity Set Expansion and Taxonomy Expansion_ [[PDF](papers/acl25findings.pdf)] [[arXiv](https://arxiv.org/abs/2402.13405)] [[code](https://github.com/yanzhen4/TaxoInstruct)]     
 Yanzhen Shen, **Yu Zhang**, Yunyi Zhang, and Jiawei Han.      
