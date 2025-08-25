@@ -3,7 +3,7 @@ Email: yuzhang [AT] tamu [DOT] edu; yuz9yuz [AT] gmail [DOT] com
 Office: 222 Peterson Building, 435 Nagle St, College Station, TX 77843 
 
 ## About Me
-I am an Assistant Professor at the Department of Computer Science & Engineering at Texas A&M University. I lead the [SKY Lab](https://yuzhimanhua.github.io/sky-lab.github.io).
+I am an Assistant Professor at the Department of Computer Science & Engineering at Texas A&M University.
 
 Prior to TAMU, I received my Ph.D. and M.Sc. degrees in Computer Science from the University of Illinois at Urbana-Champaign, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu). During my graduate study, I visited the University of Washington, working with Prof. [Sheng Wang](https://homes.cs.washington.edu/~swang); I interned at Microsoft Research Redmond three times, working with Dr. [Iris Shen](https://www.microsoft.com/en-us/research/people/zhihosh), Dr. [Hao Cheng](https://www.microsoft.com/en-us/research/people/chehao), Dr. [Xiaodong Liu](https://www.microsoft.com/en-us/research/people/xiaodl), and Dr. [Yuxiao Dong](http://keg.cs.tsinghua.edu.cn/yuxiao). My Ph.D. thesis won the [ACM SIGKDD Dissertation Award Runner-Up](https://kdd2025.kdd.org/awards).
 
