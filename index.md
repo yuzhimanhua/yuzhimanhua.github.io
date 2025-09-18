@@ -12,21 +12,16 @@ Prior to UIUC, I received my B.Sc. degree in Computer Science from Peking Univer
 <b style="color:red">[Recruiting]</b> I am looking for self-motivated Ph.D. students and interns! Please fill out [this form](https://forms.gle/7VAvmmNrEEHYuftJ8) if you are interested in working with me. After completing the form, you are also welcome to reach out via email. I will read all submitted forms and emails but I do apologize for not being able to respond to each of them.
 
 ## Research Interests
-NLP and Data Mining for Science (Biology, Medicine, Mathematics, and Science of Science):      
-[[WWW 2025](papers/www25.pdf), [EMNLP 2024](papers/emnlp24.pdf), [EMNLP 2023](papers/emnlp23findings.pdf), [KDD 2023a](papers/kdd23zhang.pdf), [WWW 2023](papers/www23.pdf), [Bioinformatics 2019](papers/bioinformatics19.pdf)]
+- NLP and Data Mining for Science (Biology, Medicine, Mathematics, and Science of Science)
 
-NLP and Text Mining with Graphs and Structural Knowledge:     
-[[ACL 2024](papers/acl24findings.pdf), [ACL 2023](papers/acl23jin.pdf), [KDD 2023b](papers/kdd23jin.pdf), [ICLR 2023](papers/iclr23.pdf), [WWW 2021](papers/www21.pdf)]
-
-NLP and Data Mining under Weak Supervision:      
-[[ICML 2023](papers/icml23.pdf), [NeurIPS 2022](papers/neurips22.pdf), [WWW 2022](papers/www22zhang.pdf), [WSDM 2022](papers/wsdm22.pdf), [WSDM 2021](papers/wsdm21.pdf), [SIGIR 2020](papers/sigir20.pdf)]
+- LLM Agents with Structural Knowledge (Graphs, Ontologies, and Structural Memory)
 
 ## Teaching
 Fall 2025: [CSCE 670 - Information Storage and Retrieval](https://yuzhang-teaching.github.io/CSCE670-F25.html)     
-Spring 2025: [CSCE 689 - Special Topics in NLP for Science](https://yuzhang-teaching.github.io/CSCE689-S25.html)
+Spring 2025: CSCE 689 - Special Topics in NLP for Science
 
 ## What's New [[What's Not New...](old.md)]
-2025-07 to 2025-12 Invited to be a PC member of [KDD 2026](https://kdd2026.kdd.org) (Area Chair).
+2025-07 to 2025-12 Invited to be a PC member of [KDD 2026](https://kdd2026.kdd.org) (Area Chair) and [WWW 2026](https://www2026.thewebconf.org).
 
 2025-08-20 One paper got accepted by [EMNLP 2025 Findings](https://2025.emnlp.org)!
 
