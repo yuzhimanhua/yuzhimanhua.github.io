@@ -45,6 +45,10 @@ Spring 2025: CSCE 689 - Special Topics in NLP for Science
 #### ("\*" indicates equal contribution. Unless otherwise specified, the paper is accepted as a research track long/regular paper.)
 
 ### Preprint
+_Survivors, Complainers, and Borderliners: Upward Bias in Online Discussions of Academic Conference Reviews_ [[arXiv](https://arxiv.org/abs/2509.16831)]     
+Hangxiao Zhu, Yian Yin, and **Yu Zhang**.     
+[arXiv:2509.16831](https://arxiv.org/abs/2509.16831).
+
 _Curriculum Reinforcement Learning from Easy to Hard Tasks Improves LLM Reasoning_ [[arXiv](https://arxiv.org/abs/2506.06632)]     
 Shubham Parashar, Shurui Gui, Xiner Li, Hongyi Ling, Sushil Vemuri, Blake Olson, Eric Li, **Yu Zhang**, James Caverlee, Dileep Kalathil, and Shuiwang Ji.     
 [arXiv:2506.06632](https://arxiv.org/abs/2506.06632).
@@ -311,4 +315,4 @@ SIGIR 2020; KDD 2022-2023
 ## Miscellany
 I was born and raised in Shanghai, China. I graduated from the High School Affiliated to Fudan University.
 
-I played bridge during high school and [undergraduate](https://bbs.pku.edu.cn/v2/post-read.php?bid=362&threadid=15740792) time.
+I played [bridge](https://en.wikipedia.org/wiki/Contract_bridge) during high school and [undergraduate](https://bbs.pku.edu.cn/v2/post-read.php?bid=362&threadid=15740792) time.
