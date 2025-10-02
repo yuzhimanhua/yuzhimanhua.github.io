@@ -45,6 +45,10 @@ Spring 2025: CSCE 689 - Special Topics in NLP for Science
 #### ("\*" indicates equal contribution. Unless otherwise specified, the paper is accepted as a research track long/regular paper.)
 
 ### Preprint
+_Knowledge Homophily in Large Language Models_ [[arXiv](https://arxiv.org/abs/2509.23773)]     
+Utkarsh Sahu, Zhisheng Qi, Mahantesh Halappanavar, Nedim Lipka, Ryan A. Rossi, Franck Dernoncourt, **Yu Zhang**, Yao Ma, and Yu Wang.     
+[arXiv:2509.23773](https://arxiv.org/abs/2509.23773).
+
 _Survivors, Complainers, and Borderliners: Upward Bias in Online Discussions of Academic Conference Reviews_ [[arXiv](https://arxiv.org/abs/2509.16831)]     
 Hangxiao Zhu, Yian Yin, and **Yu Zhang**.     
 [arXiv:2509.16831](https://arxiv.org/abs/2509.16831).
@@ -298,7 +302,7 @@ EMNLP 2025
 KDD 2025-2026; ACL 2025; NeurIPS 2025
 
 **Conference Reviewer**        
-KDD 2022-2025; WWW 2022-2025; WSDM 2023-2025;      
+KDD 2022-2025; WWW 2022-2026; WSDM 2023-2025;      
 CIKM 2021-2024; SDM 2024; ECML/PKDD 2022;           
 NeurIPS 2021-2022, 2024; ICML 2022-2025; ICLR 2021-2025; AAAI 2022;         
 ACL 2021, 2023; EMNLP 2020, 2022-2024; NAACL 2021-2022; COLING 2022         
