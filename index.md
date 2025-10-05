@@ -25,7 +25,7 @@ Spring 2025: CSCE 689 - Special Topics in NLP for Science
 
 2025-08-20 One paper got accepted by [EMNLP 2025 Findings](https://2025.emnlp.org)!
 
-2025-08-03 Attended [KDD 2025](https://kdd2025.kdd.org) in Toronto, Canada. Thrilled to receive the [ACM SIGKDD Dissertation Award Runner-Up](https://kdd2025.kdd.org/awards) and give my award talk!
+2025-08-03 Attended [KDD 2025](https://kdd2025.kdd.org) in Toronto, Canada. Thrilled to receive the [ACM SIGKDD Dissertation Award Runner-Up](https://kdd2025.kdd.org/awards) and give my [award talk](https://www.youtube.com/watch?v=xjytpDE_nko&t=1550)!
 
 2025-01 to 2025-06 Invited to be a PC member of [KDD 2025](https://kdd2025.kdd.org) (Area Chair), [ACL 2025](https://2025.aclweb.org) (Area Chair), [NeurIPS 2025](https://neurips.cc/Conferences/2025) (Area Chair), and [EMNLP 2025](https://2025.emnlp.org) (Senior Area Chair).
 
@@ -83,7 +83,7 @@ SeongKu Kang, Bowen Jin, Wonbin Kweon, **Yu Zhang**, Dongha Lee, Jiawei Han, and
 [WSDM 2025](https://www.wsdm-conference.org/2025). Hannover, Germany.
 
 ### 2024
-_Structure-Enhanced Text Mining for Science_ [[Link](https://www.ideals.illinois.edu/items/134246)]     
+_Structure-Enhanced Text Mining for Science_ [[link](https://www.ideals.illinois.edu/items/134246)] [[award talk](https://www.youtube.com/watch?v=xjytpDE_nko&t=1550)]     
 **Yu Zhang**.      
 [Ph.D. Thesis](https://www.ideals.illinois.edu/items/134246). (<span style="color:red">ACM SIGKDD Dissertation Award Runner-Up</span>)
 
