@@ -23,6 +23,8 @@ Spring 2025: CSCE 689 - Special Topics in NLP for Science
 ## What's New [[What's Not New...](old.md)]
 2025-07 to 2025-12 Invited to be a PC member of [KDD 2026](https://kdd2026.kdd.org) (Area Chair) and [WWW 2026](https://www2026.thewebconf.org).
 
+2025-10-08 Our [paper](papers/wsdm25.pdf) on Scientific Document Retrieval was selected as one of the top-ranked papers published at [WSDM 2025](https://www.wsdm-conference.org/2025) and invited to the "Best Papers of WSDM 2025" Special Issue of ACM TIST!
+
 2025-08-20 One paper got accepted by [EMNLP 2025 Findings](https://2025.emnlp.org)!
 
 2025-08-03 Attended [KDD 2025](https://kdd2025.kdd.org) in Toronto, Canada. Thrilled to receive the [ACM SIGKDD Dissertation Award Runner-Up](https://kdd2025.kdd.org/awards) and give my [award talk](https://www.youtube.com/watch?v=xjytpDE_nko&t=1550)!
@@ -84,7 +86,7 @@ Yanzhen Shen, **Yu Zhang**, Yunyi Zhang, and Jiawei Han.
 
 _Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation_ [[PDF](papers/wsdm25.pdf)] [[arXiv](https://arxiv.org/abs/2502.11181)]     
 SeongKu Kang, Bowen Jin, Wonbin Kweon, **Yu Zhang**, Dongha Lee, Jiawei Han, and Hwanjo Yu.      
-[WSDM 2025](https://www.wsdm-conference.org/2025). Hannover, Germany.
+[WSDM 2025](https://www.wsdm-conference.org/2025). Hannover, Germany. (<span style="color:red">Best Papers of WSDM 2025, Invited to ACM TIST</span>)
 
 ### 2024
 _Structure-Enhanced Text Mining for Science_ [[link](https://www.ideals.illinois.edu/items/134246)] [[award talk](https://www.youtube.com/watch?v=xjytpDE_nko&t=1550)]     
