@@ -76,7 +76,7 @@ _Chain-of-Factors Paper-Reviewer Matching_ [[PDF](papers/www25.pdf)] [[arXiv](ht
 **Yu Zhang**, Yanzhen Shen, SeongKu Kang, Xiusi Chen, Bowen Jin, and Jiawei Han.      
 [WWW 2025](https://www2025.thewebconf.org). Sydney, Australia.
 
-_Protein Large Language Models: A Comprehensive Survey_ [[arXiv](https://arxiv.org/abs/2502.17504)] [[project page](https://github.com/Yijia-Xiao/Protein-LLM-Survey)]     
+_Protein Large Language Models: A Comprehensive Survey_ [[PDF](papers/emnlp25findings.pdf)] [[arXiv](https://arxiv.org/abs/2502.17504)] [[project page](https://github.com/Yijia-Xiao/Protein-LLM-Survey)]     
 Yijia Xiao, Wanjia Zhao, Junkai Zhang, Yiqiao Jin, Han Zhang, Zhicheng Ren, Renliang Sun, Haixin Wang, Guancheng Wan, Pan Lu, Xiao Luo, **Yu Zhang**, James Zou, Yizhou Sun, and Wei Wang.     
 [EMNLP 2025 Findings](https://2025.emnlp.org). Suzhou, China.
 
