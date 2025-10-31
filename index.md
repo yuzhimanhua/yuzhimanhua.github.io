@@ -49,7 +49,7 @@ Spring 2025: CSCE 689 - Special Topics in NLP for Science
 ### Preprint
 _In-the-Flow Agentic System Optimization for Effective Planning and Tool Use_ [[arXiv](https://arxiv.org/abs/2510.05592)] [[project page](https://agentflow.stanford.edu)] [[code](https://github.com/lupantech/AgentFlow)] [[model](https://huggingface.co/AgentFlow)] [[demo](https://huggingface.co/spaces/AgentFlow/agentflow)]  
 Zhuofeng Li, Haoxiang Zhang, Seungju Han, Sheng Liu, Jianwen Xie, **Yu Zhang**, Yejin Choi, James Zou, and Pan Lu.     
-[arXiv:2510.05592](https://arxiv.org/abs/2510.05592).
+[arXiv:2510.05592](https://arxiv.org/abs/2510.05592). [![Stars](https://img.shields.io/github/stars/lupantech/AgentFlow?style=social)]()
 
 _Knowledge Homophily in Large Language Models_ [[arXiv](https://arxiv.org/abs/2509.23773)]     
 Utkarsh Sahu, Zhisheng Qi, Mahantesh Halappanavar, Nedim Lipka, Ryan A. Rossi, Franck Dernoncourt, **Yu Zhang**, Yao Ma, and Yu Wang.     
@@ -93,9 +93,9 @@ _Structure-Enhanced Text Mining for Science_ [[link](https://www.ideals.illinois
 **Yu Zhang**.      
 [Ph.D. Thesis](https://www.ideals.illinois.edu/items/134246). (<span style="color:red">ACM SIGKDD Dissertation Award Runner-Up</span>)
 
-_A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery_ [[PDF](papers/emnlp24.pdf)] [[arXiv](https://arxiv.org/abs/2406.10833)] [[project page](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)] [![Stars](https://img.shields.io/github/stars/yuzhimanhua/Awesome-Scientific-Language-Models?style=social)](https://img.shields.io/github/stars/yuzhimanhua/Awesome-Scientific-Language-Models?style=social)     
+_A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery_ [[PDF](papers/emnlp24.pdf)] [[arXiv](https://arxiv.org/abs/2406.10833)] [[project page](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)]     
 **Yu Zhang\***, Xiusi Chen\*, Bowen Jin\*, Sheng Wang, Shuiwang Ji, Wei Wang, and Jiawei Han.     
-[EMNLP 2024](https://2024.emnlp.org). Miami, FL, USA.
+[EMNLP 2024](https://2024.emnlp.org). Miami, FL, USA. [![Stars](https://img.shields.io/github/stars/yuzhimanhua/Awesome-Scientific-Language-Models?style=social)]()
 
 _Seed-Guided Fine-Grained Entity Typing in Science and Engineering Domains_ [[PDF](papers/aaai24.pdf)] [[arXiv](https://arxiv.org/abs/2401.13129)] [[code](https://github.com/yuzhimanhua/SEType)]     
 **Yu Zhang\***, Yunyi Zhang\*, Yanzhen Shen, Yu Deng, Lucian Popa, Larisa Shwartz, ChengXiang Zhai, and Jiawei Han.     
