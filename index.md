@@ -93,9 +93,9 @@ _Structure-Enhanced Text Mining for Science_ [[link](https://www.ideals.illinois
 **Yu Zhang**.      
 [Ph.D. Thesis](https://www.ideals.illinois.edu/items/134246). (<span style="color:red">ACM SIGKDD Dissertation Award Runner-Up</span>)
 
-_A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery_ [[PDF](papers/emnlp24.pdf)] [[arXiv](https://arxiv.org/abs/2406.10833)] [[project page](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)]    
+_A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery_ [[PDF](papers/emnlp24.pdf)] [[arXiv](https://arxiv.org/abs/2406.10833)] [[project page](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)] [![Stars](https://img.shields.io/github/stars/yuzhimanhua/Awesome-Scientific-Language-Models?style=social)](https://img.shields.io/github/stars/yuzhimanhua/Awesome-Scientific-Language-Models?style=social)     
 **Yu Zhang\***, Xiusi Chen\*, Bowen Jin\*, Sheng Wang, Shuiwang Ji, Wei Wang, and Jiawei Han.     
-[EMNLP 2024](https://2024.emnlp.org). Miami, FL, USA. (<span style="color:red">600+ stars on GitHub!</span>)
+[EMNLP 2024](https://2024.emnlp.org). Miami, FL, USA.
 
 _Seed-Guided Fine-Grained Entity Typing in Science and Engineering Domains_ [[PDF](papers/aaai24.pdf)] [[arXiv](https://arxiv.org/abs/2401.13129)] [[code](https://github.com/yuzhimanhua/SEType)]     
 **Yu Zhang\***, Yunyi Zhang\*, Yanzhen Shen, Yu Deng, Lucian Popa, Larisa Shwartz, ChengXiang Zhai, and Jiawei Han.     
