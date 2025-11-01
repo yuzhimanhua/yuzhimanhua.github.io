@@ -23,6 +23,8 @@ Spring 2025: CSCE 689 - Special Topics in NLP for Science
 ## What's New [[What's Not New...](old.md)]
 2025-07 to 2025-12 Invited to be a PC member of [KDD 2026](https://kdd2026.kdd.org) (Area Chair) and [WWW 2026](https://www2026.thewebconf.org).
 
+2025-10-30 Gave a guest lecture at Auburn University.
+
 2025-10-08 Our [paper](papers/wsdm25.pdf) on Scientific Document Retrieval was selected as one of the top-ranked papers published at [WSDM 2025](https://www.wsdm-conference.org/2025) and invited to the "Best Papers of WSDM 2025" Special Issue of ACM TIST!
 
 2025-08-20 One paper got accepted by [EMNLP 2025 Findings](https://2025.emnlp.org)!
@@ -35,7 +37,7 @@ Spring 2025: CSCE 689 - Special Topics in NLP for Science
 
 2025-04-30 Attended [SDM 2025](https://www.siam.org/conferences-events/siam-conferences/sdm25) in Washington, DC to present our tutorial.
 
-2025-04-11 Gave a talk at the University of Kansas [[slides](talks/20250411.pdf)].
+2025-04-11 Gave a talk at the University of Kansas.
 
 2025-03-07 We will hold two [KDD 2025](https://kdd2025.kdd.org) workshops on [Structured Knowledge for Large Language Models (SKnowLLM)](https://sknowllm.github.io) and [Machine Learning on Graphs in the Era of Artificial General Intelligence (MLoG-GenAI)](https://mlgraphworkshop.github.io)! See you in Toronto!
 
@@ -291,6 +293,7 @@ SIGIR Student Travel Grant, 2017, 2020
 
 ## Invited Talks
 **Assisting Scientific Research with Structure-Aware Large Language Models [[slides](talks/20250411.pdf)]**     
+October 2025, Guest Lecture (COMP 5970/6970) at Auburn University.     
 April 2025, Invited Talk at the University of Kansas.
 
 **Graph-Enhanced Scientific Text Mining [[slides](talks/20240515.pdf)]**     

@@ -7,7 +7,7 @@
 
 2024-11-14 Honored to be selected as one of the Outstanding Reviewers by [EMNLP 2024](https://2024.emnlp.org)!
 
-2024-11-07 Gave a guest lecture at the University of Washington [[slides](talks/20240515.pdf)].
+2024-11-07 Gave a guest lecture at the University of Washington.
 
 2024-10-23 Our paper on Scientific Document Retrieval was accepted by [WSDM 2025](https://www.wsdm-conference.org/2025)! The acceptance rate is 17.3% (106/614).
 
@@ -23,9 +23,9 @@
 
 2024-05-16 Our paper on Graph Chain-of-Thought Prompting was accepted by [ACL 2024 Findings](https://2024.aclweb.org)!
 
-2024-05-15 Gave a guest lecture at Northwestern University [[slides](talks/20240515.pdf)].
+2024-05-15 Gave a guest lecture at Northwestern University.
 
-2024-03 Attended [WSDM 2024](https://www.wsdm-conference.org/2024) in Mérida, Mexico to present our tutorial and give a keynote at the [Machine Learning on Graphs (MLoG) Workshop](https://mlog-workshop.github.io) [[slides](talks/20240515.pdf)].
+2024-03 Attended [WSDM 2024](https://www.wsdm-conference.org/2024) in Mérida, Mexico to present our tutorial and give a keynote at the [Machine Learning on Graphs (MLoG) Workshop](https://mlog-workshop.github.io).
 
 ### 2023
 2023-07 to 2023-12 Invited to be a PC member of [WSDM 2024](https://www.wsdm-conference.org/2024), [ICLR 2024](https://iclr.cc/Conferences/2024), [WWW 2024](https://www2024.thewebconf.org), [SDM 2024](https://www.siam.org/conferences/cm/conference/sdm24), and [ICML 2024](https://icml.cc/Conferences/2024).
