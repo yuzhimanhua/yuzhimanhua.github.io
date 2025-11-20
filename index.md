@@ -23,6 +23,8 @@ Spring 2025: CSCE 689 - Special Topics in NLP for Science
 ## What's New [[What's Not New...](old.md)]
 2025-07 to 2025-12 Invited to be a PC member of [KDD 2026](https://kdd2026.kdd.org) (Area Chair) and [WWW 2026](https://www2026.thewebconf.org).
 
+2025-11-01 Our tutorial proposal on RAG with Structured Knowledge was accepted by [WSDM 2026](https://wsdm-conference.org/2026) tutorial track!
+
 2025-10-30 Gave a guest lecture at Auburn University.
 
 2025-10-08 Our [paper](papers/wsdm25.pdf) on Scientific Document Retrieval was selected as one of the top-ranked papers published at [WSDM 2025](https://www.wsdm-conference.org/2025) and invited to the "Best Papers of WSDM 2025" Special Issue of ACM TIST!
@@ -239,6 +241,10 @@ _Top-K Influential Nodes in Social Networks: A Game Perspective_ [[PDF](papers/s
 [SIGIR 2017](http://sigir.org/sigir2017). Shinjuku, Tokyo, Japan. (Short Paper)
 
 ## Conference Tutorials (In Proceedings)
+_Democratizing RAGs with Structured Knowledge_     
+Yu Wang, Zhisheng Qi, Yongjia Lei, Haoyu Han, Harry Shomer, Kaize Ding, **Yu Zhang**, Ryan Rossi, and Hui Liu.     
+[WSDM 2026](https://wsdm-conference.org/2026). Boise, ID, USA. (Tutorial)
+
 _Bridging Text Data and Graph Data: Towards Semantics and Structure-aware Knowledge Discovery_ [[PDF](https://dl.acm.org/doi/10.1145/3616855.3636450)]     
 Bowen Jin, **Yu Zhang**, Sha Li, and Jiawei Han.     
 [WSDM 2024](https://www.wsdm-conference.org/2024). Mérida, Mexico. (Tutorial)
