@@ -17,13 +17,16 @@ Prior to UIUC, I received my B.Sc. degree in Computer Science from Peking Univer
 - LLM Agents with Structural Knowledge (Graphs, Ontologies, and Structural Memory)
 
 ## Teaching
+Spring 2026: CSCE 670 - Information Storage and Retrieval     
 Fall 2025: [CSCE 670 - Information Storage and Retrieval](https://yuzhang-teaching.github.io/CSCE670-F25.html)     
 Spring 2025: CSCE 689 - Special Topics in NLP for Science
 
 ## What's New [[What's Not New...](old.md)]
 2025-07 to 2025-12 Invited to be a PC member of [KDD 2026](https://kdd2026.kdd.org) (Area Chair) and [WWW 2026](https://www2026.thewebconf.org).
 
-2025-11-01 Our tutorial proposal on RAG with Structured Knowledge was accepted by [WSDM 2026](https://wsdm-conference.org/2026) tutorial track!
+2025-11-28 One paper got accepted by [WSDM 2026](https://wsdm-conference.org/2026) short paper track!
+
+2025-11-01 One tutorial proposal got accepted by [WSDM 2026](https://wsdm-conference.org/2026) tutorial track!
 
 2025-10-30 Gave a guest lecture at Auburn University.
 
@@ -55,10 +58,6 @@ _In-the-Flow Agentic System Optimization for Effective Planning and Tool Use_ [[
 Zhuofeng Li, Haoxiang Zhang, Seungju Han, Sheng Liu, Jianwen Xie, **Yu Zhang**, Yejin Choi, James Zou, and Pan Lu.     
 [arXiv:2510.05592](https://arxiv.org/abs/2510.05592). [![Stars](https://img.shields.io/github/stars/lupantech/AgentFlow?style=social)]()
 
-_Knowledge Homophily in Large Language Models_ [[arXiv](https://arxiv.org/abs/2509.23773)]     
-Utkarsh Sahu, Zhisheng Qi, Mahantesh Halappanavar, Nedim Lipka, Ryan A. Rossi, Franck Dernoncourt, **Yu Zhang**, Yao Ma, and Yu Wang.     
-[arXiv:2509.23773](https://arxiv.org/abs/2509.23773).
-
 _Survivors, Complainers, and Borderliners: Upward Bias in Online Discussions of Academic Conference Reviews_ [[arXiv](https://arxiv.org/abs/2509.16831)]     
 Hangxiao Zhu, Yian Yin, and **Yu Zhang**.     
 [arXiv:2509.16831](https://arxiv.org/abs/2509.16831).
@@ -70,6 +69,12 @@ Shubham Parashar, Shurui Gui, Xiner Li, Hongyi Ling, Sushil Vemuri, Blake Olson,
 _RM-R1: Reward Modeling as Reasoning_ [[arXiv](https://arxiv.org/abs/2505.02387)] [[code](https://github.com/RM-R1-UIUC/RM-R1)]     
 Xiusi Chen, Gaotang Li, Ziqi Wang, Bowen Jin, Cheng Qian, Yu Wang, Hongru Wang, **Yu Zhang**, Denghui Zhang, Tong Zhang, Hanghang Tong, and Heng Ji.     
 [arXiv:2505.02387](https://arxiv.org/abs/2505.02387).
+
+### 2026
+_Knowledge Homophily in Large Language Models_ [[arXiv](https://arxiv.org/abs/2509.23773)]     
+Utkarsh Sahu, Zhisheng Qi, Mahantesh Halappanavar, Nedim Lipka, Ryan A. Rossi, Franck Dernoncourt, **Yu Zhang**, Yao Ma, and Yu Wang.     
+[arXiv:2509.23773](https://arxiv.org/abs/2509.23773).
+[WSDM 2026](https://wsdm-conference.org/2026). Boise, ID, USA. (Short Paper)
 
 ### 2025
 _Internal and External Impacts of Natural Language Processing Papers_ [[PDF](papers/acl25.pdf)] [[arXiv](https://arxiv.org/abs/2505.16061)] [[dataset](https://huggingface.co/datasets/yuz9yuz/NLPImpact)]      
