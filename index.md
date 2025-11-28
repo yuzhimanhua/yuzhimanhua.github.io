@@ -73,7 +73,6 @@ Xiusi Chen, Gaotang Li, Ziqi Wang, Bowen Jin, Cheng Qian, Yu Wang, Hongru Wang, 
 ### 2026
 _Knowledge Homophily in Large Language Models_ [[arXiv](https://arxiv.org/abs/2509.23773)]     
 Utkarsh Sahu, Zhisheng Qi, Mahantesh Halappanavar, Nedim Lipka, Ryan A. Rossi, Franck Dernoncourt, **Yu Zhang**, Yao Ma, and Yu Wang.     
-[arXiv:2509.23773](https://arxiv.org/abs/2509.23773).
 [WSDM 2026](https://wsdm-conference.org/2026). Boise, ID, USA. (Short Paper)
 
 ### 2025
