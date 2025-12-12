@@ -22,7 +22,7 @@ Fall 2025: [CSCE 670 - Information Storage and Retrieval](https://yuzhang-teachi
 Spring 2025: CSCE 689 - Special Topics in NLP for Science
 
 ## What's New [[What's Not New...](old.md)]
-2025-07 to 2025-12 Invited to be a PC member of [KDD 2026](https://kdd2026.kdd.org) (Area Chair) and [WWW 2026](https://www2026.thewebconf.org).
+2025-07 to 2025-12 Invited to be a PC member of [KDD 2026](https://kdd2026.kdd.org) (Area Chair), [WWW 2026](https://www2026.thewebconf.org), and [ACL 2026](https://2026.aclweb.org) (Senior Area Chair).
 
 2025-11-28 One paper got accepted by [WSDM 2026](https://wsdm-conference.org/2026) short paper track!
 
@@ -315,7 +315,7 @@ March 2024, Keynote at the Machine Learning on Graphs (MLoG) Workshop at WSDM 20
 
 ## Professional Services
 **Conference Senior Area Chair**        
-EMNLP 2025
+ACL 2026; EMNLP 2025
 
 **Conference Area Chair**        
 KDD 2025-2026; ACL 2025; NeurIPS 2025
