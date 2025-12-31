@@ -54,6 +54,10 @@ Spring 2025: CSCE 689 - Special Topics in NLP for Science
 #### ("\*" indicates equal contribution. Unless otherwise specified, the paper is accepted as a research track long/regular paper.)
 
 ### Preprint
+_Adaptation of Agentic AI_ [[arXiv](https://arxiv.org/abs/2512.16301)] [[project page](https://github.com/pat-jj/Awesome-Adaptation-of-Agentic-AI)]     
+Pengcheng Jiang, Jiacheng Lin, Zhiyi Shi, et al. (including **Yu Zhang**)     
+[arXiv:2512.16301](https://arxiv.org/abs/2512.16301). [![Stars](https://img.shields.io/github/stars/pat-jj/Awesome-Adaptation-of-Agentic-AI?style=social)]()
+
 _In-the-Flow Agentic System Optimization for Effective Planning and Tool Use_ [[arXiv](https://arxiv.org/abs/2510.05592)] [[project page](https://agentflow.stanford.edu)] [[code](https://github.com/lupantech/AgentFlow)] [[model](https://huggingface.co/AgentFlow)] [[demo](https://huggingface.co/spaces/AgentFlow/agentflow)]  
 Zhuofeng Li, Haoxiang Zhang, Seungju Han, Sheng Liu, Jianwen Xie, **Yu Zhang**, Yejin Choi, James Zou, and Pan Lu.     
 [arXiv:2510.05592](https://arxiv.org/abs/2510.05592). [![Stars](https://img.shields.io/github/stars/lupantech/AgentFlow?style=social)]()
