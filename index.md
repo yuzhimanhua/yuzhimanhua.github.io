@@ -17,8 +17,8 @@ Prior to UIUC, I received my B.Sc. degree in Computer Science from Peking Univer
 - LLM Agents with Structural Knowledge (Graphs, Ontologies, and Structural Memory)
 
 ## Teaching
-Spring 2026: CSCE 670 - Information Storage and Retrieval     
-Fall 2025: [CSCE 670 - Information Storage and Retrieval](https://yuzhang-teaching.github.io/CSCE670-F25.html)     
+Spring 2026: [CSCE 670 - Information Storage and Retrieval](https://yuzhang-teaching.github.io/CSCE670-S26.html)     
+Fall 2025: CSCE 670 - Information Storage and Retrieval     
 Spring 2025: CSCE 689 - Special Topics in NLP for Science
 
 ## What's New [[What's Not New...](old.md)]
@@ -35,20 +35,6 @@ Spring 2025: CSCE 689 - Special Topics in NLP for Science
 2025-08-20 One paper got accepted by [EMNLP 2025 Findings](https://2025.emnlp.org)!
 
 2025-08-03 Attended [KDD 2025](https://kdd2025.kdd.org) in Toronto, Canada. Thrilled to receive the [ACM SIGKDD Dissertation Award Runner-Up](https://kdd2025.kdd.org/awards) and give my [award talk](https://www.youtube.com/watch?v=xjytpDE_nko&t=1550)!
-
-2025-01 to 2025-06 Invited to be a PC member of [KDD 2025](https://kdd2025.kdd.org) (Area Chair), [ACL 2025](https://2025.aclweb.org) (Area Chair), [NeurIPS 2025](https://neurips.cc/Conferences/2025) (Area Chair), and [EMNLP 2025](https://2025.emnlp.org) (Senior Area Chair).
-
-2025-05-15 Two papers got accepted by [ACL 2025](https://2025.aclweb.org) (1 main conference + 1 findings)!
-
-2025-04-30 Attended [SDM 2025](https://www.siam.org/conferences-events/siam-conferences/sdm25) in Washington, DC to present our tutorial.
-
-2025-04-11 Gave a talk at the University of Kansas.
-
-2025-03-07 We will hold two [KDD 2025](https://kdd2025.kdd.org) workshops on [Structured Knowledge for Large Language Models (SKnowLLM)](https://sknowllm.github.io) and [Machine Learning on Graphs in the Era of Artificial General Intelligence (MLoG-GenAI)](https://mlgraphworkshop.github.io)! See you in Toronto!
-
-2025-01-20 Our paper on Paper-Reviewer Matching was accepted by [WWW 2025](https://www2025.thewebconf.org) as an oral presentation! The acceptance rate is 19.8% (409/2062).
-
-2025-01-01 Joined Texas A&M University as an Assistant Professor!
 
 ## Selected Publications [[Full List](https://scholar.google.com/citations?hl=en&user=pL5b-6IAAAAJ&sortby=pubdate)]
 #### ("\*" indicates equal contribution. Unless otherwise specified, the paper is accepted as a research track long/regular paper.)

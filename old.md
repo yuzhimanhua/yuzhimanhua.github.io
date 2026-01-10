@@ -1,3 +1,18 @@
+### 2025
+2025-01 to 2025-06 Invited to be a PC member of [KDD 2025](https://kdd2025.kdd.org) (Area Chair), [ACL 2025](https://2025.aclweb.org) (Area Chair), [NeurIPS 2025](https://neurips.cc/Conferences/2025) (Area Chair), and [EMNLP 2025](https://2025.emnlp.org) (Senior Area Chair).
+
+2025-05-15 Two papers got accepted by [ACL 2025](https://2025.aclweb.org) (1 main conference + 1 findings)!
+
+2025-04-30 Attended [SDM 2025](https://www.siam.org/conferences-events/siam-conferences/sdm25) in Washington, DC to present our tutorial.
+
+2025-04-11 Gave a talk at the University of Kansas.
+
+2025-03-07 We will hold two [KDD 2025](https://kdd2025.kdd.org) workshops on [Structured Knowledge for Large Language Models (SKnowLLM)](https://sknowllm.github.io) and [Machine Learning on Graphs in the Era of Artificial General Intelligence (MLoG-GenAI)](https://mlgraphworkshop.github.io)! See you in Toronto!
+
+2025-01-20 Our paper on Paper-Reviewer Matching was accepted by [WWW 2025](https://www2025.thewebconf.org) as an oral presentation! The acceptance rate is 19.8% (409/2062).
+
+2025-01-01 Joined Texas A&M University as an Assistant Professor!
+
 ### 2024
 2024-07 to 2024-12 Invited to be a PC member of [KDD 2025](https://kdd2025.kdd.org), [ICLR 2025](https://iclr.cc/Conferences/2025), [WWW 2025](https://www2025.thewebconf.org), and [ICML 2025](https://icml.cc/Conferences/2025).
 
