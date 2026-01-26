@@ -22,6 +22,10 @@ Fall 2025: CSCE 670 - Information Storage and Retrieval
 Spring 2025: CSCE 689 - Special Topics in NLP for Science
 
 ## What's New [[What's Not New...](old.md)]
+2026-01 to 2026-06 Invited to be a PC member of [KDD 2026](https://kdd2026.kdd.org) (Area Chair).
+
+2026-01-26 Three papers got accepted by [ICLR 2026](https://iclr.cc/Conferences/2026)!
+
 2025-07 to 2025-12 Invited to be a PC member of [KDD 2026](https://kdd2026.kdd.org) (Area Chair), [WWW 2026](https://www2026.thewebconf.org), and [ACL 2026](https://2026.aclweb.org) (Senior Area Chair).
 
 2025-11-28 One paper got accepted by [WSDM 2026](https://wsdm-conference.org/2026) short paper track!
@@ -44,23 +48,23 @@ _Adaptation of Agentic AI_ [[arXiv](https://arxiv.org/abs/2512.16301)] [[project
 Pengcheng Jiang, Jiacheng Lin, Zhiyi Shi, et al. (including **Yu Zhang**)     
 [arXiv:2512.16301](https://arxiv.org/abs/2512.16301). [![Stars](https://img.shields.io/github/stars/pat-jj/Awesome-Adaptation-of-Agentic-AI?style=social)]()
 
-_In-the-Flow Agentic System Optimization for Effective Planning and Tool Use_ [[arXiv](https://arxiv.org/abs/2510.05592)] [[project page](https://agentflow.stanford.edu)] [[code](https://github.com/lupantech/AgentFlow)] [[model](https://huggingface.co/AgentFlow)] [[demo](https://huggingface.co/spaces/AgentFlow/agentflow)]  
-Zhuofeng Li, Haoxiang Zhang, Seungju Han, Sheng Liu, Jianwen Xie, **Yu Zhang**, Yejin Choi, James Zou, and Pan Lu.     
-[arXiv:2510.05592](https://arxiv.org/abs/2510.05592). [![Stars](https://img.shields.io/github/stars/lupantech/AgentFlow?style=social)]()
-
 _Survivors, Complainers, and Borderliners: Upward Bias in Online Discussions of Academic Conference Reviews_ [[arXiv](https://arxiv.org/abs/2509.16831)]     
 Hangxiao Zhu, Yian Yin, and **Yu Zhang**.     
 [arXiv:2509.16831](https://arxiv.org/abs/2509.16831).
 
+### 2026
+_In-the-Flow Agentic System Optimization for Effective Planning and Tool Use_ [[arXiv](https://arxiv.org/abs/2510.05592)] [[project page](https://agentflow.stanford.edu)] [[code](https://github.com/lupantech/AgentFlow)] [[model](https://huggingface.co/AgentFlow)] [[demo](https://huggingface.co/spaces/AgentFlow/agentflow)]  
+Zhuofeng Li, Haoxiang Zhang, Seungju Han, Sheng Liu, Jianwen Xie, **Yu Zhang**, Yejin Choi, James Zou, and Pan Lu.     
+[ICLR 2026](https://iclr.cc/Conferences/2026). Rio de Janeiro, Brazil. [![Stars](https://img.shields.io/github/stars/lupantech/AgentFlow?style=social)]()
+
 _Curriculum Reinforcement Learning from Easy to Hard Tasks Improves LLM Reasoning_ [[arXiv](https://arxiv.org/abs/2506.06632)]     
 Shubham Parashar, Shurui Gui, Xiner Li, Hongyi Ling, Sushil Vemuri, Blake Olson, Eric Li, **Yu Zhang**, James Caverlee, Dileep Kalathil, and Shuiwang Ji.     
-[arXiv:2506.06632](https://arxiv.org/abs/2506.06632).
+[ICLR 2026](https://iclr.cc/Conferences/2026). Rio de Janeiro, Brazil.
 
 _RM-R1: Reward Modeling as Reasoning_ [[arXiv](https://arxiv.org/abs/2505.02387)] [[code](https://github.com/RM-R1-UIUC/RM-R1)]     
 Xiusi Chen, Gaotang Li, Ziqi Wang, Bowen Jin, Cheng Qian, Yu Wang, Hongru Wang, **Yu Zhang**, Denghui Zhang, Tong Zhang, Hanghang Tong, and Heng Ji.     
-[arXiv:2505.02387](https://arxiv.org/abs/2505.02387).
+[ICLR 2026](https://iclr.cc/Conferences/2026). Rio de Janeiro, Brazil.
 
-### 2026
 _Knowledge Homophily in Large Language Models_ [[arXiv](https://arxiv.org/abs/2509.23773)]     
 Utkarsh Sahu, Zhisheng Qi, Mahantesh Halappanavar, Nedim Lipka, Ryan A. Rossi, Franck Dernoncourt, **Yu Zhang**, Yao Ma, and Yu Wang.     
 [WSDM 2026](https://wsdm-conference.org/2026). Boise, ID, USA. (Short Paper)
