@@ -24,7 +24,7 @@ Spring 2025: CSCE 689 - Special Topics in NLP for Science
 ## What's New [[What's Not New...](old.md)]
 2026-01 to 2026-06 Invited to be a PC member of [KDD 2026](https://kdd2026.kdd.org) (Area Chair).
 
-2026-01-26 Three papers got accepted by [ICLR 2026](https://iclr.cc/Conferences/2026)!
+2026-01-26 Three papers got accepted by [ICLR 2026](https://iclr.cc/Conferences/2026)! The acceptance rate is about 28%.
 
 2025-07 to 2025-12 Invited to be a PC member of [KDD 2026](https://kdd2026.kdd.org) (Area Chair), [WWW 2026](https://www2026.thewebconf.org), and [ACL 2026](https://2026.aclweb.org) (Senior Area Chair).
 
@@ -240,7 +240,7 @@ _Top-K Influential Nodes in Social Networks: A Game Perspective_ [[PDF](papers/s
 
 ## Conference Tutorials (In Proceedings)
 _Democratizing RAGs with Structured Knowledge_     
-Yu Wang, Zhisheng Qi, Yongjia Lei, Haoyu Han, Harry Shomer, Kaize Ding, **Yu Zhang**, Ryan Rossi, and Hui Liu.     
+Zhisheng Qi, Yongjia Lei, Haoyu Han, Harry Shomer, Kaize Ding, **Yu Zhang**, Ryan Rossi, Hui Liu, and Yu Wang.     
 [WSDM 2026](https://wsdm-conference.org/2026). Boise, ID, USA. (Tutorial)
 
 _Bridging Text Data and Graph Data: Towards Semantics and Structure-aware Knowledge Discovery_ [[PDF](https://dl.acm.org/doi/10.1145/3616855.3636450)]     
