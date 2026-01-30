@@ -57,7 +57,7 @@ _In-the-Flow Agentic System Optimization for Effective Planning and Tool Use_ [[
 Zhuofeng Li, Haoxiang Zhang, Seungju Han, Sheng Liu, Jianwen Xie, **Yu Zhang**, Yejin Choi, James Zou, and Pan Lu.     
 [ICLR 2026](https://iclr.cc/Conferences/2026). Rio de Janeiro, Brazil. [![Stars](https://img.shields.io/github/stars/lupantech/AgentFlow?style=social)]()
 
-_Curriculum Reinforcement Learning from Easy to Hard Tasks Improves LLM Reasoning_ [[arXiv](https://arxiv.org/abs/2506.06632)]     
+_Curriculum Reinforcement Learning from Easy to Hard Tasks Improves LLM Reasoning_ [[arXiv](https://arxiv.org/abs/2506.06632)] [[code](https://github.com/divelab/E2H-Reasoning)]     
 Shubham Parashar, Shurui Gui, Xiner Li, Hongyi Ling, Sushil Vemuri, Blake Olson, Eric Li, **Yu Zhang**, James Caverlee, Dileep Kalathil, and Shuiwang Ji.     
 [ICLR 2026](https://iclr.cc/Conferences/2026). Rio de Janeiro, Brazil.
 
