@@ -24,6 +24,8 @@ Spring 2025: CSCE 689 - Special Topics in NLP for Science
 ## What's New [[What's Not New...](old.md)]
 2026-01 to 2026-06 Invited to be a PC member of [KDD 2026](https://kdd2026.kdd.org) (Area Chair).
 
+2026-02-06 One paper was selected for an oral presentation at [ICLR 2026](https://iclr.cc/Conferences/2026)!
+
 2026-01-26 Three papers got accepted by [ICLR 2026](https://iclr.cc/Conferences/2026)! The acceptance rate is about 28%.
 
 2025-07 to 2025-12 Invited to be a PC member of [KDD 2026](https://kdd2026.kdd.org) (Area Chair), [WWW 2026](https://www2026.thewebconf.org), and [ACL 2026](https://2026.aclweb.org) (Senior Area Chair).
@@ -44,6 +46,10 @@ Spring 2025: CSCE 689 - Special Topics in NLP for Science
 #### ("\*" indicates equal contribution. Unless otherwise specified, the paper is accepted as a research track long/regular paper.)
 
 ### Preprint
+_Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey_ [[arXiv](https://www.arxiv.org/abs/2602.06052)]     
+Wei-Chieh Huang, Weizhi Zhang, Yueqing Liang, et al. (including **Yu Zhang**)     
+[arXiv:2602.06052](https://arxiv.org/abs/2602.06052).
+
 _GraphDancer: Training LLMs to Explore and Reason over Graphs via Curriculum Reinforcement Learning_ [[arXiv](https://arxiv.org/abs/2602.02518)] [[project page](https://yuyangbai.com/graphdancer)] [[code](https://github.com/leopoldwhite/GraphDancer)] [[model](https://huggingface.co/collections/yuyangbai/graphdancer)]     
 Yuyang Bai, Zhuofeng Li, Ping Nie, Jianwen Xie, and **Yu Zhang**.     
 [arXiv:2602.02518](https://arxiv.org/abs/2602.02518).
