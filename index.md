@@ -249,7 +249,7 @@ _Top-K Influential Nodes in Social Networks: A Game Perspective_ [[PDF](papers/s
 [SIGIR 2017](http://sigir.org/sigir2017). Shinjuku, Tokyo, Japan. (Short Paper)
 
 ## Conference Tutorials (In Proceedings)
-_Democratizing RAGs with Structured Knowledge_     
+_Rigorizing Retrieval-augmented Generation with Structured Knowledge Intelligence (6 Hrs)_ [[PDF](https://dl.acm.org/doi/10.1145/3580305.3599569)]     
 Zhisheng Qi, Yongjia Lei, Haoyu Han, Harry Shomer, Kaize Ding, **Yu Zhang**, Ryan Rossi, Hui Liu, and Yu Wang.     
 [WSDM 2026](https://wsdm-conference.org/2026). Boise, ID, USA. (Tutorial)
 
