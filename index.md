@@ -24,6 +24,8 @@ Spring 2025: CSCE 689 - Special Topics in NLP for Science
 ## What's New [[What's Not New...](old.md)]
 2026-01 to 2026-06 Invited to be a PC member of [KDD 2026](https://kdd2026.kdd.org) (Area Chair).
 
+2026-02-22 Delivered part of the tutorial, "Rigorizing Retrieval-Augmented Generation with Structured Knowledge Intelligence", at [WSDM 2026](https://wsdm-conference.org/2026).
+
 2026-02-06 One paper was selected for an oral presentation at [ICLR 2026](https://iclr.cc/Conferences/2026)!
 
 2026-01-26 Three papers got accepted by [ICLR 2026](https://iclr.cc/Conferences/2026)! The acceptance rate is about 28%.
@@ -75,7 +77,7 @@ _RM-R1: Reward Modeling as Reasoning_ [[arXiv](https://arxiv.org/abs/2505.02387)
 Xiusi Chen, Gaotang Li, Ziqi Wang, Bowen Jin, Cheng Qian, Yu Wang, Hongru Wang, **Yu Zhang**, Denghui Zhang, Tong Zhang, Hanghang Tong, and Heng Ji.     
 [ICLR 2026](https://iclr.cc/Conferences/2026). Rio de Janeiro, Brazil.
 
-_Knowledge Homophily in Large Language Models_ [[arXiv](https://arxiv.org/abs/2509.23773)]     
+_Knowledge Homophily in Large Language Models_ [[PDF](papers/wsdm26.pdf)] [[arXiv](https://arxiv.org/abs/2509.23773)]     
 Utkarsh Sahu, Zhisheng Qi, Mahantesh Halappanavar, Nedim Lipka, Ryan A. Rossi, Franck Dernoncourt, **Yu Zhang**, Yao Ma, and Yu Wang.     
 [WSDM 2026](https://wsdm-conference.org/2026). Boise, ID, USA. (Short Paper)
 
