@@ -65,15 +65,15 @@ Hangxiao Zhu, Yian Yin, and **Yu Zhang**.
 [arXiv:2509.16831](https://arxiv.org/abs/2509.16831).
 
 ### 2026
-_In-the-Flow Agentic System Optimization for Effective Planning and Tool Use_ [[arXiv](https://arxiv.org/abs/2510.05592)] [[project page](https://agentflow.stanford.edu)] [[code](https://github.com/lupantech/AgentFlow)] [[model](https://huggingface.co/AgentFlow)] [[demo](https://huggingface.co/spaces/AgentFlow/agentflow)]     
+_In-the-Flow Agentic System Optimization for Effective Planning and Tool Use_ [[PDF](papers/iclr26li.pdf)] [[arXiv](https://arxiv.org/abs/2510.05592)] [[project page](https://agentflow.stanford.edu)] [[code](https://github.com/lupantech/AgentFlow)] [[model](https://huggingface.co/AgentFlow)] [[demo](https://huggingface.co/spaces/AgentFlow/agentflow)]     
 Zhuofeng Li, Haoxiang Zhang, Seungju Han, Sheng Liu, Jianwen Xie, **Yu Zhang**, Yejin Choi, James Zou, and Pan Lu.     
 [ICLR 2026](https://iclr.cc/Conferences/2026). Rio de Janeiro, Brazil. [![Stars](https://img.shields.io/github/stars/lupantech/AgentFlow?style=social)]()
 
-_Curriculum Reinforcement Learning from Easy to Hard Tasks Improves LLM Reasoning_ [[arXiv](https://arxiv.org/abs/2506.06632)] [[code](https://github.com/divelab/E2H-Reasoning)]     
+_Curriculum Reinforcement Learning from Easy to Hard Tasks Improves LLM Reasoning_ [[PDF](papers/iclr26parashar.pdf)] [[arXiv](https://arxiv.org/abs/2506.06632)] [[code](https://github.com/divelab/E2H-Reasoning)]     
 Shubham Parashar, Shurui Gui, Xiner Li, Hongyi Ling, Sushil Vemuri, Blake Olson, Eric Li, **Yu Zhang**, James Caverlee, Dileep Kalathil, and Shuiwang Ji.     
 [ICLR 2026](https://iclr.cc/Conferences/2026). Rio de Janeiro, Brazil.
 
-_RM-R1: Reward Modeling as Reasoning_ [[arXiv](https://arxiv.org/abs/2505.02387)] [[project page](https://rm-r1-uiuc.github.io/rmr1-site)] [[code](https://github.com/RM-R1-UIUC/RM-R1)] [[model](https://huggingface.co/collections/gaotang/rm-r1)]     
+_RM-R1: Reward Modeling as Reasoning_ [[PDF](papers/iclr26chen.pdf)] [[arXiv](https://arxiv.org/abs/2505.02387)] [[project page](https://rm-r1-uiuc.github.io/rmr1-site)] [[code](https://github.com/RM-R1-UIUC/RM-R1)] [[model](https://huggingface.co/collections/gaotang/rm-r1)]     
 Xiusi Chen, Gaotang Li, Ziqi Wang, Bowen Jin, Cheng Qian, Yu Wang, Hongru Wang, **Yu Zhang**, Denghui Zhang, Tong Zhang, Hanghang Tong, and Heng Ji.     
 [ICLR 2026](https://iclr.cc/Conferences/2026). Rio de Janeiro, Brazil.
 
