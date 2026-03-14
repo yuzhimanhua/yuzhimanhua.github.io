@@ -48,7 +48,11 @@ Spring 2025: CSCE 689 - Special Topics in NLP for Science
 #### ("\*" indicates equal contribution. Unless otherwise specified, the paper is accepted as a research track long/regular paper.)
 
 ### Preprint
-_Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey_ [[arXiv](https://www.arxiv.org/abs/2602.06052)]     
+_Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Generation_ [[arXiv](https://www.arxiv.org/abs/2602.09319)] [[code](https://github.com/charlieqi02/RAG-Knowledge-Extraction-Attack-and-Defense-Benchmark)]     
+Zhisheng Qi, Utkarsh Sahu, Li Ma, Haoyu Han, Ryan Rossi, Franck Dernoncourt, Mahantesh Halappanavar, Nesreen Ahmed, Yushun Dong, Yue Zhao, **Yu Zhang**, and Yu Wang.     
+[arXiv:2602.06052](https://arxiv.org/abs/2602.09319).
+
+_Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey_ [[arXiv](https://www.arxiv.org/abs/2602.06052)] [[project page](https://github.com/AgentMemoryWorld/Awesome-Agent-Memory)]     
 Wei-Chieh Huang, Weizhi Zhang, Yueqing Liang, et al. (including **Yu Zhang**)     
 [arXiv:2602.06052](https://arxiv.org/abs/2602.06052).
 
@@ -67,7 +71,7 @@ Hangxiao Zhu, Yian Yin, and **Yu Zhang**.
 ### 2026
 _In-the-Flow Agentic System Optimization for Effective Planning and Tool Use_ [[PDF](papers/iclr26li.pdf)] [[arXiv](https://arxiv.org/abs/2510.05592)] [[project page](https://agentflow.stanford.edu)] [[code](https://github.com/lupantech/AgentFlow)] [[model](https://huggingface.co/AgentFlow)] [[demo](https://huggingface.co/spaces/AgentFlow/agentflow)]     
 Zhuofeng Li, Haoxiang Zhang, Seungju Han, Sheng Liu, Jianwen Xie, **Yu Zhang**, Yejin Choi, James Zou, and Pan Lu.     
-[ICLR 2026](https://iclr.cc/Conferences/2026). Rio de Janeiro, Brazil. [![Stars](https://img.shields.io/github/stars/lupantech/AgentFlow?style=social)]()
+[ICLR 2026](https://iclr.cc/Conferences/2026). Rio de Janeiro, Brazil. (<span style="color:red">Oral</span>) [![Stars](https://img.shields.io/github/stars/lupantech/AgentFlow?style=social)]()
 
 _Curriculum Reinforcement Learning from Easy to Hard Tasks Improves LLM Reasoning_ [[PDF](papers/iclr26parashar.pdf)] [[arXiv](https://arxiv.org/abs/2506.06632)] [[code](https://github.com/divelab/E2H-Reasoning)]     
 Shubham Parashar, Shurui Gui, Xiner Li, Hongyi Ling, Sushil Vemuri, Blake Olson, Eric Li, **Yu Zhang**, James Caverlee, Dileep Kalathil, and Shuiwang Ji.     
@@ -100,7 +104,7 @@ Yanzhen Shen, **Yu Zhang**, Yunyi Zhang, and Jiawei Han.
 
 _Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation_ [[PDF](papers/wsdm25.pdf)] [[arXiv](https://arxiv.org/abs/2502.11181)]     
 SeongKu Kang, Bowen Jin, Wonbin Kweon, **Yu Zhang**, Dongha Lee, Jiawei Han, and Hwanjo Yu.      
-[WSDM 2025](https://www.wsdm-conference.org/2025). Hannover, Germany. (<span style="color:red">Best Papers of WSDM 2025, Invited to ACM TIST</span>)
+[WSDM 2025](https://www.wsdm-conference.org/2025). Hannover, Germany. (<span style="color:red">Invited to ACM TIST "Best Papers of WSDM 2025" Special Issue</span>)
 
 ### 2024
 _Structure-Enhanced Text Mining for Science_ [[link](https://www.ideals.illinois.edu/items/134246)] [[award talk](https://www.youtube.com/watch?v=xjytpDE_nko&t=1550)]     
