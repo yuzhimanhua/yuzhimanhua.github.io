@@ -52,15 +52,11 @@ _Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Gen
 Zhisheng Qi, Utkarsh Sahu, Li Ma, Haoyu Han, Ryan Rossi, Franck Dernoncourt, Mahantesh Halappanavar, Nesreen Ahmed, Yushun Dong, Yue Zhao, **Yu Zhang**, and Yu Wang.     
 [arXiv:2602.06052](https://arxiv.org/abs/2602.09319).
 
-_Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey_ [[arXiv](https://www.arxiv.org/abs/2602.06052)] [[project page](https://github.com/AgentMemoryWorld/Awesome-Agent-Memory)]     
-Wei-Chieh Huang, Weizhi Zhang, Yueqing Liang, et al. (including **Yu Zhang**)     
-[arXiv:2602.06052](https://arxiv.org/abs/2602.06052).
-
 _GraphDancer: Training LLMs to Explore and Reason over Graphs via Curriculum Reinforcement Learning_ [[arXiv](https://arxiv.org/abs/2602.02518)] [[project page](https://yuyangbai.com/graphdancer)] [[code](https://github.com/leopoldwhite/GraphDancer)] [[model](https://huggingface.co/collections/yuyangbai/graphdancer)]     
 Yuyang Bai, Zhuofeng Li, Ping Nie, Jianwen Xie, and **Yu Zhang**.     
 [arXiv:2602.02518](https://arxiv.org/abs/2602.02518).
 
-_Adaptation of Agentic AI_ [[arXiv](https://arxiv.org/abs/2512.16301)] [[project page](https://github.com/pat-jj/Awesome-Adaptation-of-Agentic-AI)]     
+_Adaptation of Agentic AI: A Survey of Post-Training, Memory, and Skills_ [[arXiv](https://arxiv.org/abs/2512.16301)] [[project page](https://github.com/pat-jj/Awesome-Adaptation-of-Agentic-AI)]     
 Pengcheng Jiang, Jiacheng Lin, Zhiyi Shi, et al. (including **Yu Zhang**)     
 [arXiv:2512.16301](https://arxiv.org/abs/2512.16301). [![Stars](https://img.shields.io/github/stars/pat-jj/Awesome-Adaptation-of-Agentic-AI?style=social)]()
 
