@@ -22,7 +22,7 @@ Fall 2025: CSCE 670 - Information Storage and Retrieval
 Spring 2025: CSCE 689 - Special Topics in NLP for Science
 
 ## What's New [[What's Not New...](old.md)]
-2026-01 to 2026-06 Invited to be a PC member of [KDD 2026](https://kdd2026.kdd.org) (Area Chair) and [EMNLP 2026](https://2026.emnlp.org) (Senior Area Chair).
+2026-01 to 2026-06 Invited to be a PC member of [KDD 2026](https://kdd2026.kdd.org) (Area Chair), [EMNLP 2026](https://2026.emnlp.org) (Senior Area Chair), and [NeurIPS 2026](https://neurips.cc/Conferences/2026) (Area Chair).
 
 2026-02-22 Delivered part of the tutorial, "Rigorizing Retrieval-Augmented Generation with Structured Knowledge Intelligence", at [WSDM 2026](https://wsdm-conference.org/2026).
 
