@@ -45,9 +45,13 @@ Spring 2025: CSCE 689 - Special Topics in NLP for Science
 2025-08-03 Attended [KDD 2025](https://kdd2025.kdd.org) in Toronto, Canada. Thrilled to receive the [ACM SIGKDD Dissertation Award Runner-Up](https://kdd2025.kdd.org/awards) and give my [award talk](https://www.youtube.com/watch?v=xjytpDE_nko&t=1550)!
 
 ## Selected Publications [[Full List](https://scholar.google.com/citations?hl=en&user=pL5b-6IAAAAJ&sortby=pubdate)]
-#### ("\*" indicates equal contribution. Unless otherwise specified, the paper is accepted as a research track long/regular paper.)
+#### ("\*" indicates co-first authors. "\#" indicates co-corresponding authors. Unless otherwise specified, the paper is accepted as a research track long/regular paper.)
 
 ### Preprint
+_OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis_ [[arXiv](https://arxiv.org/abs/2603.20278)] [[code](https://github.com/TIGER-AI-Lab/OpenResearcher)] [[model](https://huggingface.co/OpenResearcher/OpenResearcher-30B-A3B)] [[dataset](https://huggingface.co/datasets/OpenResearcher/OpenResearcher-Dataset)]     
+Zhuofeng Li, Dongfu Jiang, Xueguang Ma, Haoxiang Zhang, Ping Nie, Yuyu Zhang, Kai Zou, Jianwen Xie, **Yu Zhang\#**, and Wenhu Chen\#.     
+[arXiv:2603.20278](https://arxiv.org/abs/2603.20278). [![Stars](https://img.shields.io/github/stars/TIGER-AI-Lab/OpenResearcher?style=social)]()
+
 _Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Generation_ [[arXiv](https://www.arxiv.org/abs/2602.09319)] [[code](https://github.com/charlieqi02/RAG-Knowledge-Extraction-Attack-and-Defense-Benchmark)]     
 Zhisheng Qi, Utkarsh Sahu, Li Ma, Haoyu Han, Ryan Rossi, Franck Dernoncourt, Mahantesh Halappanavar, Nesreen Ahmed, Yushun Dong, Yue Zhao, **Yu Zhang**, and Yu Wang.     
 [arXiv:2602.06052](https://arxiv.org/abs/2602.09319).
@@ -65,7 +69,7 @@ Hangxiao Zhu, Yian Yin, and **Yu Zhang**.
 [arXiv:2509.16831](https://arxiv.org/abs/2509.16831).
 
 ### 2026
-_In-the-Flow Agentic System Optimization for Effective Planning and Tool Use_ [[PDF](papers/iclr26li.pdf)] [[arXiv](https://arxiv.org/abs/2510.05592)] [[project page](https://agentflow.stanford.edu)] [[code](https://github.com/lupantech/AgentFlow)] [[model](https://huggingface.co/AgentFlow)] [[demo](https://huggingface.co/spaces/AgentFlow/agentflow)]     
+_In-the-Flow Agentic System Optimization for Effective Planning and Tool Use_ [[PDF](papers/iclr26li.pdf)] [[arXiv](https://arxiv.org/abs/2510.05592)] [[project page](https://agentflow.stanford.edu)] [[code](https://github.com/lupantech/AgentFlow)]     
 Zhuofeng Li, Haoxiang Zhang, Seungju Han, Sheng Liu, Jianwen Xie, **Yu Zhang**, Yejin Choi, James Zou, and Pan Lu.     
 [ICLR 2026](https://iclr.cc/Conferences/2026). Rio de Janeiro, Brazil. (<span style="color:red">Oral</span>) [![Stars](https://img.shields.io/github/stars/lupantech/AgentFlow?style=social)]()
 
@@ -77,7 +81,7 @@ _RM-R1: Reward Modeling as Reasoning_ [[PDF](papers/iclr26chen.pdf)] [[arXiv](ht
 Xiusi Chen, Gaotang Li, Ziqi Wang, Bowen Jin, Cheng Qian, Yu Wang, Hongru Wang, **Yu Zhang**, Denghui Zhang, Tong Zhang, Hanghang Tong, and Heng Ji.     
 [ICLR 2026](https://iclr.cc/Conferences/2026). Rio de Janeiro, Brazil.
 
-_Knowledge Homophily in Large Language Models_ [[PDF](papers/wsdm26.pdf)] [[arXiv](https://arxiv.org/abs/2509.23773)]     
+_Knowledge Homophily in Large Language Models_ [[PDF](papers/wsdm26.pdf)] [[arXiv](https://arxiv.org/abs/2509.23773)] [[code](https://github.com/utkarshxsahu/kgc)]     
 Utkarsh Sahu, Zhisheng Qi, Mahantesh Halappanavar, Nedim Lipka, Ryan A. Rossi, Franck Dernoncourt, **Yu Zhang**, Yao Ma, and Yu Wang.     
 [WSDM 2026](https://wsdm-conference.org/2026). Boise, ID, USA. (Short Paper)
 
