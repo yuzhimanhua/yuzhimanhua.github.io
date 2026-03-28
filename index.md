@@ -313,6 +313,8 @@ SIGIR Student Travel Grant, 2017, 2020
 
 ## Invited Talks
 **Assisting Scientific Research with Structure-Aware Large Language Models [[slides](talks/20250411.pdf)]**     
+March 2026, Guest Lecture (CSCE 681) at Texas A&M University.     
+February 2026, Guest Lecture (SPMT 689) at Texas A&M University.     
 October 2025, Guest Lecture (COMP 5970/6970) at Auburn University.     
 April 2025, Invited Talk at the University of Kansas.
 
