@@ -24,6 +24,8 @@ Spring 2025: CSCE 689 - Special Topics in NLP for Science
 ## What's New [[What's Not New...](old.md)]
 2026-01 to 2026-06 Invited to be a PC member of [KDD 2026](https://kdd2026.kdd.org) (Area Chair), [EMNLP 2026](https://2026.emnlp.org) (Senior Area Chair), and [NeurIPS 2026](https://neurips.cc/Conferences/2026) (Area Chair).
 
+2026-04-06 Two papers got accepted by [ACL 2026](https://2026.aclweb.org) (1 main conference + 1 findings)!
+
 2026-02-22 Delivered part of the tutorial, "Rigorizing Retrieval-Augmented Generation with Structured Knowledge Intelligence", at [WSDM 2026](https://wsdm-conference.org/2026).
 
 2026-02-06 One paper was selected for an oral presentation at [ICLR 2026](https://iclr.cc/Conferences/2026)!
@@ -69,6 +71,14 @@ Hangxiao Zhu, Yian Yin, and **Yu Zhang**.
 [arXiv:2509.16831](https://arxiv.org/abs/2509.16831).
 
 ### 2026
+_ReviewGrounder: Improving Review Substantiveness with Rubric-Guided, Tool-Integrated Agents_     
+Zhuofeng Li, Yi Lu, Dongfu Jiang, Haoxiang Zhang, Yuyang Bai, Chuan Li, Yu Wang, Shuiwang Ji, Jianwen Xie, and **Yu Zhang**.     
+[ACL 2026](https://2026.aclweb.org). San Diego, CA, USA.
+
+_SciImpact: A Multi-Dimensional, Multi-Field Benchmark for Scientific Impact Prediction_     
+Hangxiao Zhu, Yuyu Zhang, Ping Nie, and **Yu Zhang**.     
+[ACL 2026 Findings](https://2026.aclweb.org). San Diego, CA, USA.
+
 _In-the-Flow Agentic System Optimization for Effective Planning and Tool Use_ [[PDF](papers/iclr26li.pdf)] [[arXiv](https://arxiv.org/abs/2510.05592)] [[project page](https://agentflow.stanford.edu)] [[code](https://github.com/lupantech/AgentFlow)]     
 Zhuofeng Li, Haoxiang Zhang, Seungju Han, Sheng Liu, Jianwen Xie, **Yu Zhang**, Yejin Choi, James Zou, and Pan Lu.     
 [ICLR 2026](https://iclr.cc/Conferences/2026). Rio de Janeiro, Brazil. (<span style="color:red">Oral</span>) [![Stars](https://img.shields.io/github/stars/lupantech/AgentFlow?style=social)]()
