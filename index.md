@@ -24,7 +24,7 @@ Spring 2025: CSCE 689 - Special Topics in NLP for Science
 ## What's New [[What's Not New...](old.md)]
 2026-01 to 2026-06 Invited to be a PC member of [KDD 2026](https://kdd2026.kdd.org) (Area Chair), [EMNLP 2026](https://2026.emnlp.org) (Senior Area Chair), and [NeurIPS 2026](https://neurips.cc/Conferences/2026) (Area Chair).
 
-2026-04-06 Two papers got accepted by [ACL 2026](https://2026.aclweb.org) (1 main conference + 1 findings)!
+2026-04-06 Two papers got accepted by [ACL 2026](https://2026.aclweb.org) (1 main conference + 1 findings)! The acceptance rate is about 19% for main conference papers and about 18% for findings papers.
 
 2026-02-22 Delivered part of the tutorial, "Rigorizing Retrieval-Augmented Generation with Structured Knowledge Intelligence", at [WSDM 2026](https://wsdm-conference.org/2026).
 
@@ -337,7 +337,7 @@ March 2024, Keynote at the Machine Learning on Graphs (MLoG) Workshop at WSDM 20
 
 ## Professional Services
 **Conference Senior Area Chair**        
-ACL 2026; EMNLP 2025
+ACL 2026; EMNLP 2025-2026
 
 **Conference Area Chair**        
 KDD 2025-2026; ACL 2025; NeurIPS 2025-2026
