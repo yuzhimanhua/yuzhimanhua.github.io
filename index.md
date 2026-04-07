@@ -72,7 +72,7 @@ Hangxiao Zhu, Yian Yin, and **Yu Zhang**.
 
 ### 2026
 _ReviewGrounder: Improving Review Substantiveness with Rubric-Guided, Tool-Integrated Agents_     
-Zhuofeng Li, Yi Lu, Dongfu Jiang, Haoxiang Zhang, Yuyang Bai, Chuan Li, Yu Wang, Shuiwang Ji, Jianwen Xie, and **Yu Zhang**.     
+Zhuofeng Li, Yi Lu, Dongfu Jiang, Haoxiang Zhang, Yuyang Bai, Chuan Li, Yu Wang, Shuiwang Ji, Jianwen Xie\#, and **Yu Zhang\#**.     
 [ACL 2026](https://2026.aclweb.org). San Diego, CA, USA.
 
 _SciImpact: A Multi-Dimensional, Multi-Field Benchmark for Scientific Impact Prediction_     
@@ -340,7 +340,7 @@ March 2024, Keynote at the Machine Learning on Graphs (MLoG) Workshop at WSDM 20
 ACL 2026; EMNLP 2025
 
 **Conference Area Chair**        
-KDD 2025-2026; ACL 2025; NeurIPS 2025
+KDD 2025-2026; ACL 2025; NeurIPS 2025-2026
 
 **Conference Reviewer**        
 KDD 2022-2025; WWW 2022-2026; WSDM 2023-2025;      
@@ -352,7 +352,7 @@ ACL 2021, 2023; EMNLP 2020, 2022-2024; NAACL 2021-2022; COLING 2022
 TPAMI; TKDE; TOIS; TKDD; Bioinformatics; TWEB; TASLP; TBD; TCBB
 
 **Workshop Co-Organizer**     
-SKnowLLM@KDD 2025; MLoG-GenAI@KDD 2025
+SKnowLLM@KDD 2025; MLoG-GenAI@KDD 2025; SURGeLLM@ACL 2026
 
 **Student Volunteer**       
 SIGIR 2020; KDD 2022-2023        
