@@ -42,6 +42,8 @@ Spring 2025: CSCE 689 - Special Topics in NLP for Science
 
 2025-10-08 Our [paper](papers/wsdm25.pdf) on Scientific Document Retrieval was selected as one of the top-ranked papers published at [WSDM 2025](https://www.wsdm-conference.org/2025) and invited to the "Best Papers of WSDM 2025" Special Issue of ACM TIST!
 
+2025-09-27 We will hold an [ACL 2026](https://2026.aclweb.org) workshop on [Structured Understanding, Retrieval, and Generation in the LLM Era](https://surgellm.github.io/acl2026). See you in San Diego!
+
 2025-08-20 One paper got accepted by [EMNLP 2025 Findings](https://2025.emnlp.org)!
 
 2025-08-03 Attended [KDD 2025](https://kdd2025.kdd.org) in Toronto, Canada. Thrilled to receive the [ACM SIGKDD Dissertation Award Runner-Up](https://kdd2025.kdd.org/awards) and give my [award talk](https://www.youtube.com/watch?v=xjytpDE_nko&t=1550)!
