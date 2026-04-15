@@ -17,6 +17,7 @@ Prior to UIUC, I received my B.Sc. degree in Computer Science from Peking Univer
 - LLM Agents with Structural Knowledge (Graphs, Ontologies, and Structural Memory)
 
 ## Teaching
+Fall 2026: CSCE 670 - Information Storage and Retrieval     
 Spring 2026: [CSCE 670 - Information Storage and Retrieval](https://yuzhang-teaching.github.io/CSCE670-S26.html)     
 Fall 2025: CSCE 670 - Information Storage and Retrieval     
 Spring 2025: CSCE 689 - Special Topics in NLP for Science
@@ -326,14 +327,14 @@ SIGIR Student Travel Grant, 2017, 2020
 **First Prize, National Olympiad in Informatics in Provinces**, 2011, 2012
 
 ## Invited Talks
-**Assisting Scientific Research with Structure-Aware Large Language Models [[slides](talks/20250411.pdf)]**     
+**Assisting Scientific Research with Structure-Aware Large Language Models**     
 April 2026, Guest Lecture (CS 5624) at Virginia Tech.     
 March 2026, Guest Lecture (CSCE 681) at Texas A&M University.     
 February 2026, Guest Lecture (SPMT 689) at Texas A&M University.     
 October 2025, Guest Lecture (COMP 5970/6970) at Auburn University.     
 April 2025, Invited Talk at the University of Kansas.
 
-**Graph-Enhanced Scientific Text Mining [[slides](talks/20240515.pdf)]**     
+**Graph-Enhanced Scientific Text Mining**     
 August 2025, ACM SIGKDD Dissertation Award talk at KDD 2025.     
 December 2024, Invited Talk at the LoG 2024 Seattle Meetup.      
 November 2024, Guest Lecture (CSE 427) at the University of Washington.      
