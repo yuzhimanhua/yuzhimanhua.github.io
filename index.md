@@ -24,6 +24,8 @@ Spring 2025: CSCE 689 - Special Topics in NLP for Science
 ## What's New [[What's Not New...](old.md)]
 2026-01 to 2026-06 Invited to be a PC member of [KDD 2026](https://kdd2026.kdd.org) (Area Chair), [EMNLP 2026](https://2026.emnlp.org) (Senior Area Chair), and [NeurIPS 2026](https://neurips.cc/Conferences/2026) (Area Chair).
 
+2026-04-14 Gave a guest lecture at Virginia Tech.
+
 2026-04-06 Two papers got accepted by [ACL 2026](https://2026.aclweb.org) (1 main conference + 1 findings)! The acceptance rate is about 19% for main conference papers and about 18% for findings papers.
 
 2026-02-22 Delivered part of the tutorial, "Rigorizing Retrieval-Augmented Generation with Structured Knowledge Intelligence", at [WSDM 2026](https://wsdm-conference.org/2026).
@@ -64,15 +66,15 @@ _GraphDancer: Training LLMs to Explore and Reason over Graphs via Curriculum Rei
 Yuyang Bai, Zhuofeng Li, Ping Nie, Jianwen Xie, and **Yu Zhang**.     
 [arXiv:2602.02518](https://arxiv.org/abs/2602.02518).
 
-_Adaptation of Agentic AI: A Survey of Post-Training, Memory, and Skills_ [[arXiv](https://arxiv.org/abs/2512.16301)] [[project page](https://github.com/pat-jj/Awesome-Adaptation-of-Agentic-AI)]     
-Pengcheng Jiang, Jiacheng Lin, Zhiyi Shi, et al. (including **Yu Zhang**)     
-[arXiv:2512.16301](https://arxiv.org/abs/2512.16301). [![Stars](https://img.shields.io/github/stars/pat-jj/Awesome-Adaptation-of-Agentic-AI?style=social)]()
-
 _Survivors, Complainers, and Borderliners: Upward Bias in Online Discussions of Academic Conference Reviews_ [[arXiv](https://arxiv.org/abs/2509.16831)]     
 Hangxiao Zhu, Yian Yin, and **Yu Zhang**.     
 [arXiv:2509.16831](https://arxiv.org/abs/2509.16831).
 
 ### 2026
+_MemeBridge: A Dataset for Benchmarking and Mitigating the Bidirectional Cultural Gap in Meme Interpretation_     
+Hangxiao Zhu, Suliu Qin, Zhuoyan Li, Ming Jiang, **Yu Zhang**, and Meng Xia.     
+[KDD 2026](https://kdd2026.kdd.org). Jeju, Korea. (Datasets and Benchmarks Track)
+
 _ReviewGrounder: Improving Review Substantiveness with Rubric-Guided, Tool-Integrated Agents_     
 Zhuofeng Li, Yi Lu, Dongfu Jiang, Haoxiang Zhang, Yuyang Bai, Chuan Li, Yu Wang, Shuiwang Ji, Jianwen Xie\#, and **Yu Zhang\#**.     
 [ACL 2026](https://2026.aclweb.org). San Diego, CA, USA.
@@ -325,6 +327,7 @@ SIGIR Student Travel Grant, 2017, 2020
 
 ## Invited Talks
 **Assisting Scientific Research with Structure-Aware Large Language Models [[slides](talks/20250411.pdf)]**     
+April 2026, Guest Lecture (CS 5624) at Virginia Tech.     
 March 2026, Guest Lecture (CSCE 681) at Texas A&M University.     
 February 2026, Guest Lecture (SPMT 689) at Texas A&M University.     
 October 2025, Guest Lecture (COMP 5970/6970) at Auburn University.     
