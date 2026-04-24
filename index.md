@@ -31,9 +31,9 @@ Spring 2025: CSCE 689 - Special Topics in NLP for Science
 
 2026-02-22 Delivered part of the tutorial, "Rigorizing Retrieval-Augmented Generation with Structured Knowledge Intelligence", at [WSDM 2026](https://wsdm-conference.org/2026).
 
-2026-02-06 One paper was selected for an oral presentation at [ICLR 2026](https://iclr.cc/Conferences/2026)!
+2026-02-06 One paper was selected for an oral presentation at [ICLR 2026](https://iclr.cc/Conferences/2026) (224 out of 19,525 submissions, 1.1%)!
 
-2026-01-26 Three papers got accepted by [ICLR 2026](https://iclr.cc/Conferences/2026)! The acceptance rate is about 28%.
+2026-01-26 Three papers got accepted by [ICLR 2026](https://iclr.cc/Conferences/2026)! The acceptance rate is 27.4% (5,355/19,525).
 
 2025-07 to 2025-12 Invited to be a PC member of [KDD 2026](https://kdd2026.kdd.org) (Area Chair), [WWW 2026](https://www2026.thewebconf.org), and [ACL 2026](https://2026.aclweb.org) (Senior Area Chair).
 
