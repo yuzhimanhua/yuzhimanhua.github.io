@@ -76,7 +76,7 @@ _MemeBridge: A Dataset for Benchmarking and Mitigating the Bidirectional Cultura
 Hangxiao Zhu, Suliu Qin, Zhuoyan Li, Ming Jiang, **Yu Zhang**, and Meng Xia.     
 [KDD 2026](https://kdd2026.kdd.org). Jeju, Korea. (Datasets and Benchmarks Track)
 
-_ReviewGrounder: Improving Review Substantiveness with Rubric-Guided, Tool-Integrated Agents_ [[PDF](papers/acl26.pdf)] [[arXiv](https://arxiv.org/abs/2604.14261)] [[code](https://github.com/EigenTom/ReviewGrounder)]     
+_ReviewGrounder: Improving Review Substantiveness with Rubric-Guided, Tool-Integrated Agents_ [[PDF](papers/acl26.pdf)] [[arXiv](https://arxiv.org/abs/2604.14261)] [[project page](https://eigentom.github.io/ReviewGrounder)] [[code](https://github.com/EigenTom/ReviewGrounder)]     
 Zhuofeng Li, Yi Lu, Dongfu Jiang, Haoxiang Zhang, Yuyang Bai, Chuan Li, Yu Wang, Shuiwang Ji, Jianwen Xie\#, and **Yu Zhang\#**.     
 [ACL 2026](https://2026.aclweb.org). San Diego, CA, USA.
 
