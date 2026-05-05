@@ -9,7 +9,7 @@ Prior to TAMU, I received my Ph.D. and M.Sc. degrees in Computer Science from th
 
 Prior to UIUC, I received my B.Sc. degree in Computer Science from Peking University, advised by Prof. [Yan Zhang](https://www.cis.pku.edu.cn/szdw/zzjs/zy.htm). During my undergraduate study, I got the [China National Scholarship](awards/China_National_Scholarship.pdf); I visited Carnegie Mellon University, working with Prof. [Kathleen M. Carley](https://s3d.cmu.edu/people/core-faculty/carley-kathleen.html).
 
-<!-- <b style="color:red">[Recruiting]</b> I am looking for self-motivated Ph.D. students and interns! Please fill out [this form](https://forms.gle/7VAvmmNrEEHYuftJ8) if you are interested in working with me. After completing the form, you are also welcome to reach out via email. I will read all submitted forms and emails but I do apologize for not being able to respond to each of them. -->
+<!-- <b style="color:teal">[Recruiting]</b> I am looking for self-motivated Ph.D. students and interns! Please fill out [this form](https://forms.gle/7VAvmmNrEEHYuftJ8) if you are interested in working with me. After completing the form, you are also welcome to reach out via email. I will read all submitted forms and emails but I do apologize for not being able to respond to each of them. -->
 
 ## Research Interests
 - NLP and Data Mining for Science (Biology, Medicine, Mathematics, and Science of Science)
@@ -86,7 +86,7 @@ Hangxiao Zhu, Yuyu Zhang, Ping Nie, and **Yu Zhang**.
 
 _In-the-Flow Agentic System Optimization for Effective Planning and Tool Use_ [[PDF](papers/iclr26li.pdf)] [[arXiv](https://arxiv.org/abs/2510.05592)] [[project page](https://agentflow.stanford.edu)] [[code](https://github.com/lupantech/AgentFlow)]     
 Zhuofeng Li, Haoxiang Zhang, Seungju Han, Sheng Liu, Jianwen Xie, **Yu Zhang**, Yejin Choi, James Zou, and Pan Lu.     
-[ICLR 2026](https://iclr.cc/Conferences/2026). Rio de Janeiro, Brazil. (<span style="color:red">Oral</span>) [![Stars](https://img.shields.io/github/stars/lupantech/AgentFlow?style=social)]()
+[ICLR 2026](https://iclr.cc/Conferences/2026). Rio de Janeiro, Brazil. (<span style="color:teal">Oral</span>) [![Stars](https://img.shields.io/github/stars/lupantech/AgentFlow?style=social)]()
 
 _Curriculum Reinforcement Learning from Easy to Hard Tasks Improves LLM Reasoning_ [[PDF](papers/iclr26parashar.pdf)] [[arXiv](https://arxiv.org/abs/2506.06632)] [[code](https://github.com/divelab/E2H-Reasoning)]     
 Shubham Parashar, Shurui Gui, Xiner Li, Hongyi Ling, Sushil Vemuri, Blake Olson, Eric Li, **Yu Zhang**, James Caverlee, Dileep Kalathil, and Shuiwang Ji.     
@@ -119,12 +119,12 @@ Yanzhen Shen, **Yu Zhang**, Yunyi Zhang, and Jiawei Han.
 
 _Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation_ [[PDF](papers/wsdm25.pdf)] [[arXiv](https://arxiv.org/abs/2502.11181)]     
 SeongKu Kang, Bowen Jin, Wonbin Kweon, **Yu Zhang**, Dongha Lee, Jiawei Han, and Hwanjo Yu.      
-[WSDM 2025](https://www.wsdm-conference.org/2025). Hannover, Germany. (<span style="color:red">Invited to ACM TIST "Best Papers of WSDM 2025" Special Issue</span>)
+[WSDM 2025](https://www.wsdm-conference.org/2025). Hannover, Germany. (<span style="color:teal">Invited to ACM TIST "Best Papers of WSDM 2025" Special Issue</span>)
 
 ### 2024
 _Structure-Enhanced Text Mining for Science_ [[link](https://www.ideals.illinois.edu/items/134246)] [[award talk](https://www.youtube.com/watch?v=xjytpDE_nko&t=1550)]     
 **Yu Zhang**.      
-[Ph.D. Thesis](https://www.ideals.illinois.edu/items/134246). (<span style="color:red">ACM SIGKDD Dissertation Award Runner-Up</span>)
+[Ph.D. Thesis](https://www.ideals.illinois.edu/items/134246). (<span style="color:teal">ACM SIGKDD Dissertation Award Runner-Up</span>)
 
 _A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery_ [[PDF](papers/emnlp24.pdf)] [[arXiv](https://arxiv.org/abs/2406.10833)] [[project page](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models)]     
 **Yu Zhang\***, Xiusi Chen\*, Bowen Jin\*, Sheng Wang, Shuiwang Ji, Wei Wang, and Jiawei Han.     
@@ -185,7 +185,7 @@ Bowen Jin, **Yu Zhang**, Yu Meng, and Jiawei Han.
 
 _Gotta: Generative Few-shot Question Answering by Prompt-based Cloze Data Augmentation_ [[PDF](papers/sdm23.pdf)] [[arXiv](https://arxiv.org/abs/2306.04101)] [[code](https://github.com/xiusic/gotta)]     
 Xiusi Chen, **Yu Zhang**, Jinliang Deng, Jyun-Yu Jiang, and Wei Wang.     
-[SDM 2023](https://www.siam.org/conferences/cm/conference/sdm23). Minneapolis, MN, USA. (Regular Paper, <span style="color:red">Best Poster Award Honorable Mention</span>)
+[SDM 2023](https://www.siam.org/conferences/cm/conference/sdm23). Minneapolis, MN, USA. (Regular Paper, <span style="color:teal">Best Poster Award Honorable Mention</span>)
 
 ### 2022
 _Seed-Guided Topic Discovery with Out-of-Vocabulary Seeds_ [[PDF](papers/naacl22.pdf)] [[arXiv](https://arxiv.org/abs/2205.01845)] [[code](https://github.com/yuzhimanhua/SeeTopic)]       
@@ -258,7 +258,7 @@ Meng Qu, Xiang Ren, **Yu Zhang**, and Jiawei Han.
 
 _Open Information Extraction with Global Structure Constraints_ [[PDF](papers/www18zhu.pdf)] [[code](https://github.com/GentleZhu/ReMine)]        
 Qi Zhu, Xiang Ren, Jingbo Shang, **Yu Zhang**, Frank F. Xu, and Jiawei Han.            
-[WWW 2018](https://www2018.thewebconf.org). Lyon, France. (Poster, <span style="color:red">Best Poster Award Honorable Mention</span>)
+[WWW 2018](https://www2018.thewebconf.org). Lyon, France. (Poster, <span style="color:teal">Best Poster Award Honorable Mention</span>)
 
 ### 2017
 _RATE: Overcoming Noise and Sparsity of Textual Features in Real-Time Location Estimation_ [[PDF](papers/cikm17.pdf)] [[arXiv](https://arxiv.org/abs/2111.06515)] [[code](https://github.com/yuzhimanhua/Location-Inference)]        
@@ -308,18 +308,18 @@ Qi Zhu, Xiusi Chen, **Yu Zhang**, Soji Adeshina, Costas Mavromatis, Zhen Han, Va
 [KDD 2025](https://kdd2025.kdd.org). Toronto, Canada. (Workshop)
 
 ## Honors and Awards
-**ACM SIGKDD Dissertation Award Runner-Up**, 2025     
+ACM SIGKDD Dissertation Award Runner-Up, 2025     
 EMNLP Outstanding Reviewer, 2024     
 KDD Outstanding Reviewer (_30 in 1469_), [2023](awards/KDD23_Best_Reviewer.pdf)     
-**Dissertation Completion Fellowship, Graduate College, UIUC** (_the only recipient from CS_), [2023](awards/Dissertation_Completion_Fellowship.pdf)     
+Dissertation Completion Fellowship, Graduate College, UIUC (_the only recipient from CS_), [2023](awards/Dissertation_Completion_Fellowship.pdf)     
 WWW Best Reviewer, 2023     
 Data Mining Research Excellence Gold Award, Data Mining Group, UIUC, 2023, 2024     
 CIKM Best Reviewer, [2022](awards/CIKM22_Best_Reviewer.html)     
-**Yunni & Maxine Pao Memorial Fellowship, the Grainger College of Engineering, UIUC**, [2022](awards/Yunni_and_Maxine_Pao_Fellowship.pdf)     
-**WWW Best Poster Award Honorable Mention**, [2018](awards/WWW18_Best_Poster_Honorable_Mention.html)     
-**Outstanding Undergraduate Thesis Award, School of EECS, Peking University** (_10 in 320_), 2017     
-**Outstanding Graduates, Peking University**, 2017     
-**China National Scholarship** (_top 1% in Peking University_), [2014](awards/China_National_Scholarship.pdf)     
+Yunni & Maxine Pao Memorial Fellowship, the Grainger College of Engineering, UIUC, [2022](awards/Yunni_and_Maxine_Pao_Fellowship.pdf)     
+WWW Best Poster Award Honorable Mention, [2018](awards/WWW18_Best_Poster_Honorable_Mention.html)     
+Outstanding Undergraduate Thesis Award, School of EECS, Peking University (_10 in 320_), 2017     
+Outstanding Graduates, Peking University, 2017     
+China National Scholarship (_top 1% in Peking University_), [2014](awards/China_National_Scholarship.pdf)     
 
 ## Invited Talks
 **Assisting Scientific Research with Structure-Aware Large Language Models**     
