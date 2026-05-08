@@ -18,7 +18,7 @@ Prior to UIUC, I received my B.Sc. degree in Computer Science from Peking Univer
 
 ## Teaching
 Fall 2026: CSCE 670 - Information Storage and Retrieval     
-Fall 2026: ENGR 689 - SPTP: Multimodal LLM Agents (Sprint Course, with Prof. Cheng Zhang)
+Fall 2026: ENGR 689 - SPTP: Multimodal LLM Agents (Sprint Course, with Prof. Cheng Zhang)     
 Spring 2026: [CSCE 670 - Information Storage and Retrieval](https://yuzhang-teaching.github.io/CSCE670-S26.html)     
 Fall 2025: CSCE 670 - Information Storage and Retrieval     
 Spring 2025: CSCE 689 - SPTP: NLP for Science
