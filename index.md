@@ -55,6 +55,10 @@ Spring 2025: CSCE 689 - Special Topics in NLP for Science
 #### ("\*" indicates co-first authors. "\#" indicates co-corresponding authors. Unless otherwise specified, the paper is accepted as a research track long/regular paper.)
 
 ### Preprint
+_Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction_ [[arXiv](https://arxiv.org/abs/2605.05242)] [[code](https://github.com/DCI-Agent/DCI-Agent-Lite)]     
+Zhuofeng Li, Haoxiang Zhang, Cong Wei, Pan Lu, Ping Nie, Yi Lu, Yuyang Bai, Shangbin Feng, Hangxiao Zhu, Ming Zhong, Yuyu Zhang, Jianwen Xie, Yejin Choi, James Zou, Jiawei Han, Wenhu Chen, Jimmy Lin, Dongfu Jiang\#, **Yu Zhang\#**     
+[arXiv:2605.05242](https://arxiv.org/abs/2605.05242).
+
 _OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis_ [[arXiv](https://arxiv.org/abs/2603.20278)] [[code](https://github.com/TIGER-AI-Lab/OpenResearcher)] [[model](https://huggingface.co/OpenResearcher/OpenResearcher-30B-A3B)] [[dataset](https://huggingface.co/datasets/OpenResearcher/OpenResearcher-Dataset)]     
 Zhuofeng Li, Dongfu Jiang, Xueguang Ma, Haoxiang Zhang, Ping Nie, Yuyu Zhang, Kai Zou, Jianwen Xie, **Yu Zhang\#**, and Wenhu Chen\#.     
 [arXiv:2603.20278](https://arxiv.org/abs/2603.20278). [![Stars](https://img.shields.io/github/stars/TIGER-AI-Lab/OpenResearcher?style=social)]()
