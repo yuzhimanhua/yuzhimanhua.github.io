@@ -12,9 +12,13 @@ Prior to UIUC, I received my B.Sc. degree in Computer Science from Peking Univer
 <!-- <b style="color:#ad1457; font-weight:bold;">[Recruiting]</b> I am looking for self-motivated Ph.D. students and interns! Please fill out [this form](https://forms.gle/7VAvmmNrEEHYuftJ8) if you are interested in working with me. After completing the form, you are also welcome to reach out via email. I will read all submitted forms and emails but I do apologize for not being able to respond to each of them. -->
 
 ## Research Interests
-- NLP and Data Mining for Science (Biology, Medicine, Mathematics, and Science of Science)
+My group primarily works on **data mining**, **natural language processing**, and how they help **scientific discovery**. More specifically, my research focuses on the following topics:
 
-- LLM Agents with Structural Knowledge (Graphs, Ontologies, and Structural Memory)
+- **LLM Agents for Research** (e.g., deep research, problem solving, automatic reviewing, and impact prediction)
+
+- **LLM Agents with Structural Knowledge** (e.g., graph- or taxonomy-based memory and skills)
+
+- **Applications in Science** (e.g., science of science, biomedicine, and materials science)
 
 ## Teaching
 Fall 2026: CSCE 670 - Information Storage and Retrieval     
