@@ -30,6 +30,8 @@ Spring 2025: CSCE 689 - SPTP: NLP for Science
 ## What's New [[What's Not New...](old.md)]
 2026-01 to 2026-06 Invited to be a PC member of [KDD 2026](https://kdd2026.kdd.org) (Area Chair), [EMNLP 2026](https://2026.emnlp.org) (Senior Area Chair), and [NeurIPS 2026](https://neurips.cc/Conferences/2026) (Area Chair).
 
+2026-05-17 Two papers got accepted by [KDD 2026](https://2026.aclweb.org) Datasets and Benchmarks Track! The acceptance rate is about 29%.
+
 2026-04-14 Gave a guest lecture at Virginia Tech.
 
 2026-04-06 Two papers got accepted by [ACL 2026](https://2026.aclweb.org) (1 main conference + 1 findings)! The acceptance rate is about 19% for main conference papers and about 18% for findings papers.
@@ -68,10 +70,6 @@ _OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory
 Zhuofeng Li, Dongfu Jiang, Xueguang Ma, Haoxiang Zhang, Ping Nie, Yuyu Zhang, Kai Zou, Jianwen Xie, **Yu Zhang\#**, and Wenhu Chen\#.     
 [arXiv:2603.20278](https://arxiv.org/abs/2603.20278). [![Stars](https://img.shields.io/github/stars/TIGER-AI-Lab/OpenResearcher?style=social)]()
 
-_Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Generation_ [[arXiv](https://www.arxiv.org/abs/2602.09319)] [[code](https://github.com/charlieqi02/RAG-Knowledge-Extraction-Attack-and-Defense-Benchmark)]     
-Zhisheng Qi, Utkarsh Sahu, Li Ma, Haoyu Han, Ryan Rossi, Franck Dernoncourt, Mahantesh Halappanavar, Nesreen Ahmed, Yushun Dong, Yue Zhao, **Yu Zhang**, and Yu Wang.     
-[arXiv:2602.06052](https://arxiv.org/abs/2602.09319).
-
 _GraphDancer: Training LLMs to Explore and Reason over Graphs via Curriculum Reinforcement Learning_ [[arXiv](https://arxiv.org/abs/2602.02518)] [[project page](https://yuyangbai.com/graphdancer)] [[code](https://github.com/leopoldwhite/GraphDancer)] [[model](https://huggingface.co/collections/yuyangbai/graphdancer)]     
 Yuyang Bai, Zhuofeng Li, Ping Nie, Jianwen Xie, and **Yu Zhang**.     
 [arXiv:2602.02518](https://arxiv.org/abs/2602.02518).
@@ -81,6 +79,10 @@ Hangxiao Zhu, Yian Yin\#, and **Yu Zhang\#**.
 [arXiv:2509.16831](https://arxiv.org/abs/2509.16831).
 
 ### 2026
+_Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Generation_ [[arXiv](https://www.arxiv.org/abs/2602.09319)] [[code](https://github.com/charlieqi02/RAG-Knowledge-Extraction-Attack-and-Defense-Benchmark)]     
+Zhisheng Qi, Utkarsh Sahu, Li Ma, Haoyu Han, Ryan Rossi, Franck Dernoncourt, Mahantesh Halappanavar, Nesreen Ahmed, Yushun Dong, Yue Zhao, **Yu Zhang**, and Yu Wang.     
+[KDD 2026](https://kdd2026.kdd.org). Jeju, Korea. (Datasets and Benchmarks Track)
+
 _MemeBridge: A Dataset for Benchmarking and Mitigating the Bidirectional Cultural Gap in Meme Interpretation_     
 Hangxiao Zhu, Suliu Qin, Zhuoyan Li, Ming Jiang, **Yu Zhang**, and Meng Xia.     
 [KDD 2026](https://kdd2026.kdd.org). Jeju, Korea. (Datasets and Benchmarks Track)
