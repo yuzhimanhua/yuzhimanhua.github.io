@@ -64,14 +64,14 @@ Spring 2025: CSCE 689 - SPTP: NLP for Science
 ### Preprint
 _Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction_ [[arXiv](https://arxiv.org/abs/2605.05242)] [[code](https://github.com/DCI-Agent/DCI-Agent-Lite)] [[VentureBeat](https://venturebeat.com/orchestration/your-ai-agents-need-a-terminal-not-just-a-vector-database)]     
 Zhuofeng Li, Haoxiang Zhang, Cong Wei, Pan Lu, Ping Nie, Yi Lu, Yuyang Bai, Shangbin Feng, Hangxiao Zhu, Ming Zhong, Yuyu Zhang, Jianwen Xie, Yejin Choi, James Zou, Jiawei Han, Wenhu Chen, Jimmy Lin, Dongfu Jiang\#, and **Yu Zhang\#**.     
-[arXiv:2605.05242](https://arxiv.org/abs/2605.05242).
+[arXiv:2605.05242](https://arxiv.org/abs/2605.05242). [![Stars](https://img.shields.io/github/stars/DCI-Agent/DCI-Agent-Lite?style=social)]()
 
 _OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis_ [[arXiv](https://arxiv.org/abs/2603.20278)] [[code](https://github.com/TIGER-AI-Lab/OpenResearcher)] [[model](https://huggingface.co/OpenResearcher/OpenResearcher-30B-A3B)] [[dataset](https://huggingface.co/datasets/OpenResearcher/OpenResearcher-Dataset)]     
 Zhuofeng Li, Dongfu Jiang, Xueguang Ma, Haoxiang Zhang, Ping Nie, Yuyu Zhang, Kai Zou, Jianwen Xie, **Yu Zhang\#**, and Wenhu Chen\#.     
 [arXiv:2603.20278](https://arxiv.org/abs/2603.20278). [![Stars](https://img.shields.io/github/stars/TIGER-AI-Lab/OpenResearcher?style=social)]()
 
-_GraphDancer: Training LLMs to Explore and Reason over Graphs via Curriculum Reinforcement Learning_ [[arXiv](https://arxiv.org/abs/2602.02518)] [[project page](https://yuyangbai.com/graphdancer)] [[code](https://github.com/leopoldwhite/GraphDancer)] [[model](https://huggingface.co/collections/yuyangbai/graphdancer)]     
-Yuyang Bai, Zhuofeng Li, Ping Nie, Jianwen Xie, and **Yu Zhang**.     
+_GraphDancer: Training LLMs to Explore and Reason over Graphs via Two-Stage Curriculum Post-Training_ [[arXiv](https://arxiv.org/abs/2602.02518)] [[project page](https://yuyangbai.com/graphdancer)] [[code](https://github.com/leopoldwhite/GraphDancer)] [[model](https://huggingface.co/collections/yuyangbai/graphdancer)]     
+Yuyang Bai, Zhuofeng Li, Ping Nie, Yu Wang, Jianwen Xie, and **Yu Zhang**.     
 [arXiv:2602.02518](https://arxiv.org/abs/2602.02518).
 
 _Survivors, Complainers, and Borderliners: Upward Bias in Online Discussions of Academic Conference Reviews_ [[arXiv](https://arxiv.org/abs/2509.16831)]     
@@ -151,7 +151,7 @@ Siru Ouyang, Jiaxin Huang, Pranav Pillai, Yunyi Zhang, **Yu Zhang**, and Jiawei 
 
 _Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs_ [[PDF](papers/acl24findings.pdf)] [[arXiv](https://arxiv.org/abs/2404.07103)] [[code](https://github.com/PeterGriffinJin/Graph-CoT)]     
 Bowen Jin, Chulin Xie, Jiawei Zhang, Kashob Kumar Roy, **Yu Zhang**, Zheng Li, Ruirui Li, Xianfeng Tang, Suhang Wang, Yu Meng, and Jiawei Han.    
-[ACL 2024 Findings](https://2024.aclweb.org). Bangkok, Thailand.
+[ACL 2024 Findings](https://2024.aclweb.org). Bangkok, Thailand. [![Stars](https://img.shields.io/github/stars/PeterGriffinJin/Graph-CoT?style=social)]()
 
 ### 2023
 _Pre-training Multi-task Contrastive Learning Models for Scientific Literature Understanding_ [[PDF](papers/emnlp23findings.pdf)] [[arXiv](https://arxiv.org/abs/2305.14232)] [[project page](https://scimult.github.io)] [[code](https://github.com/yuzhimanhua/SciMult)] [[model](https://huggingface.co/yuz9yuz/SciMult/tree/main)] [[dataset](https://drive.google.com/file/d/1hoUAInDVO_UYnQiOOoVuBjwnVgY0BosO/view?usp=drive_link)] [[PMC-Patients leaderboard](https://pmc-patients.github.io)]      
