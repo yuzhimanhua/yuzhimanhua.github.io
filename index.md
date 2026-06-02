@@ -62,6 +62,10 @@ Spring 2025: CSCE 689 - SPTP: NLP for Science
 #### ("\*" indicates co-first authors. "\#" indicates co-corresponding authors. Unless otherwise specified, the paper is accepted as a research track long/regular paper.)
 
 ### Preprint
+_Masking Stale Observations Helps Search Agents -- Until It Doesn't: A Regime Map and Its Mechanism_ [[arXiv](https://arxiv.org/abs/2606.00408)] [[code](https://github.com/i-DeepSearch/observation-masking)]     
+Haoxiang Zhang, Qixin Xu, Zhuofeng Li, Lei Zhang, Pengcheng Jiang, **Yu Zhang\#**, and Julian McAuley\#     
+[arXiv:2606.00408](https://arxiv.org/abs/2606.00408).
+
 _Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction_ [[arXiv](https://arxiv.org/abs/2605.05242)] [[code](https://github.com/DCI-Agent/DCI-Agent-Lite)] [[VentureBeat](https://venturebeat.com/orchestration/your-ai-agents-need-a-terminal-not-just-a-vector-database)]     
 Zhuofeng Li, Haoxiang Zhang, Cong Wei, Pan Lu, Ping Nie, Yi Lu, Yuyang Bai, Shangbin Feng, Hangxiao Zhu, Ming Zhong, Yuyu Zhang, Jianwen Xie, Yejin Choi, James Zou, Jiawei Han, Wenhu Chen, Jimmy Lin, Dongfu Jiang\#, and **Yu Zhang\#**.     
 [arXiv:2605.05242](https://arxiv.org/abs/2605.05242). [![Stars](https://img.shields.io/github/stars/DCI-Agent/DCI-Agent-Lite?style=social)]()
