@@ -5,7 +5,7 @@ Office: 222 Peterson Building, 435 Nagle St, College Station, TX 77843
 ## About Me
 I am an Assistant Professor at the Department of Computer Science & Engineering at Texas A&M University. I lead the [SKY Lab](https://yuzhimanhua.github.io/sky-lab.github.io).
 
-Prior to TAMU, I received my Ph.D. and M.Sc. degrees in Computer Science from the University of Illinois Urbana-Champaign, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu). During my graduate study, I visited the University of Washington, working with Prof. [Sheng Wang](https://homes.cs.washington.edu/~swang); I interned at Microsoft Research Redmond three times, working with Dr. [Iris Shen](https://www.microsoft.com/en-us/research/people/zhihosh), Dr. [Hao Cheng](https://www.microsoft.com/en-us/research/people/chehao), Dr. [Xiaodong Liu](https://www.microsoft.com/en-us/research/people/xiaodl), and Dr. [Yuxiao Dong](http://keg.cs.tsinghua.edu.cn/yuxiao). My Ph.D. thesis won the [ACM SIGKDD Dissertation Award Runner-Up](https://kdd2025.kdd.org/awards).
+Prior to TAMU, I received my Ph.D. and M.Sc. degrees in Computer Science from the University of Illinois Urbana-Champaign, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu). During my graduate study, I visited the University of Washington, working with Prof. [Sheng Wang](https://homes.cs.washington.edu/~swang); I interned at Microsoft Research Redmond three times, working with Dr. [Iris Shen](https://www.microsoft.com/en-us/research/people/zhihosh), Dr. [Hao Cheng](https://www.microsoft.com/en-us/research/people/chehao), Dr. [Xiaodong Liu](https://www.microsoft.com/en-us/research/people/xiaodl), and Dr. [Yuxiao Dong](http://keg.cs.tsinghua.edu.cn/yuxiao). My Ph.D. thesis won the [ACM SIGKDD Dissertation Award Runner-Up](https://kdd.org/awards/view/2025-sigkdd-dissertation-award-winners).
 
 Prior to UIUC, I received my B.Sc. degree in Computer Science from Peking University, advised by Prof. [Yan Zhang](https://www.cis.pku.edu.cn/szdw/zzjs/zy.htm). During my undergraduate study, I got the [China National Scholarship](awards/China_National_Scholarship.pdf); I visited Carnegie Mellon University, working with Prof. [Kathleen M. Carley](https://s3d.cmu.edu/people/core-faculty/carley-kathleen.html).
 
@@ -41,22 +41,6 @@ Spring 2025: CSCE 689 - SPTP: NLP for Science
 2026-02-06 One paper was selected for an oral presentation at [ICLR 2026](https://iclr.cc/Conferences/2026) (224 out of 19,525 submissions, 1.1%)!
 
 2026-01-26 Three papers got accepted by [ICLR 2026](https://iclr.cc/Conferences/2026)! The acceptance rate is 27.4% (5,355/19,525).
-
-2025-07 to 2025-12 Invited to be a PC member of [KDD 2026](https://kdd2026.kdd.org) (Area Chair), [WWW 2026](https://www2026.thewebconf.org), and [ACL 2026](https://2026.aclweb.org) (Senior Area Chair).
-
-2025-11-28 One paper got accepted by [WSDM 2026](https://wsdm-conference.org/2026) short paper track!
-
-2025-11-01 One tutorial proposal got accepted by [WSDM 2026](https://wsdm-conference.org/2026) tutorial track!
-
-2025-10-30 Gave a guest lecture at Auburn University.
-
-2025-10-08 Our [paper](papers/wsdm25.pdf) on Scientific Document Retrieval was selected as one of the top-ranked papers published at [WSDM 2025](https://www.wsdm-conference.org/2025) and invited to the "Best Papers of WSDM 2025" Special Issue of ACM TIST!
-
-2025-09-27 We will hold an [ACL 2026](https://2026.aclweb.org) workshop on [Structured Understanding, Retrieval, and Generation in the LLM Era](https://surgellm.github.io/acl2026). See you in San Diego!
-
-2025-08-20 One paper got accepted by [EMNLP 2025 Findings](https://2025.emnlp.org)!
-
-2025-08-03 Attended [KDD 2025](https://kdd2025.kdd.org) in Toronto, Canada. Thrilled to receive the [ACM SIGKDD Dissertation Award Runner-Up](https://kdd2025.kdd.org/awards) and give my [award talk](https://www.youtube.com/watch?v=xjytpDE_nko&t=1550)!
 
 ## Selected Publications [[Full List](https://scholar.google.com/citations?hl=en&user=pL5b-6IAAAAJ&sortby=pubdate)]
 #### ("\*" indicates co-first authors. "\#" indicates co-corresponding authors. Unless otherwise specified, the paper is accepted as a research track long/regular paper.)
@@ -323,13 +307,13 @@ Qi Zhu, Xiusi Chen, **Yu Zhang**, Soji Adeshina, Costas Mavromatis, Zhen Han, Va
 [KDD 2025](https://kdd2025.kdd.org). Toronto, Canada. (Workshop)
 
 ## Honors and Awards
-ACM SIGKDD Dissertation Award Runner-Up, 2025     
+ACM SIGKDD Dissertation Award Runner-Up, [2025](awards/KDD25_Dissertation_Runner_Up.html)     
 EMNLP Outstanding Reviewer, 2024     
 KDD Outstanding Reviewer (_30 in 1469_), [2023](awards/KDD23_Best_Reviewer.pdf)     
 Dissertation Completion Fellowship, Graduate College, UIUC (_the only recipient from CS_), [2023](awards/Dissertation_Completion_Fellowship.pdf)     
 WWW Best Reviewer, 2023     
 Data Mining Research Excellence Gold Award, Data Mining Group, UIUC, 2023, 2024     
-CIKM Best Reviewer, [2022](awards/CIKM22_Best_Reviewer.html)     
+CIKM Best Reviewer, 2022     
 Yunni & Maxine Pao Memorial Fellowship, the Grainger College of Engineering, UIUC, [2022](awards/Yunni_and_Maxine_Pao_Fellowship.pdf)     
 WWW Best Poster Award Honorable Mention, [2018](awards/WWW18_Best_Poster_Honorable_Mention.html)     
 Outstanding Undergraduate Thesis Award, School of EECS, Peking University (_10 in 320_), 2017     

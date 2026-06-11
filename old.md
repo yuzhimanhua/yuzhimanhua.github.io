@@ -1,4 +1,20 @@
 ### 2025
+2025-07 to 2025-12 Invited to be a PC member of [KDD 2026](https://kdd2026.kdd.org) (Area Chair), [WWW 2026](https://www2026.thewebconf.org), and [ACL 2026](https://2026.aclweb.org) (Senior Area Chair).
+
+2025-11-28 One paper got accepted by [WSDM 2026](https://wsdm-conference.org/2026) short paper track!
+
+2025-11-01 One tutorial proposal got accepted by [WSDM 2026](https://wsdm-conference.org/2026) tutorial track!
+
+2025-10-30 Gave a guest lecture at Auburn University.
+
+2025-10-08 Our [paper](papers/wsdm25.pdf) on Scientific Document Retrieval was selected as one of the top-ranked papers published at [WSDM 2025](https://www.wsdm-conference.org/2025) and invited to the "Best Papers of WSDM 2025" Special Issue of ACM TIST!
+
+2025-09-27 We will hold an [ACL 2026](https://2026.aclweb.org) workshop on [Structured Understanding, Retrieval, and Generation in the LLM Era](https://surgellm.github.io/acl2026). See you in San Diego!
+
+2025-08-20 One paper got accepted by [EMNLP 2025 Findings](https://2025.emnlp.org)!
+
+2025-08-03 Attended [KDD 2025](https://kdd2025.kdd.org) in Toronto, Canada. Thrilled to receive the [ACM SIGKDD Dissertation Award Runner-Up](https://kdd.org/awards/view/2025-sigkdd-dissertation-award-winners) and give my [award talk](https://www.youtube.com/watch?v=xjytpDE_nko&t=1550)!
+
 2025-01 to 2025-06 Invited to be a PC member of [KDD 2025](https://kdd2025.kdd.org) (Area Chair), [ACL 2025](https://2025.aclweb.org) (Area Chair), [NeurIPS 2025](https://neurips.cc/Conferences/2025) (Area Chair), and [EMNLP 2025](https://2025.emnlp.org) (Senior Area Chair).
 
 2025-05-15 Two papers got accepted by [ACL 2025](https://2025.aclweb.org) (1 main conference + 1 findings)!
