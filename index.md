@@ -30,6 +30,8 @@ Spring 2025: CSCE 689 - SPTP: NLP for Science
 ## What's New [[What's Not New...](old.md)]
 2026-01 to 2026-06 Invited to be a PC member of [KDD 2026](https://kdd2026.kdd.org) (Area Chair), [EMNLP 2026](https://2026.emnlp.org) (Senior Area Chair), and [NeurIPS 2026](https://neurips.cc/Conferences/2026) (Area Chair).
 
+2026-06-16 One paper (extended journal version) got accepted by [ACM TIST](https://dl.acm.org/journal/tist) Special Issue on "Best Papers of WSDM 2025"! The conference version was selected as one of the top-ranked papers at [WSDM 2025](https://www.wsdm-conference.org/2025).
+
 2026-05-17 Two papers got accepted by [KDD 2026](https://2026.aclweb.org) Datasets and Benchmarks Track! The acceptance rate is about 29%.
 
 2026-04-14 Gave a guest lecture at Virginia Tech.

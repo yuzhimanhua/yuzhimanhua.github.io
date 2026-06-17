@@ -7,7 +7,7 @@
 
 2025-10-30 Gave a guest lecture at Auburn University.
 
-2025-10-08 Our [paper](papers/wsdm25.pdf) on Scientific Document Retrieval was selected as one of the top-ranked papers published at [WSDM 2025](https://www.wsdm-conference.org/2025) and invited to the "Best Papers of WSDM 2025" Special Issue of ACM TIST!
+2025-10-08 Our [paper](papers/wsdm25.pdf) on Scientific Document Retrieval was selected as one of the top-ranked papers published at [WSDM 2025](https://www.wsdm-conference.org/2025) and invited to [ACM TIST](https://dl.acm.org/journal/tist) Special Issue on "Best Papers of WSDM 2025"!
 
 2025-09-27 We will hold an [ACL 2026](https://2026.aclweb.org) workshop on [Structured Understanding, Retrieval, and Generation in the LLM Era](https://surgellm.github.io/acl2026). See you in San Diego!
 
