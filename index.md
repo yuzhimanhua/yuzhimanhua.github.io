@@ -70,6 +70,11 @@ _Survivors, Complainers, and Borderliners: Upward Bias in Online Discussions of 
 Hangxiao Zhu, Yian Yin\#, and **Yu Zhang\#**.     
 [arXiv:2509.16831](https://arxiv.org/abs/2509.16831).
 
+### In Press
+_Improving Scientific Document Retrieval with Academic Concept Index_     
+Jeyun Lee, Junhyoung Lee, Wonbin Kweon, Bowen Jin, **Yu Zhang**, Susik Yoon, Dongha Lee, Hwanjo Yu, Jiawei Han, and SeongKu Kang.     
+[ACM TIST](https://dl.acm.org/journal/tist). (<span style="color:#ad1457; font-weight:bold;">"Best Papers of WSDM 2025" Special Issue</span>)
+
 ### 2026
 _Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Generation_ [[arXiv](https://www.arxiv.org/abs/2602.09319)] [[code](https://github.com/charlieqi02/RAG-Knowledge-Extraction-Attack-and-Defense-Benchmark)]     
 Zhisheng Qi, Utkarsh Sahu, Li Ma, Haoyu Han, Ryan Rossi, Franck Dernoncourt, Mahantesh Halappanavar, Nesreen Ahmed, Yushun Dong, Yue Zhao, **Yu Zhang**, and Yu Wang.     
@@ -122,7 +127,7 @@ Yanzhen Shen, **Yu Zhang**, Yunyi Zhang, and Jiawei Han.
 
 _Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation_ [[PDF](papers/wsdm25.pdf)] [[arXiv](https://arxiv.org/abs/2502.11181)]     
 SeongKu Kang, Bowen Jin, Wonbin Kweon, **Yu Zhang**, Dongha Lee, Jiawei Han, and Hwanjo Yu.      
-[WSDM 2025](https://www.wsdm-conference.org/2025). Hannover, Germany. (<span style="color:#ad1457; font-weight:bold;">Invited to ACM TIST "Best Papers of WSDM 2025" Special Issue</span>)
+[WSDM 2025](https://www.wsdm-conference.org/2025). Hannover, Germany.
 
 ### 2024
 _Structure-Enhanced Text Mining for Science_ [[link](https://www.ideals.illinois.edu/items/134246)] [[award talk](https://www.youtube.com/watch?v=xjytpDE_nko&t=1550)]     
@@ -205,7 +210,7 @@ _MotifClass: Weakly Supervised Text Classification with Higher-order Metadata In
 
 _Heterogeneous Network Representation Learning: A Unified Framework with Survey and Benchmark_ [[PDF](papers/tkde22.pdf)] [[arXiv](https://arxiv.org/abs/2004.00216)] [[code](https://github.com/yangji9181/HNE)]       
 Carl Yang\*, Yuxin Xiao\*, **Yu Zhang\***, Yizhou Sun, and Jiawei Han.         
-[TKDE](https://www.computer.org/csdl/journal/tk). Volume 34, Issue 10. IEEE.
+[IEEE TKDE](https://www.computer.org/csdl/journal/tk). Volume 34, Issue 10. IEEE.
 
 _Generating Training Data with Language Models: Towards Zero-Shot Language Understanding_ [[PDF](papers/neurips22.pdf)] [[arXiv](https://arxiv.org/abs/2202.04538)] [[code](https://github.com/yumeng5/SuperGen)]       
 Yu Meng, Jiaxin Huang, **Yu Zhang**, and Jiawei Han.      
