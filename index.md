@@ -78,7 +78,7 @@ Jeyun Lee, Junhyoung Lee, Wonbin Kweon, Bowen Jin, **Yu Zhang**, Susik Yoon, Don
 [ACM TIST](https://dl.acm.org/journal/tist). (<span style="color:#ad1457; font-weight:bold;">"Best Papers of WSDM 2025" Special Issue</span>)
 
 ### 2026
-_Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Generation_ [[arXiv](https://www.arxiv.org/abs/2602.09319)] [[code](https://github.com/charlieqi02/RAG-Knowledge-Extraction-Attack-and-Defense-Benchmark)]     
+_Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Generation (RAG)_ [[PDF](papers/kdd26qi.pdf)] [[arXiv](https://www.arxiv.org/abs/2602.09319)] [[code](https://github.com/charlieqi02/RAG-Knowledge-Extraction-Attack-and-Defense-Benchmark)]     
 Zhisheng Qi, Utkarsh Sahu, Li Ma, Haoyu Han, Ryan Rossi, Franck Dernoncourt, Mahantesh Halappanavar, Nesreen Ahmed, Yushun Dong, Yue Zhao, **Yu Zhang**, and Yu Wang.     
 [KDD 2026](https://kdd2026.kdd.org). Jeju, Korea. (Datasets and Benchmarks Track)
 
