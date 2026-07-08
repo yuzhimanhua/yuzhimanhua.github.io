@@ -1,6 +1,8 @@
 ### 2025
 2025-07 to 2025-12 Invited to be a PC member of [KDD 2026](https://kdd2026.kdd.org) (Area Chair), [WWW 2026](https://www2026.thewebconf.org), and [ACL 2026](https://2026.aclweb.org) (Senior Area Chair).
 
+2025-12-02 Attended [NeurIPS 2025](https://neurips.cc/Conferences/2025) in San Diego, CA.
+
 2025-11-28 One paper got accepted by [WSDM 2026](https://wsdm-conference.org/2026) short paper track!
 
 2025-11-01 One tutorial proposal got accepted by [WSDM 2026](https://wsdm-conference.org/2026) tutorial track!

@@ -30,6 +30,8 @@ Spring 2025: CSCE 689 - SPTP: NLP for Science
 ## What's New [[What's Not New...](old.md)]
 2026-01 to 2026-06 Invited to be a PC member of [KDD 2026](https://kdd2026.kdd.org) (Area Chair), [EMNLP 2026](https://2026.emnlp.org) (Senior Area Chair), and [NeurIPS 2026](https://neurips.cc/Conferences/2026) (Area Chair).
 
+2026-07-02 Attended [ACL 2026](https://2026.aclweb.org) in San Diego, CA.
+
 2026-06-16 One paper (extended journal version) got accepted by [ACM TIST](https://dl.acm.org/journal/tist) Special Issue on "Best Papers of WSDM 2025"! The conference version was selected as one of the top-ranked papers at [WSDM 2025](https://www.wsdm-conference.org/2025).
 
 2026-05-17 Two papers got accepted by [KDD 2026](https://2026.aclweb.org) Datasets and Benchmarks Track! The acceptance rate is about 29%.
@@ -309,6 +311,10 @@ Yu Meng, Jiaxin Huang, **Yu Zhang**, and Jiawei Han.
 [KDD 2021](https://www.kdd.org/kdd2021). Singapore, Singapore. (Tutorial)
 
 ## Workshop Summaries (In Proceedings)
+_Proceedings of the First Workshop on Structured Understanding, Retrieval, and Generation in the LLM Era (SURGeLLM 2026)_ [[PDF](https://aclanthology.org/volumes/2026.surgellm-1)]     
+Vivek Gupta, Kaize Ding, Harsha Kokel, Yue Zhao, Amit Agarwal, Yu Wang, Michael Glass, **Yu Zhang**, Kavitha Srinivas, Xiusi Chen, Oktie Hassanzadeh, Qi Zhu, Shuaichen Chang, and Yuan Luo.     
+[ACL 2026](https://2026.aclweb.org). San Diego, CA, USA. (Workshop)
+
 _Machine Learning on Graphs in the Era of Generative Artificial Intelligence_ [[PDF](https://dl.acm.org/doi/10.1145/3711896.3737870)]     
 Yu Wang, **Yu Zhang**, Zhichun Guo, Harry Shomer, Haoyu Han, Tyler Derr, Nesreen K. Ahmed, Mahantesh Halappanavar, and Jiliang Tang.     
 [KDD 2025](https://kdd2025.kdd.org). Toronto, Canada. (Workshop)
