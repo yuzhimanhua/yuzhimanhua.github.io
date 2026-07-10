@@ -30,6 +30,8 @@ Spring 2025: CSCE 689 - SPTP: NLP for Science
 ## What's New [[What's Not New...](old.md)]
 2026-01 to 2026-06 Invited to be a PC member of [KDD 2026](https://kdd2026.kdd.org) (Area Chair), [EMNLP 2026](https://2026.emnlp.org) (Senior Area Chair), and [NeurIPS 2026](https://neurips.cc/Conferences/2026) (Area Chair).
 
+2026-07-07 Honored to be selected as one of the Outstanding Senior Area Chairs by [ACL 2026](https://2026.aclweb.org)!
+
 2026-07-02 Attended [ACL 2026](https://2026.aclweb.org) in San Diego, CA.
 
 2026-06-16 One paper (extended journal version) got accepted by [ACM TIST](https://dl.acm.org/journal/tist) Special Issue on "Best Papers of WSDM 2025"! The conference version was selected as one of the top-ranked papers at [WSDM 2025](https://www.wsdm-conference.org/2025).
@@ -324,13 +326,11 @@ Qi Zhu, Xiusi Chen, **Yu Zhang**, Soji Adeshina, Costas Mavromatis, Zhen Han, Va
 [KDD 2025](https://kdd2025.kdd.org). Toronto, Canada. (Workshop)
 
 ## Honors and Awards
+Best/Excellent/Outstanding Reviewer, ACL 2026 (as Senior Area Chair), EMNLP 2024, [KDD 2023](awards/KDD23_Best_Reviewer.pdf), WWW 2023, CIKM 2022
+
 ACM SIGKDD Dissertation Award Runner-Up, [2025](awards/KDD25_Dissertation_Runner_Up.html)     
-EMNLP Outstanding Reviewer, 2024     
-KDD Outstanding Reviewer (_30 in 1469_), [2023](awards/KDD23_Best_Reviewer.pdf)     
 Dissertation Completion Fellowship, Graduate College, UIUC (_the only recipient from CS_), [2023](awards/Dissertation_Completion_Fellowship.pdf)     
-WWW Best Reviewer, 2023     
 Data Mining Research Excellence Gold Award, Data Mining Group, UIUC, 2023, 2024     
-CIKM Best Reviewer, 2022     
 Yunni & Maxine Pao Memorial Fellowship, the Grainger College of Engineering, UIUC, [2022](awards/Yunni_and_Maxine_Pao_Fellowship.pdf)     
 WWW Best Poster Award Honorable Mention, [2018](awards/WWW18_Best_Poster_Honorable_Mention.html)     
 Outstanding Undergraduate Thesis Award, School of EECS, Peking University (_10 in 320_), 2017     

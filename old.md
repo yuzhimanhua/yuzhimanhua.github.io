@@ -108,7 +108,7 @@
 
 2022-12-16 Our tutorial proposal on Turning Web-Scale Texts to Knowledge was accepted by [WWW 2023](https://www2023.thewebconf.org) tutorial track!
 
-2022-10-19 Honored to be selected as one of the [Best Reviewers](awards/CIKM22_Best_Reviewer.html) by [CIKM 2022](https://www.cikm2022.org)!
+2022-10-19 Honored to be selected as one of the Best Reviewers by [CIKM 2022](https://www.cikm2022.org)!
 
 2022-10-18 Our paper on Seed-Guided Topic Discovery was accepted by [WSDM 2023](https://www.wsdm-conference.org/2023)! The acceptance rate is 17.8% (123/690).
 
