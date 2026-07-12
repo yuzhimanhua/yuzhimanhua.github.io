@@ -28,11 +28,13 @@ Fall 2025: CSCE 670 - Information Storage and Retrieval
 Spring 2025: CSCE 689 - SPTP: NLP for Science
 
 ## What's New [[What's Not New...](old.md)]
-2026-01 to 2026-06 Invited to be a PC member of [KDD 2026](https://kdd2026.kdd.org) (Area Chair), [EMNLP 2026](https://2026.emnlp.org) (Senior Area Chair), and [NeurIPS 2026](https://neurips.cc/Conferences/2026) (Area Chair).
+2026-07 to 2026-12 Invited to be a PC member of [KDD 2027](https://kdd2027.kdd.org) (Area Chair).
 
 2026-07-07 Honored to be selected as one of the Outstanding Senior Area Chairs by [ACL 2026](https://2026.aclweb.org)!
 
 2026-07-02 Attended [ACL 2026](https://2026.aclweb.org) in San Diego, CA.
+
+2026-01 to 2026-06 Invited to be a PC member of [KDD 2026](https://kdd2026.kdd.org) (Area Chair), [EMNLP 2026](https://2026.emnlp.org) (Senior Area Chair), and [NeurIPS 2026](https://neurips.cc/Conferences/2026) (Area Chair).
 
 2026-06-16 One paper (extended journal version) got accepted by [ACM TIST](https://dl.acm.org/journal/tist) Special Issue on "Best Papers of WSDM 2025"! The conference version was selected as one of the top-ranked papers at [WSDM 2025](https://www.wsdm-conference.org/2025).
 
@@ -357,7 +359,7 @@ March 2024, Keynote at the Machine Learning on Graphs (MLoG) Workshop at WSDM 20
 ACL 2026; EMNLP 2025-2026
 
 **Conference Area Chair**        
-KDD 2025-2026; ACL 2025; NeurIPS 2025-2026
+KDD 2025-2027; NeurIPS 2025-2026; ACL 2025
 
 **Conference Reviewer**        
 KDD 2022-2025; WWW 2022-2026; WSDM 2023-2025;      
