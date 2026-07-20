@@ -28,7 +28,7 @@ Fall 2025: CSCE 670 - Information Storage and Retrieval
 Spring 2025: CSCE 689 - SPTP: NLP for Science
 
 ## What's New [[What's Not New...](old.md)]
-2026-07 to 2026-12 Invited to be a PC member of [KDD 2027](https://kdd2027.kdd.org) (Area Chair).
+2026-07 to 2026-12 Invited to be a PC member of [KDD 2027](https://kdd2027.kdd.org) (Area Chair) and [AAAI 2027](https://aaai.org/conference/aaai/aaai-27) (Senior Program Committee).
 
 2026-07-07 Honored to be selected as one of the Outstanding Senior Area Chairs by [ACL 2026](https://2026.aclweb.org)!
 
@@ -364,7 +364,7 @@ KDD 2025-2027; NeurIPS 2025-2026; ACL 2025
 **Conference Reviewer**        
 KDD 2022-2025; WWW 2022-2026; WSDM 2023-2025;      
 CIKM 2021-2024; SDM 2024; ECML/PKDD 2022;           
-NeurIPS 2021-2022, 2024; ICML 2022-2025; ICLR 2021-2025; AAAI 2022;         
+NeurIPS 2021-2022, 2024; ICML 2022-2025; ICLR 2021-2025; AAAI 2022, 2027 (Senior);         
 ACL 2021, 2023; EMNLP 2020, 2022-2024; NAACL 2021-2022; COLING 2022         
 
 **Journal Reviewer**         
