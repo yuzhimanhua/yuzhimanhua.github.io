@@ -54,6 +54,10 @@ Spring 2025: CSCE 689 - SPTP: NLP for Science
 #### ("\*" indicates co-first authors. "\#" indicates co-corresponding authors. Unless otherwise specified, the paper is accepted as a research track long/regular paper.)
 
 ### Preprint
+_Filesystem-Based Memory for LLM Agents: Organization, Evolution, and Sustainability_ [[arXiv](https://arxiv.org/abs/2607.26637)]     
+Sizhe Zhou, Sheldon Yu, Hui Wei, Junda Wu, Siru Ouyang, Yizhu Jiao, Shijia Pan, Julian McAuley, **Yu Zhang**, Tong Yu, and Jiawei Han.     
+[arXiv:2607.26637](https://arxiv.org/abs/2607.26637).
+
 _Dr-DCI: Scaling Direct Corpus Interaction via Dynamic Workspace Expansion_ [[arXiv](https://arxiv.org/abs/2606.14885)] [[code](https://github.com/EigenTom/DR-DCI)]     
 Yi Lu, Zhuofeng Li, Ping Nie, Haoxiang Zhang, Yuyu Zhang, Kai Zou, Wenhu Chen, Jimmy Lin, Dongfu Jiang\#, and **Yu Zhang\#**.     
 [arXiv:2606.14885](https://arxiv.org/abs/2606.14885).
