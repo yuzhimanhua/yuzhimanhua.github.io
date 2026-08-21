@@ -64,17 +64,9 @@ _Dr-DCI: Scaling Direct Corpus Interaction via Dynamic Workspace Expansion_ [[ar
 Yi Lu, Zhuofeng Li, Ping Nie, Haoxiang Zhang, Yuyu Zhang, Kai Zou, Wenhu Chen, Jimmy Lin, Dongfu Jiang\#, and **Yu Zhang\#**.     
 [arXiv:2606.14885](https://arxiv.org/abs/2606.14885).
 
-_Masking Stale Observations Helps Search Agents -- Until It Doesn't: A Regime Map and Its Mechanism_ [[arXiv](https://arxiv.org/abs/2606.00408)] [[code](https://github.com/i-DeepSearch/observation-masking)]     
-Haoxiang Zhang, Qixin Xu, Zhuofeng Li, Lei Zhang, Pengcheng Jiang, **Yu Zhang\#**, and Julian McAuley\#.     
-[arXiv:2606.00408](https://arxiv.org/abs/2606.00408).
-
 _Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction_ [[arXiv](https://arxiv.org/abs/2605.05242)] [[code](https://github.com/DCI-Agent/DCI-Agent-Lite)] [[VentureBeat](https://venturebeat.com/orchestration/your-ai-agents-need-a-terminal-not-just-a-vector-database)]     
 Zhuofeng Li, Haoxiang Zhang, Cong Wei, Pan Lu, Ping Nie, Yi Lu, Yuyang Bai, Shangbin Feng, Hangxiao Zhu, Ming Zhong, Yuyu Zhang, Jianwen Xie, Yejin Choi, James Zou, Jiawei Han, Wenhu Chen, Jimmy Lin, Dongfu Jiang\#, and **Yu Zhang\#**.     
 [arXiv:2605.05242](https://arxiv.org/abs/2605.05242). [![Stars](https://img.shields.io/github/stars/DCI-Agent/DCI-Agent-Lite?style=social)]()
-
-_OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis_ [[arXiv](https://arxiv.org/abs/2603.20278)] [[code](https://github.com/TIGER-AI-Lab/OpenResearcher)] [[model](https://huggingface.co/OpenResearcher/OpenResearcher-30B-A3B)] [[dataset](https://huggingface.co/datasets/OpenResearcher/OpenResearcher-Dataset)]     
-Zhuofeng Li, Dongfu Jiang, Xueguang Ma, Haoxiang Zhang, Ping Nie, Yuyu Zhang, Kai Zou, Jianwen Xie, **Yu Zhang\#**, and Wenhu Chen\#.     
-[arXiv:2603.20278](https://arxiv.org/abs/2603.20278). [![Stars](https://img.shields.io/github/stars/TIGER-AI-Lab/OpenResearcher?style=social)]()
 
 _GraphDancer: Training LLMs to Explore and Reason over Graphs via Two-Stage Curriculum Post-Training_ [[arXiv](https://arxiv.org/abs/2602.02518)] [[project page](https://yuyangbai.com/graphdancer)] [[code](https://github.com/leopoldwhite/GraphDancer)] [[model](https://huggingface.co/collections/yuyangbai/graphdancer)]     
 Yuyang Bai, Zhuofeng Li, Ping Nie, Yu Wang, Jianwen Xie, and **Yu Zhang**.     
@@ -90,6 +82,18 @@ Jeyun Lee, Junhyoung Lee, Wonbin Kweon, Bowen Jin, **Yu Zhang**, Susik Yoon, Don
 [ACM TIST](https://dl.acm.org/journal/tist). (<span style="color:#ad1457; font-weight:bold;">"Best Papers of WSDM 2025" Special Issue</span>)
 
 ### 2026
+_OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis_ [[arXiv](https://arxiv.org/abs/2603.20278)] [[code](https://github.com/TIGER-AI-Lab/OpenResearcher)] [[model](https://huggingface.co/OpenResearcher/OpenResearcher-30B-A3B)] [[dataset](https://huggingface.co/datasets/OpenResearcher/OpenResearcher-Dataset)]     
+Zhuofeng Li, Dongfu Jiang, Xueguang Ma, Haoxiang Zhang, Ping Nie, Yuyu Zhang, Kai Zou, Jianwen Xie, **Yu Zhang\#**, and Wenhu Chen\#.     
+[EMNLP 2026](https://2026.emnlp.org). Budapest, Hungary. [![Stars](https://img.shields.io/github/stars/TIGER-AI-Lab/OpenResearcher?style=social)]()
+
+_Masking Stale Observations Helps Search Agents -- Until It Doesn't: A Regime Map and Its Mechanism_ [[arXiv](https://arxiv.org/abs/2606.00408)] [[code](https://github.com/i-DeepSearch/observation-masking)]     
+Haoxiang Zhang, Qixin Xu, Zhuofeng Li, Lei Zhang, Pengcheng Jiang, **Yu Zhang\#**, and Julian McAuley\#.     
+[EMNLP 2026](https://2026.emnlp.org). Budapest, Hungary.
+
+_Building Long-Term LLM Memory with Neo-Davidsonian Discourse Units_     
+Sizhe Zhou, Yanzhen Shen, Siru Ouyang, Yuyang Bai, Yiheng Shu, **Yu Zhang**, Jiawei Han.     
+[Findings of EMNLP 2026](https://2026.emnlp.org). Budapest, Hungary.
+
 _Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Generation (RAG)_ [[PDF](papers/kdd26qi.pdf)] [[arXiv](https://www.arxiv.org/abs/2602.09319)] [[code](https://github.com/charlieqi02/RAG-Knowledge-Extraction-Attack-and-Defense-Benchmark)]     
 Zhisheng Qi, Utkarsh Sahu, Li Ma, Haoyu Han, Ryan Rossi, Franck Dernoncourt, Mahantesh Halappanavar, Nesreen Ahmed, Yushun Dong, Yue Zhao, **Yu Zhang**, and Yu Wang.     
 [KDD 2026](https://kdd2026.kdd.org). Jeju, Korea. (Datasets and Benchmarks Track)
@@ -104,7 +108,7 @@ Zhuofeng Li, Yi Lu, Dongfu Jiang, Haoxiang Zhang, Yuyang Bai, Chuan Li, Yu Wang,
 
 _SciImpact: A Multi-Dimensional, Multi-Field Benchmark for Scientific Impact Prediction_ [[PDF](papers/acl26findings.pdf)] [[arXiv](https://arxiv.org/abs/2604.17141)] [[project page](https://flypig23.github.io/sciimpact-homepage)] [[dataset](https://github.com/FlyPig23/SciImpact)]     
 Hangxiao Zhu, Yuyu Zhang, Ping Nie, and **Yu Zhang**.     
-[ACL 2026 Findings](https://2026.aclweb.org). San Diego, CA, USA.
+[Findings of ACL 2026](https://2026.aclweb.org). San Diego, CA, USA.
 
 _In-the-Flow Agentic System Optimization for Effective Planning and Tool Use_ [[PDF](papers/iclr26li.pdf)] [[arXiv](https://arxiv.org/abs/2510.05592)] [[project page](https://agentflow.stanford.edu)] [[code](https://github.com/lupantech/AgentFlow)]     
 Zhuofeng Li, Haoxiang Zhang, Seungju Han, Sheng Liu, Jianwen Xie, **Yu Zhang**, Yejin Choi, James Zou, and Pan Lu.     
@@ -133,11 +137,11 @@ _Chain-of-Factors Paper-Reviewer Matching_ [[PDF](papers/www25.pdf)] [[arXiv](ht
 
 _Protein Large Language Models: A Comprehensive Survey_ [[PDF](papers/emnlp25findings.pdf)] [[arXiv](https://arxiv.org/abs/2502.17504)] [[project page](https://github.com/Yijia-Xiao/Protein-LLM-Survey)]     
 Yijia Xiao, Wanjia Zhao, Junkai Zhang, Yiqiao Jin, Han Zhang, Zhicheng Ren, Renliang Sun, Haixin Wang, Guancheng Wan, Pan Lu, Xiao Luo, **Yu Zhang**, James Zou, Yizhou Sun, and Wei Wang.     
-[EMNLP 2025 Findings](https://2025.emnlp.org). Suzhou, China.
+[Findings of EMNLP 2025](https://2025.emnlp.org). Suzhou, China.
 
 _A Unified Taxonomy-Guided Instruction Tuning Framework for Entity Set Expansion and Taxonomy Expansion_ [[PDF](papers/acl25findings.pdf)] [[arXiv](https://arxiv.org/abs/2402.13405)] [[code](https://github.com/yanzhen4/TaxoInstruct)]     
 Yanzhen Shen, **Yu Zhang**, Yunyi Zhang, and Jiawei Han.      
-[ACL 2025 Findings](https://2025.aclweb.org). Vienna, Austria.
+[Findings of ACL 2025](https://2025.aclweb.org). Vienna, Austria.
 
 _Improving Scientific Document Retrieval with Concept Coverage-based Query Set Generation_ [[PDF](papers/wsdm25.pdf)] [[arXiv](https://arxiv.org/abs/2502.11181)]     
 SeongKu Kang, Bowen Jin, Wonbin Kweon, **Yu Zhang**, Dongha Lee, Jiawei Han, and Hwanjo Yu.      
@@ -162,12 +166,12 @@ Siru Ouyang, Jiaxin Huang, Pranav Pillai, Yunyi Zhang, **Yu Zhang**, and Jiawei 
 
 _Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs_ [[PDF](papers/acl24findings.pdf)] [[arXiv](https://arxiv.org/abs/2404.07103)] [[code](https://github.com/PeterGriffinJin/Graph-CoT)]     
 Bowen Jin, Chulin Xie, Jiawei Zhang, Kashob Kumar Roy, **Yu Zhang**, Zheng Li, Ruirui Li, Xianfeng Tang, Suhang Wang, Yu Meng, and Jiawei Han.    
-[ACL 2024 Findings](https://2024.aclweb.org). Bangkok, Thailand. [![Stars](https://img.shields.io/github/stars/PeterGriffinJin/Graph-CoT?style=social)]()
+[Findings of ACL 2024](https://2024.aclweb.org). Bangkok, Thailand. [![Stars](https://img.shields.io/github/stars/PeterGriffinJin/Graph-CoT?style=social)]()
 
 ### 2023
 _Pre-training Multi-task Contrastive Learning Models for Scientific Literature Understanding_ [[PDF](papers/emnlp23findings.pdf)] [[arXiv](https://arxiv.org/abs/2305.14232)] [[project page](https://scimult.github.io)] [[code](https://github.com/yuzhimanhua/SciMult)] [[model](https://huggingface.co/yuz9yuz/SciMult/tree/main)] [[dataset](https://drive.google.com/file/d/1hoUAInDVO_UYnQiOOoVuBjwnVgY0BosO/view?usp=drive_link)] [[PMC-Patients leaderboard](https://pmc-patients.github.io)]      
 **Yu Zhang\***, Hao Cheng\*, Zhihong Shen, Xiaodong Liu, Ye-Yi Wang, and Jianfeng Gao.     
-[EMNLP 2023 Findings](https://2023.emnlp.org). Singapore, Singapore.
+[Findings of EMNLP 2023](https://2023.emnlp.org). Singapore, Singapore.
 
 _Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers_ [[PDF](papers/kdd23zhang.pdf)] [[arXiv](https://arxiv.org/abs/2306.14003)] [[code](https://github.com/yuzhimanhua/FUTEX)]      
 **Yu Zhang**, Bowen Jin, Xiusi Chen, Yanzhen Shen, Yunyi Zhang, Yu Meng, and Jiawei Han.     
