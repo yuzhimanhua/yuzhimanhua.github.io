@@ -30,6 +30,8 @@ Spring 2025: CSCE 689 - SPTP: NLP for Science
 ## What's New [[What's Not New...](old.md)]
 2026-07 to 2026-12 Invited to be a PC member of [KDD 2027](https://kdd2027.kdd.org) (Area Chair) and [AAAI 2027](https://aaai.org/conference/aaai/aaai-27) (Senior Program Committee).
 
+2026-08-20 Three papers got accepted by [EMNLP 2026](https://2026.emnlp.org) (2 main conference + 1 findings)! The acceptance rate is 15.4% for main conference papers and 14.3% for findings papers.
+
 2026-07-07 Honored to be selected as one of the [Outstanding Senior Area Chairs](awards/ACL26_Outstanding_SAC.pdf) by [ACL 2026](https://2026.aclweb.org)!
 
 2026-07-03 Selected for the [OpenAI Researcher Access Program](https://openai.com/form/researcher-access-program).
