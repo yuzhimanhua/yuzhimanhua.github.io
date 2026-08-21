@@ -93,7 +93,7 @@ Haoxiang Zhang, Qixin Xu, Zhuofeng Li, Lei Zhang, Pengcheng Jiang, **Yu Zhang\#*
 [EMNLP 2026](https://2026.emnlp.org). Budapest, Hungary.
 
 _Building Long-Term LLM Memory with Neo-Davidsonian Discourse Units_     
-Sizhe Zhou, Yanzhen Shen, Siru Ouyang, Yuyang Bai, Yiheng Shu, **Yu Zhang**, Jiawei Han.     
+Sizhe Zhou, Yanzhen Shen, Siru Ouyang, Yuyang Bai, Yiheng Shu, **Yu Zhang**, and Jiawei Han.     
 [Findings of EMNLP 2026](https://2026.emnlp.org). Budapest, Hungary.
 
 _Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Generation (RAG)_ [[PDF](papers/kdd26qi.pdf)] [[arXiv](https://www.arxiv.org/abs/2602.09319)] [[code](https://github.com/charlieqi02/RAG-Knowledge-Extraction-Attack-and-Defense-Benchmark)]     
