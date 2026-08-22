@@ -371,16 +371,16 @@ March 2024, Keynote at the Machine Learning on Graphs (MLoG) Workshop at WSDM 20
 ACL 2026; EMNLP 2025-2026
 
 **Conference Area Chair**        
-KDD 2025-2027; NeurIPS 2025-2026; ACL 2025
+KDD 2025-2027; NeurIPS 2025-2026; ACL 2025; AAAI 2027 (Senior PC)
 
 **Conference Reviewer**        
 KDD 2022-2025; WWW 2022-2026; WSDM 2023-2025;      
 CIKM 2021-2024; SDM 2024; ECML/PKDD 2022;           
-NeurIPS 2021-2022, 2024; ICML 2022-2025; ICLR 2021-2025; AAAI 2022, 2027 (Senior);         
+NeurIPS 2021-2022, 2024; ICML 2022-2025; ICLR 2021-2025; AAAI 2022;         
 ACL 2021, 2023; EMNLP 2020, 2022-2024; NAACL 2021-2022; COLING 2022         
 
 **Journal Reviewer**         
-TPAMI; TKDE; TOIS; TKDD; Bioinformatics; TWEB; TASLP; TBD; TCBB
+TPAMI; TKDE; TOIS; TKDD; Bioinformatics; TIST; TWEB; TASLP; TBD; TCBB
 
 **Workshop Co-Organizer**     
 SKnowLLM@KDD 2025; MLoG-GenAI@KDD 2025; SURGeLLM@ACL 2026
