@@ -79,7 +79,7 @@ Hangxiao Zhu, Yian Yin\#, and **Yu Zhang\#**.
 [arXiv:2509.16831](https://arxiv.org/abs/2509.16831).
 
 ### In Press
-_Improving Scientific Document Retrieval with Academic Concept Index_     
+_Improving Scientific Document Retrieval with Academic Concept Index_ [[arXiv](https://arxiv.org/abs/2601.00567)]     
 Jeyun Lee, Junhyoung Lee, Wonbin Kweon, Bowen Jin, **Yu Zhang**, Susik Yoon, Dongha Lee, Hwanjo Yu, Jiawei Han, and SeongKu Kang.     
 [ACM TIST](https://dl.acm.org/journal/tist). (<span style="color:#ad1457; font-weight:bold;">"Best Papers of WSDM 2025" Special Issue</span>)
 
