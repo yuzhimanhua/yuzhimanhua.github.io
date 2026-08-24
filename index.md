@@ -93,7 +93,7 @@ Haoxiang Zhang, Qixin Xu, Zhuofeng Li, Lei Zhang, Pengcheng Jiang, **Yu Zhang\#*
 [EMNLP 2026](https://2026.emnlp.org). Budapest, Hungary.
 
 _Building Long-Term LLM Memory with Neo-Davidsonian Discourse Units_     
-Sizhe Zhou, Yanzhen Shen, Siru Ouyang, Yuyang Bai, Yiheng Shu, **Yu Zhang**, and Jiawei Han.     
+Sizhe Zhou, Yanzhen Shen, Siru Ouyang, Yuyang Bai, Yiheng Shu, **Yu Zhang\#**, and Jiawei Han\#.     
 [Findings of EMNLP 2026](https://2026.emnlp.org). Budapest, Hungary.
 
 _Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Generation (RAG)_ [[PDF](papers/kdd26qi.pdf)] [[arXiv](https://www.arxiv.org/abs/2602.09319)] [[code](https://github.com/charlieqi02/RAG-Knowledge-Extraction-Attack-and-Defense-Benchmark)]     
@@ -379,8 +379,11 @@ CIKM 2021-2024; SDM 2024; ECML/PKDD 2022;
 NeurIPS 2021-2022, 2024; ICML 2022-2025; ICLR 2021-2025; AAAI 2022;         
 ACL 2021, 2023; EMNLP 2020, 2022-2024; NAACL 2021-2022; COLING 2022         
 
+**Journal Associate Editor**         
+ACM CSUR
+
 **Journal Reviewer**         
-TPAMI; TKDE; TOIS; TKDD; Bioinformatics; TIST; TWEB; TASLP; TBD; TCBB
+IEEE TPAMI; IEEE TKDE; ACM TOIS; ACM TKDD; Bioinformatics; ACM TIST; ACM TWEB; IEEE/ACM TASLP; IEEE TBD; IEEE TCBB
 
 **Workshop Co-Organizer**     
 SKnowLLM@KDD 2025; MLoG-GenAI@KDD 2025; SURGeLLM@ACL 2026
