@@ -78,21 +78,20 @@ _Survivors, Complainers, and Borderliners: Upward Bias in Online Discussions of 
 Hangxiao Zhu, Yian Yin\#, and **Yu Zhang\#**.     
 [arXiv:2509.16831](https://arxiv.org/abs/2509.16831).
 
-### In Press
-_Improving Scientific Document Retrieval with Academic Concept Index_ [[arXiv](https://arxiv.org/abs/2601.00567)]     
+### 2026
+_Improving Scientific Document Retrieval with Academic Concept Index_ [[PDF](https://doi.org/10.1145/3844616)] [[arXiv](https://arxiv.org/abs/2601.00567)]     
 Jeyun Lee, Junhyoung Lee, Wonbin Kweon, Bowen Jin, **Yu Zhang**, Susik Yoon, Dongha Lee, Hwanjo Yu, Jiawei Han, and SeongKu Kang.     
 [ACM TIST](https://dl.acm.org/journal/tist). (<span style="color:#ad1457; font-weight:bold;">"Best Papers of WSDM 2025" Special Issue</span>)
 
-### 2026
-_OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis_ [[arXiv](https://arxiv.org/abs/2603.20278)] [[code](https://github.com/TIGER-AI-Lab/OpenResearcher)] [[model](https://huggingface.co/OpenResearcher/OpenResearcher-30B-A3B)] [[dataset](https://huggingface.co/datasets/OpenResearcher/OpenResearcher-Dataset)]     
+_OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis_ [[PDF](papers/emnlp26li.pdf)] [[arXiv](https://arxiv.org/abs/2603.20278)] [[code](https://github.com/TIGER-AI-Lab/OpenResearcher)] [[model](https://huggingface.co/OpenResearcher/OpenResearcher-30B-A3B)] [[dataset](https://huggingface.co/datasets/OpenResearcher/OpenResearcher-Dataset)]     
 Zhuofeng Li, Dongfu Jiang, Xueguang Ma, Haoxiang Zhang, Ping Nie, Yuyu Zhang, Kai Zou, Jianwen Xie, **Yu Zhang\#**, and Wenhu Chen\#.     
 [EMNLP 2026](https://2026.emnlp.org). Budapest, Hungary. [![Stars](https://img.shields.io/github/stars/TIGER-AI-Lab/OpenResearcher?style=social)]()
 
-_Masking Stale Observations Helps Search Agents -- Until It Doesn't: A Regime Map and Its Mechanism_ [[arXiv](https://arxiv.org/abs/2606.00408)] [[code](https://github.com/i-DeepSearch/observation-masking)]     
+_Masking Stale Observations Helps Search Agents -- Until It Doesn't: A Regime Map and Its Mechanism_ [[PDF](papers/emnlp26zhang.pdf)] [[arXiv](https://arxiv.org/abs/2606.00408)] [[code](https://github.com/i-DeepSearch/observation-masking)]     
 Haoxiang Zhang, Qixin Xu, Zhuofeng Li, Lei Zhang, Pengcheng Jiang, **Yu Zhang\#**, and Julian McAuley\#.     
 [EMNLP 2026](https://2026.emnlp.org). Budapest, Hungary.
 
-_Building Long-Term LLM Memory with Neo-Davidsonian Discourse Units_     
+_Building Long-Term LLM Memory with Neo-Davidsonian Discourse Units_ [[PDF](papers/emnlp26findings.pdf)] [[code](https://github.com/KevinSRR/EMem)]     
 Sizhe Zhou\#, Yanzhen Shen, Siru Ouyang, Yuyang Bai, Yiheng Shu, **Yu Zhang\#**, and Jiawei Han.     
 [Findings of EMNLP 2026](https://2026.emnlp.org). Budapest, Hungary.
 
@@ -100,7 +99,7 @@ _Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Gen
 Zhisheng Qi, Utkarsh Sahu, Li Ma, Haoyu Han, Ryan Rossi, Franck Dernoncourt, Mahantesh Halappanavar, Nesreen Ahmed, Yushun Dong, Yue Zhao, **Yu Zhang**, and Yu Wang.     
 [KDD 2026](https://kdd2026.kdd.org). Jeju, Korea. (Datasets and Benchmarks Track)
 
-_MemeBridge: A Dataset for Benchmarking and Mitigating the Bidirectional Cultural Gap in Meme Interpretation_ [[PDF](papers/kdd26zhu.pdf)]     
+_MemeBridge: A Dataset for Benchmarking and Mitigating the Bidirectional Cultural Gap in Meme Interpretation_ [[PDF](papers/kdd26zhu.pdf)] [[project page](https://flypig23.github.io/memebridge-homepage)]     
 Hangxiao Zhu, Suliu Qin, Zhuoyan Li, Ming Jiang, **Yu Zhang**, and Meng Xia.     
 [KDD 2026](https://kdd2026.kdd.org). Jeju, Korea. (Datasets and Benchmarks Track)
 
