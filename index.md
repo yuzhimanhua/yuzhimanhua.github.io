@@ -99,7 +99,7 @@ _Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Gen
 Zhisheng Qi, Utkarsh Sahu, Li Ma, Haoyu Han, Ryan Rossi, Franck Dernoncourt, Mahantesh Halappanavar, Nesreen Ahmed, Yushun Dong, Yue Zhao, **Yu Zhang**, and Yu Wang.     
 [KDD 2026](https://kdd2026.kdd.org). Jeju, Korea. (Datasets and Benchmarks Track)
 
-_MemeBridge: A Dataset for Benchmarking and Mitigating the Bidirectional Cultural Gap in Meme Interpretation_ [[PDF](papers/kdd26zhu.pdf)] [[project page](https://flypig23.github.io/memebridge-homepage)]     
+_MemeBridge: A Dataset for Benchmarking and Mitigating the Bidirectional Cultural Gap in Meme Interpretation_ [[PDF](papers/kdd26zhu.pdf)] [[arXiv](https://arxiv.org/abs/2609.00491)] [[project page](https://flypig23.github.io/memebridge-homepage)]     
 Hangxiao Zhu, Suliu Qin, Zhuoyan Li, Ming Jiang, **Yu Zhang**, and Meng Xia.     
 [KDD 2026](https://kdd2026.kdd.org). Jeju, Korea. (Datasets and Benchmarks Track)
 
