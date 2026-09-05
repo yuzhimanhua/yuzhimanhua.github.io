@@ -36,7 +36,7 @@ Spring 2025: CSCE 689 - SPTP: NLP for Science
 
 2026-07-07 Honored to be selected as one of the [Outstanding Senior Area Chairs](awards/ACL26_Outstanding_SAC.pdf) by [ACL 2026](https://2026.aclweb.org)!
 
-2026-07-03 Selected for the [OpenAI Researcher Access Program](https://openai.com/form/researcher-access-program).
+2026-07-03 Selected for the [OpenAI Researcher Access Program](https://openai.com/form/researcher-access-program)!
 
 2026-07-02 Attended [ACL 2026](https://2026.aclweb.org) in San Diego, CA.
 
