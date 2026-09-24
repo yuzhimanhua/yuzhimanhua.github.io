@@ -68,10 +68,6 @@ _Dr-DCI: Scaling Direct Corpus Interaction via Dynamic Workspace Expansion_ [[ar
 Yi Lu, Zhuofeng Li, Ping Nie, Haoxiang Zhang, Yuyu Zhang, Kai Zou, Wenhu Chen, Jimmy Lin, Dongfu Jiang\#, and **Yu Zhang\#**.     
 [arXiv:2606.14885](https://arxiv.org/abs/2606.14885).
 
-_Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction_ [[arXiv](https://arxiv.org/abs/2605.05242)] [[code](https://github.com/DCI-Agent/DCI-Agent-Lite)] [[VentureBeat](https://venturebeat.com/orchestration/your-ai-agents-need-a-terminal-not-just-a-vector-database)]     
-Zhuofeng Li, Haoxiang Zhang, Cong Wei, Pan Lu, Ping Nie, Yi Lu, Yuyang Bai, Shangbin Feng, Hangxiao Zhu, Ming Zhong, Yuyu Zhang, Jianwen Xie, Yejin Choi, James Zou, Jiawei Han, Wenhu Chen, Jimmy Lin, Dongfu Jiang\#, and **Yu Zhang\#**.     
-[arXiv:2605.05242](https://arxiv.org/abs/2605.05242). [![Stars](https://img.shields.io/github/stars/DCI-Agent/DCI-Agent-Lite?style=social)]()
-
 _GraphDancer: Training LLMs to Explore and Reason over Graphs via Two-Stage Curriculum Post-Training_ [[arXiv](https://arxiv.org/abs/2602.02518)] [[project page](https://yuyangbai.com/graphdancer)] [[code](https://github.com/leopoldwhite/GraphDancer)] [[model](https://huggingface.co/collections/yuyangbai/graphdancer)]     
 Yuyang Bai, Zhuofeng Li, Ping Nie, Yu Wang, Jianwen Xie, and **Yu Zhang**.     
 [arXiv:2602.02518](https://arxiv.org/abs/2602.02518).
@@ -81,6 +77,10 @@ Hangxiao Zhu, Yian Yin\#, and **Yu Zhang\#**.
 [arXiv:2509.16831](https://arxiv.org/abs/2509.16831).
 
 ### 2026
+_Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction_ [[arXiv](https://arxiv.org/abs/2605.05242)] [[code](https://github.com/DCI-Agent/DCI-Agent-Lite)] [[VentureBeat](https://venturebeat.com/orchestration/your-ai-agents-need-a-terminal-not-just-a-vector-database)]     
+Zhuofeng Li, Haoxiang Zhang, Cong Wei, Pan Lu, Ping Nie, Yi Lu, Yuyang Bai, Shangbin Feng, Hangxiao Zhu, Ming Zhong, Yuyu Zhang, Jianwen Xie, Yejin Choi, James Zou, Jiawei Han, Wenhu Chen, Jimmy Lin, Dongfu Jiang\#, and **Yu Zhang\#**.     
+[NeurIPS 2026](https://neurips.cc/Conferences/2026). Sydney, Australia. [![Stars](https://img.shields.io/github/stars/DCI-Agent/DCI-Agent-Lite?style=social)]()
+
 _Improving Scientific Document Retrieval with Academic Concept Index_ [[PDF](https://doi.org/10.1145/3844616)] [[arXiv](https://arxiv.org/abs/2601.00567)]     
 Jeyun Lee, Junhyoung Lee, Wonbin Kweon, Bowen Jin, **Yu Zhang**, Susik Yoon, Dongha Lee, Hwanjo Yu, Jiawei Han, and SeongKu Kang.     
 [ACM TIST](https://dl.acm.org/journal/tist). (<span style="color:#ad1457; font-weight:bold;">"Best Papers of WSDM 2025" Special Issue</span>)
