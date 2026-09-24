@@ -30,6 +30,8 @@ Spring 2025: CSCE 689 - SPTP: NLP for Science
 ## What's New [[What's Not New...](old.md)]
 2026-07 to 2026-12 Invited to be a PC member of [KDD 2027](https://kdd2027.kdd.org) (Area Chair) and [AAAI 2027](https://aaai.org/conference/aaai/aaai-27) (Senior Program Committee).
 
+2026-09-24 One paper got accepted by [NeurIPS 2026](https://neurips.cc/Conferences/2026) and was selected for a spotlight presentation (top 1.3% of all submissions; 112 Orals + 292 Spotlights out of 30,709 submissions).
+
 2026-09-05 Selected for the [NVIDIA Academic Grant Program](https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program)!
 
 2026-08-20 Three papers got accepted by [EMNLP 2026](https://2026.emnlp.org) (2 main conference + 1 findings)! The acceptance rate is 15.4% for main conference papers and 14.3% for findings papers.
@@ -79,7 +81,7 @@ Hangxiao Zhu, Yian Yin\#, and **Yu Zhang\#**.
 ### 2026
 _Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction_ [[arXiv](https://arxiv.org/abs/2605.05242)] [[code](https://github.com/DCI-Agent/DCI-Agent-Lite)] [[VentureBeat](https://venturebeat.com/orchestration/your-ai-agents-need-a-terminal-not-just-a-vector-database)]     
 Zhuofeng Li, Haoxiang Zhang, Cong Wei, Pan Lu, Ping Nie, Yi Lu, Yuyang Bai, Shangbin Feng, Hangxiao Zhu, Ming Zhong, Yuyu Zhang, Jianwen Xie, Yejin Choi, James Zou, Jiawei Han, Wenhu Chen, Jimmy Lin, Dongfu Jiang\#, and **Yu Zhang\#**.     
-[NeurIPS 2026](https://neurips.cc/Conferences/2026). Sydney, Australia. [![Stars](https://img.shields.io/github/stars/DCI-Agent/DCI-Agent-Lite?style=social)]()
+[NeurIPS 2026](https://neurips.cc/Conferences/2026). Sydney, Australia. (<span style="color:#ad1457; font-weight:bold;">Spotlight</span>) [![Stars](https://img.shields.io/github/stars/DCI-Agent/DCI-Agent-Lite?style=social)]()
 
 _Improving Scientific Document Retrieval with Academic Concept Index_ [[PDF](https://doi.org/10.1145/3844616)] [[arXiv](https://arxiv.org/abs/2601.00567)]     
 Jeyun Lee, Junhyoung Lee, Wonbin Kweon, Bowen Jin, **Yu Zhang**, Susik Yoon, Dongha Lee, Hwanjo Yu, Jiawei Han, and SeongKu Kang.     
