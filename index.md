@@ -32,6 +32,8 @@ Spring 2025: CSCE 689 - SPTP: NLP for Science
 
 2026-09-24 One paper got accepted by [NeurIPS 2026](https://neurips.cc/Conferences/2026) and was selected for a spotlight presentation (top 1.3% of all submissions; 112 Orals + 292 Spotlights out of 30,709 submissions).
 
+2026-09-09 Selected for the [Anthropic AI for Science Program](https://www.anthropic.com/news/ai-for-science-program)!
+
 2026-09-05 Selected for the [NVIDIA Academic Grant Program](https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program)!
 
 2026-08-20 Three papers got accepted by [EMNLP 2026](https://2026.emnlp.org) (2 main conference + 1 findings)! The acceptance rate is 15.4% for main conference papers and 14.3% for findings papers.
@@ -345,6 +347,7 @@ Qi Zhu, Xiusi Chen, **Yu Zhang**, Soji Adeshina, Costas Mavromatis, Zhen Han, Va
 ## Honors and Awards
 Best/Outstanding Reviewer, [ACL 2026](awards/ACL26_Outstanding_SAC.pdf) (as Senior Area Chair), EMNLP 2024, [KDD 2023](awards/KDD23_Best_Reviewer.pdf), WWW 2023, CIKM 2022
 
+Anthropic AI for Science Program, 2026
 NVIDIA Academic Grant, 2026     
 OpenAI Researcher Access Program, 2026     
 ACM SIGKDD Dissertation Award Runner-Up, [2025](awards/KDD25_Dissertation_Runner_Up.html)     
