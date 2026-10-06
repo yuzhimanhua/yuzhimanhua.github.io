@@ -7,7 +7,7 @@
 
 2025-11-01 One tutorial proposal got accepted by [WSDM 2026](https://wsdm-conference.org/2026) tutorial track!
 
-2025-10-30 Gave a guest lecture at Auburn University.
+2025-10-30 Gave a guest lecture (virtually) at Auburn University.
 
 2025-10-08 Our [paper](papers/wsdm25.pdf) on Scientific Document Retrieval was selected as one of the top-ranked papers published at [WSDM 2025](https://www.wsdm-conference.org/2025) and invited to [ACM TIST](https://dl.acm.org/journal/tist) Special Issue on "Best Papers of WSDM 2025"!
 
@@ -56,7 +56,7 @@
 
 2024-05-16 Our paper on Graph Chain-of-Thought Prompting was accepted by [ACL 2024 Findings](https://2024.aclweb.org)!
 
-2024-05-15 Gave a guest lecture at Northwestern University.
+2024-05-15 Gave a guest lecture (virtually) at Northwestern University.
 
 2024-03 Attended [WSDM 2024](https://www.wsdm-conference.org/2024) in Mérida, Mexico to present our tutorial and give a keynote at the [Machine Learning on Graphs (MLoG) Workshop](https://mlog-workshop.github.io).
 

@@ -30,6 +30,8 @@ Spring 2025: CSCE 689 - SPTP: NLP for Science
 ## What's New [[What's Not New...](old.md)]
 2026-07 to 2026-12 Invited to be a PC member of [KDD 2027](https://kdd2027.kdd.org) (Area Chair) and [AAAI 2027](https://aaai.org/conference/aaai/aaai-27) (Senior Program Committee).
 
+2026-10-05 Gave a guest lecture (virtually) at York University.
+
 2026-09-24 One paper got accepted by [NeurIPS 2026](https://neurips.cc/Conferences/2026) and was selected for a spotlight presentation (top 1.3% of all submissions; 112 Orals + 292 Spotlights out of 30,709 submissions).
 
 2026-09-09 Selected for the [Anthropic AI for Science Program](https://www.anthropic.com/news/ai-for-science-program)!
@@ -50,7 +52,7 @@ Spring 2025: CSCE 689 - SPTP: NLP for Science
 
 2026-05-17 Two papers got accepted by [KDD 2026](https://2026.aclweb.org) Datasets and Benchmarks Track! The acceptance rate is about 29%.
 
-2026-04-14 Gave a guest lecture at Virginia Tech.
+2026-04-14 Gave a guest lecture (virtually) at Virginia Tech.
 
 2026-04-06 Two papers got accepted by [ACL 2026](https://2026.aclweb.org) (1 main conference + 1 findings)! The acceptance rate is about 19% for main conference papers and about 18% for findings papers.
 
@@ -361,17 +363,18 @@ China National Scholarship (_top 1% in Peking University_), [2014](awards/China_
 
 ## Invited Talks
 **Assisting Scientific Research with Structure-Aware Large Language Models**     
-April 2026, Guest Lecture (CS 5624) at Virginia Tech.     
-March 2026, Guest Lecture (CSCE 681) at Texas A&M University.     
-February 2026, Guest Lecture (SPMT 689) at Texas A&M University.     
-October 2025, Guest Lecture (COMP 5970/6970) at Auburn University.     
+October 2026, Guest Lecture at York University (EECS 1001, Virtual).     
+April 2026, Guest Lecture at Virginia Tech (CS 5624, Virtual).     
+March 2026, Guest Lecture at Texas A&M University (CSCE 681).     
+February 2026, Guest Lecture at Texas A&M University (SPMT 689).     
+October 2025, Guest Lecture at Auburn University (COMP 5970/6970, Virtual).     
 April 2025, Invited Talk at the University of Kansas.
 
 **Graph-Enhanced Scientific Text Mining**     
 August 2025, ACM SIGKDD Dissertation Award talk at KDD 2025.     
 December 2024, Invited Talk at the LoG 2024 Seattle Meetup.      
-November 2024, Guest Lecture (CSE 427) at the University of Washington.      
-May 2024, Guest Lecture (STAT 359) at Northwestern University.      
+November 2024, Guest Lecture at the University of Washington (CSE 427).      
+May 2024, Guest Lecture at Northwestern University (STAT 359, Virtual).      
 March 2024, Keynote at the Machine Learning on Graphs (MLoG) Workshop at WSDM 2024.
 
 ## Professional Services
