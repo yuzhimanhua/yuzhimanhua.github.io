@@ -21,6 +21,7 @@ My group primarily works on <span style="color:#ad1457;">data mining</span>, <sp
 - <span style="color:#ad1457;">Applications in Science</span> (e.g., science of science, biomedicine, and materials science)
 
 ## Teaching
+Spring 2027: CSCE 470 - Information Storage and Retrieval     
 Fall 2026: [CSCE 670 - Information Storage and Retrieval](https://yuzhang-teaching.github.io/CSCE670-F26.html)     
 Fall 2026: ENGR 689 - SPTP: Multimodal LLM Agents (Sprint Course, with Prof. Cheng Zhang)     
 Spring 2026: CSCE 670 - Information Storage and Retrieval     
@@ -28,7 +29,7 @@ Fall 2025: CSCE 670 - Information Storage and Retrieval
 Spring 2025: CSCE 689 - SPTP: NLP for Science
 
 ## What's New [[What's Not New...](old.md)]
-2026-07 to 2026-12 Invited to be a PC member of [KDD 2027](https://kdd2027.kdd.org) (Area Chair) and [AAAI 2027](https://aaai.org/conference/aaai/aaai-27) (Senior Program Committee).
+2026-07 to 2026-12 Invited to be a PC member of [KDD 2027](https://kdd2027.kdd.org) (Area Chair), [AAAI 2027](https://aaai.org/conference/aaai/aaai-27) (Senior Program Committee), and [WWW 2027](https://www2027.thewebconf.org) (Area Chair).
 
 2026-10-05 Gave a guest lecture (virtually) at York University.
 
@@ -382,7 +383,7 @@ March 2024, Keynote at the Machine Learning on Graphs (MLoG) Workshop at WSDM 20
 ACL 2026; EMNLP 2025-2026
 
 **Conference Area Chair**        
-KDD 2025-2027; NeurIPS 2025-2026; ACL 2025; AAAI 2027 (Senior PC)
+KDD 2025-2027; WWW 2027; NeurIPS 2025-2026; ACL 2025; AAAI 2027 (Senior PC)
 
 **Conference Reviewer**        
 KDD 2022-2025; WWW 2022-2026; WSDM 2023-2025;      
