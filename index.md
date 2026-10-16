@@ -67,6 +67,10 @@ Spring 2025: CSCE 689 - SPTP: NLP for Science
 #### ("\*" indicates co-first authors. "\#" indicates co-corresponding authors. Unless otherwise specified, the paper is accepted as a research track long/regular paper.)
 
 ### Preprint
+_Knowledge Graphs as Files: An Agent Harness Where Tool Creation and Tool Use Co-Evolve_ [[arXiv](https://arxiv.org/abs/2610.18616)] [[code](https://github.com/leopoldwhite/DKGI)] [[project page](https://yuyangbai.com/dkgi)] [[dataset](https://huggingface.co/collections/yuyangbai/dkgi)]     
+Yuyang Bai, Yu Wang, and **Yu Zhang**.     
+[arXiv:2610.18616](https://arxiv.org/abs/2610.18616).
+
 _Filesystem-Based Memory for LLM Agents: Organization, Evolution, and Sustainability_ [[arXiv](https://arxiv.org/abs/2607.26637)]     
 Sizhe Zhou, Sheldon Yu, Hui Wei, Junda Wu, Siru Ouyang, Yizhu Jiao, Shijia Pan, Julian McAuley, **Yu Zhang**, Tong Yu, and Jiawei Han.     
 [arXiv:2607.26637](https://arxiv.org/abs/2607.26637).
