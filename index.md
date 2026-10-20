@@ -29,7 +29,7 @@ Fall 2025: CSCE 670 - Information Storage and Retrieval
 Spring 2025: CSCE 689 - SPTP: NLP for Science
 
 ## What's New [[What's Not New...](old.md)]
-2026-07 to 2026-12 Invited to be a PC member of [KDD 2027](https://kdd2027.kdd.org) (Area Chair), [AAAI 2027](https://aaai.org/conference/aaai/aaai-27) (Senior Program Committee), and [WWW 2027](https://www2027.thewebconf.org) (Area Chair).
+2026-07 to 2026-12 Invited to be a PC member of [KDD 2027](https://kdd2027.kdd.org) (Area Chair), [AAAI 2027](https://aaai.org/conference/aaai/aaai-27) (Senior Program Committee), [WWW 2027](https://www2027.thewebconf.org) (Area Chair), and [ACL 2027](https://2027.aclweb.org) (Senior Area Chair).
 
 2026-10-05 Gave a guest lecture (virtually) at York University.
 
@@ -384,7 +384,7 @@ March 2024, Keynote at the Machine Learning on Graphs (MLoG) Workshop at WSDM 20
 
 ## Professional Services
 **Conference Senior Area Chair**        
-ACL 2026; EMNLP 2025-2026
+ACL 2026-2027; EMNLP 2025-2026
 
 **Conference Area Chair**        
 KDD 2025-2027; WWW 2027; NeurIPS 2025-2026; ACL 2025; AAAI 2027 (Senior PC)
