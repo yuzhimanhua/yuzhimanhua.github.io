@@ -71,6 +71,10 @@ _Knowledge Graphs as Files: An Agent Harness Where Tool Creation and Tool Use Co
 Yuyang Bai, Yu Wang, and **Yu Zhang**.     
 [arXiv:2610.18616](https://arxiv.org/abs/2610.18616).
 
+_Co-Adaptive Rule Routing and Constraining for Structured Knowledge Retrieval_ [[arXiv](https://arxiv.org/abs/2610.14465)]     
+Zhisheng Qi, Haoyu Han, Jiaxi Li, Bing He, Huiyuan Chen, Franck Dernoncourt, Ryan Rossi, Mahantesh Halappanavar, Jin Lu, **Yu Zhang**, Tianming Liu, Yu Wang.     
+[arXiv:2610.14465](https://arxiv.org/abs/2610.14465).
+
 _Filesystem-Based Memory for LLM Agents: Organization, Evolution, and Sustainability_ [[arXiv](https://arxiv.org/abs/2607.26637)]     
 Sizhe Zhou, Sheldon Yu, Hui Wei, Junda Wu, Siru Ouyang, Yizhu Jiao, Shijia Pan, Julian McAuley, **Yu Zhang**, Tong Yu, and Jiawei Han.     
 [arXiv:2607.26637](https://arxiv.org/abs/2607.26637).
