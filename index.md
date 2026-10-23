@@ -67,6 +67,10 @@ Spring 2025: CSCE 689 - SPTP: NLP for Science
 #### ("\*" indicates co-first authors. "\#" indicates co-corresponding authors. Unless otherwise specified, the paper is accepted as a research track long/regular paper.)
 
 ### Preprint
+_CiteAnchor: Source-Aware Grounding for Hallucinated Citation Detection and Resolution_ [[arXiv](https://arxiv.org/abs/2610.30355)] [[code](https://github.com/oldwizard7/CiteANCHOR_code)] [[project page](https://oldwizard7.github.io/CiteANCHOR_website)] [[dataset](https://huggingface.co/datasets/cheney777/CiteResolve)]     
+Chenyi Tong, Ping Nie, and **Yu Zhang**.     
+[arXiv:2610.30355](https://arxiv.org/abs/2610.30355).
+
 _Knowledge Graphs as Files: An Agent Harness Where Tool Creation and Tool Use Co-Evolve_ [[arXiv](https://arxiv.org/abs/2610.18616)] [[code](https://github.com/leopoldwhite/DKGI)] [[project page](https://yuyangbai.com/dkgi)] [[dataset](https://huggingface.co/collections/yuyangbai/dkgi)]     
 Yuyang Bai, Yu Wang, and **Yu Zhang**.     
 [arXiv:2610.18616](https://arxiv.org/abs/2610.18616).
@@ -92,7 +96,7 @@ Hangxiao Zhu, Yian Yin\#, and **Yu Zhang\#**.
 [arXiv:2509.16831](https://arxiv.org/abs/2509.16831).
 
 ### 2026
-_Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction_ [[arXiv](https://arxiv.org/abs/2605.05242)] [[code](https://github.com/DCI-Agent/DCI-Agent-Lite)] [[VentureBeat](https://venturebeat.com/orchestration/your-ai-agents-need-a-terminal-not-just-a-vector-database)]     
+_Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction_ [[PDF](papers/neurips26.pdf)] [[arXiv](https://arxiv.org/abs/2605.05242)] [[code](https://github.com/DCI-Agent/DCI-Agent-Lite)] [[VentureBeat](https://venturebeat.com/orchestration/your-ai-agents-need-a-terminal-not-just-a-vector-database)]     
 Zhuofeng Li, Haoxiang Zhang, Cong Wei, Pan Lu, Ping Nie, Yi Lu, Yuyang Bai, Shangbin Feng, Hangxiao Zhu, Ming Zhong, Yuyu Zhang, Jianwen Xie, Yejin Choi, James Zou, Jiawei Han, Wenhu Chen, Jimmy Lin, Dongfu Jiang\#, and **Yu Zhang\#**.     
 [NeurIPS 2026](https://neurips.cc/Conferences/2026). Sydney, Australia. (<span style="color:#ad1457; font-weight:bold;">Spotlight</span>) [![Stars](https://img.shields.io/github/stars/DCI-Agent/DCI-Agent-Lite?style=social)]()
 
