@@ -76,7 +76,7 @@ Yuyang Bai, Yu Wang, and **Yu Zhang**.
 [arXiv:2610.18616](https://arxiv.org/abs/2610.18616).
 
 _Co-Adaptive Rule Routing and Constraining for Structured Knowledge Retrieval_ [[arXiv](https://arxiv.org/abs/2610.14465)]     
-Zhisheng Qi, Haoyu Han, Jiaxi Li, Bing He, Huiyuan Chen, Franck Dernoncourt, Ryan Rossi, Mahantesh Halappanavar, Jin Lu, **Yu Zhang**, Tianming Liu, Yu Wang.     
+Zhisheng Qi, Haoyu Han, Jiaxi Li, Bing He, Huiyuan Chen, Franck Dernoncourt, Ryan Rossi, Mahantesh Halappanavar, Jin Lu, **Yu Zhang**, Tianming Liu, and Yu Wang.     
 [arXiv:2610.14465](https://arxiv.org/abs/2610.14465).
 
 _Filesystem-Based Memory for LLM Agents: Organization, Evolution, and Sustainability_ [[arXiv](https://arxiv.org/abs/2607.26637)]     
@@ -87,8 +87,8 @@ _Dr-DCI: Scaling Direct Corpus Interaction via Dynamic Workspace Expansion_ [[ar
 Yi Lu, Zhuofeng Li, Ping Nie, Haoxiang Zhang, Yuyu Zhang, Kai Zou, Wenhu Chen, Jimmy Lin, Dongfu Jiang\#, and **Yu Zhang\#**.     
 [arXiv:2606.14885](https://arxiv.org/abs/2606.14885).
 
-_GraphDancer: Training LLMs to Explore and Reason over Graphs via Two-Stage Curriculum Post-Training_ [[arXiv](https://arxiv.org/abs/2602.02518)] [[project page](https://yuyangbai.com/graphdancer)] [[code](https://github.com/leopoldwhite/GraphDancer)] [[model](https://huggingface.co/collections/yuyangbai/graphdancer)]     
-Yuyang Bai, Zhuofeng Li, Ping Nie, Yu Wang, Jianwen Xie, and **Yu Zhang**.     
+_GraphDancer: Training LLMs to Explore and Reason over Graphs via Curriculum Reinforcement Learning_ [[arXiv](https://arxiv.org/abs/2602.02518)] [[project page](https://yuyangbai.com/graphdancer)] [[code](https://github.com/leopoldwhite/GraphDancer)] [[model](https://huggingface.co/collections/yuyangbai/graphdancer)]     
+Yuyang Bai, Zhuofeng Li, Ping Nie, Jianwen Xie, Yu Wang, and **Yu Zhang**.     
 [arXiv:2602.02518](https://arxiv.org/abs/2602.02518).
 
 _Survivors, Complainers, and Borderliners: Upward Bias in Online Discussions of Academic Conference Reviews_ [[arXiv](https://arxiv.org/abs/2509.16831)]     
